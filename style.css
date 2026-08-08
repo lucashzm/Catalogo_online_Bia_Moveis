@@ -179,3 +179,10 @@ body {
     min-height: 150px;
   }
 }
+.subtitulo {
+  margin: 12px 0 30px;
+  font-family: Georgia, serif;
+  font-size: 30px;
+  font-style: italic;
+  color: #444;
+}

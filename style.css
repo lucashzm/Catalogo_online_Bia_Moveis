@@ -5,139 +5,162 @@ body {
   padding: 20px;
 }
 
-/* CABEÇALHO */
+/* =========================
+   CABEÇALHO
+   ========================= */
 
 .cabecalho {
-  max-width: 1200px;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 45px 40px 40px;
-
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 60px;
-
-  align-items: center;
+  padding: 40px 20px 20px;
 }
-
-/* LADO ESQUERDO */
 
 .informacoes {
   text-align: left;
 }
 
-.informacoes h1 {
+h1 {
   margin: 0;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 58px;
-  line-height: 1.02;
-  font-weight: 700;
+  font-size: 56px;
+  line-height: 1;
 }
 
-.informacoes h1 span {
+h1 span {
   display: block;
 }
 
-/* "Móveis que" em preto */
-
-.informacoes h1 span:first-child {
+h1 span:first-child {
   color: #222;
 }
 
-/* "Transformam" em marrom */
-
-.informacoes h1 span:last-child {
+h1 span:last-child {
   color: #a65f1b;
   font-style: italic;
 }
 
-/* SUBTÍTULO */
-
 .subtitulo {
-  margin: 12px 0 30px;
-
-  font-family: Georgia, serif;
-  font-size: 30px;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 24px;
   font-style: italic;
-
   color: #444;
+  max-width: 500px;
+  margin: 18px 0;
 }
-
-/* DESTAQUES */
 
 .destaques {
   display: flex;
   gap: 35px;
-  align-items: center;
+  margin-top: 25px;
+  font-weight: bold;
+  color: #222;
 }
 
 .destaques div {
-  font-size: 17px;
-  color: #444;
-  font-weight: bold;
-}
-
-/* ESPAÇO PARA A LOGO */
-
-.logo {
-  min-height: 250px;
-
   display: flex;
   align-items: center;
-  justify-content: center;
+  gap: 6px;
 }
 
-/* FUTURA IMAGEM DA LOGO */
-
-.logo img {
-  max-width: 100%;
-  max-height: 240px;
-  object-fit: contain;
-}
-
-/* CATÁLOGO */
+/* =========================
+   CATÁLOGO
+   ========================= */
 
 .catalogo {
-  max-width: 1200px;
-  margin: 20px auto 0;
+  max-width: 1100px;
+  margin: 35px auto;
 }
 
 .catalogo h2 {
   text-align: center;
   color: #555;
-
-  font-family: Georgia, serif;
-  font-size: 30px;
-
-  margin: 20px 0 30px;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 28px;
+  margin-bottom: 25px;
 }
 
-/* PRODUTO */
+/* =========================
+   FILTROS
+   ========================= */
+
+.filtros {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.filtro {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 25px;
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #222;
+  transition: 0.2s;
+}
+
+.filtro:hover {
+  background-color: #f0f0f0;
+}
+
+.filtro.ativo {
+  background-color: #a65f1b;
+  color: white;
+  border-color: #a65f1b;
+}
+
+/* =========================
+   GRADE DE PRODUTOS
+   ========================= */
+
+#lista-produtos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+
+/* =========================
+   CARD DO PRODUTO
+   ========================= */
 
 .produto {
   background-color: white;
   border: 1px solid #ddd;
-
-  padding: 25px;
-  margin: 20px 0;
-
+  border-radius: 10px;
+  padding: 20px;
   text-align: center;
-  border-radius: 8px;
+  box-sizing: border-box;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.produto:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
 }
 
 .produto h3 {
-  font-size: 20px;
-  margin-top: 0;
+  font-size: 18px;
+  margin: 0 0 18px;
+  color: #222;
+  min-height: 44px;
 }
 
 .produto img {
   width: 100%;
-  max-width: 300px;
+  max-width: 260px;
+  height: 220px;
+  object-fit: cover;
   border-radius: 8px;
 }
 
 .produto p {
-  font-size: 16px;
   color: #444;
+  margin: 14px 0 8px;
+  font-size: 15px;
 }
 
 .produto strong {
@@ -145,72 +168,60 @@ body {
   font-size: 1.2em;
 }
 
-/* CELULAR */
+/* =========================
+   RESPONSIVIDADE
+   ========================= */
 
-@media (max-width: 700px) {
+/* Tablet */
+@media (max-width: 900px) {
+
+  #lista-produtos {
+    grid-template-columns: repeat(2, 1fr);
+  }
 
   .cabecalho {
-    grid-template-columns: 1fr;
-    gap: 30px;
-    padding: 30px 20px;
+    padding-top: 30px;
   }
 
-  .informacoes {
-    text-align: center;
+  h1 {
+    font-size: 48px;
+  }
+}
+
+/* Celular */
+@media (max-width: 600px) {
+
+  body {
+    padding: 12px;
   }
 
-  .informacoes h1 {
-    font-size: 44px;
+  .cabecalho {
+    padding: 25px 10px 15px;
+  }
+
+  h1 {
+    font-size: 40px;
   }
 
   .subtitulo {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   .destaques {
-    justify-content: center;
     flex-direction: column;
-    gap: 12px;
+    gap: 10px;
   }
 
-  .logo {
-    min-height: 150px;
+  .catalogo h2 {
+    font-size: 24px;
   }
-}
-/* FILTROS */
 
-.filtros {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin: 0 auto 35px;
-}
+  #lista-produtos {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
 
-.filtro {
-  background-color: white;
-  border: 1px solid #ddd;
-  color: #444;
-
-  padding: 10px 18px;
-  border-radius: 25px;
-
-  font-family: Arial, sans-serif;
-  font-size: 15px;
-  font-weight: bold;
-
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.filtro:hover {
-  border-color: #a65f1b;
-  color: #a65f1b;
-}
-
-.filtro.ativo {
-  background-color: #a65f1b;
-  border-color: #a65f1b;
-  color: white;
+  .produto img {
+    max-width: 280px;
+  }
 }

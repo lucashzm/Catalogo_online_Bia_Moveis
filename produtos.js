@@ -10,7 +10,7 @@ const produtos = [
   {
     nome: "Roupeiro Star 2P 6G Cinamomo/Off White",
     categoria: "Roupeiros",
-    imagem: "Roupeiro Star 2P6G Cinamomo/Off White.jpg",
+    imagem: "imagens/roupeiros/Roupeiro Star 2P6G Cinamomo Desligado White.jpg",
     descricao: "Roupeiro Star, Cor Cinamomo/Off White",
     preco: "R$ 953,00"
   },

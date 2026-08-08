@@ -9,3 +9,15 @@ h1 {
   text-align: center;
   color: #333;
 }
+.produto {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 20px 0;
+  text-align: center;
+}
+.produto img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+}

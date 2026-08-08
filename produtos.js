@@ -2,7 +2,7 @@ const produtos = [
   {
     nome: "Sofá Living Felicia 180 3 Lgs Linhão Nanquim",
     categoria: "Sofás",
-    imagem: "Estofado Living Felicia 180 3 Lgs Linho Inox Viero.jpg",
+    imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Linho Inox Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Tecido Linhão, Cor Nanquim",
     preco: "R$ 998,00"
   },

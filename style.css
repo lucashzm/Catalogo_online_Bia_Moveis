@@ -5,10 +5,14 @@ body {
   padding: 20px;
 }
 
-h1 {
+body h1 {
   text-align: center;
-  color: #333;
+  color: #222;
+  font-family: Georgia, serif;
+  font-size: 42px;
+  font-weight: bold;
 }
+
 .produto {
   background-color: white;
   border: 1px solid #ddd;
@@ -16,17 +20,19 @@ h1 {
   margin: 20px 0;
   text-align: center;
 }
+
 .produto img {
   width: 100%;
   max-width: 300px;
   border-radius: 8px;
 }
+
 .produto strong {
   color: green;
   font-size: 1.2em;
 }
+
 h2 {
   text-align: center;
   color: #555;
 }
-

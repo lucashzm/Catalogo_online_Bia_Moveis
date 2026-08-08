@@ -18,7 +18,7 @@ const produtos = [
   {
     nome: "Comoda Perola Fluence Plus 8G Freijo",
     categoria: "Cômodas",
-    imagem: "Comoda Perola Fluence Plus 8G Freijo.jpg",
+    imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G Freijo.jpg",
     descricao: "Cômoda Pérola Fluence Plus, Cor Freijó",
     preco: "R$ 480,00"
   }

@@ -27,10 +27,10 @@ body {
 
 .informacoes h1 {
   margin: 0;
-  font-family: Georgia, serif;
+  font-family: "Playfair Display", Georgia, serif;
   font-size: 58px;
   line-height: 1.02;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .informacoes h1 span {
@@ -42,9 +42,11 @@ body {
 }
 
 .informacoes h1 span:last-child {
-  color: #222;
+  color: #a65f1b;
   font-style: italic;
 }
+
+/* SUBTÍTULO */
 
 .subtitulo {
   margin: 12px 0 30px;
@@ -66,16 +68,8 @@ body {
 
 .destaques div {
   font-size: 17px;
-  color: #444;
-  font-weight: bold;
-}
-
-.destaques div:first-child {
   color: #a65f1b;
-}
-
-.destaques div:last-child {
-  color: #444;
+  font-weight: bold;
 }
 
 /* ESPAÇO PARA A LOGO */

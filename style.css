@@ -37,12 +37,16 @@ body {
   display: block;
 }
 
+/* "Móveis que" em preto */
+
 .informacoes h1 span:first-child {
   color: #222;
 }
 
+/* "Transformam" em marrom */
+
 .informacoes h1 span:last-child {
-  color: #444;
+  color: #a65f1b;
   font-style: italic;
 }
 
@@ -68,7 +72,7 @@ body {
 
 .destaques div {
   font-size: 17px;
-  color: #a65f1b;
+  color: #444;
   font-weight: bold;
 }
 

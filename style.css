@@ -169,15 +169,10 @@ h1 span:last-child {
 }
 
 /* =========================
-   RESPONSIVIDADE
+   TELAS MENORES
    ========================= */
 
-/* Tablet */
 @media (max-width: 900px) {
-
-  #lista-produtos {
-    grid-template-columns: repeat(2, 1fr);
-  }
 
   .cabecalho {
     padding-top: 30px;
@@ -186,42 +181,99 @@ h1 span:last-child {
   h1 {
     font-size: 48px;
   }
-}
 
-/* Celular */
-@media (max-width: 600px) {
+  #lista-produtos {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
 
-  body {
+  .produto {
     padding: 12px;
   }
 
-  .cabecalho {
-    padding: 25px 10px 15px;
-  }
-
-  h1 {
-    font-size: 40px;
-  }
-
-  .subtitulo {
-    font-size: 20px;
-  }
-
-  .destaques {
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .catalogo h2 {
-    font-size: 24px;
-  }
-
-  #lista-produtos {
-    grid-template-columns: 1fr;
-    gap: 18px;
+  .produto h3 {
+    font-size: 16px;
   }
 
   .produto img {
-    max-width: 280px;
+    height: 180px;
+  }
+}
+
+/* =========================
+   CELULAR
+   ========================= */
+
+@media (max-width: 600px) {
+
+  body {
+    padding: 8px;
+  }
+
+  .cabecalho {
+    padding: 25px 8px 15px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  .subtitulo {
+    font-size: 18px;
+  }
+
+  .destaques {
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .catalogo {
+    margin-top: 25px;
+  }
+
+  .catalogo h2 {
+    font-size: 22px;
+  }
+
+  .filtros {
+    gap: 6px;
+  }
+
+  .filtro {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  /* Mantém 3 produtos por linha */
+  #lista-produtos {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+
+  .produto {
+    padding: 8px;
+    border-radius: 8px;
+  }
+
+  .produto h3 {
+    font-size: 13px;
+    margin-bottom: 8px;
+    min-height: 34px;
+  }
+
+  .produto img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+
+  .produto p {
+    font-size: 11px;
+    margin: 8px 0 5px;
+  }
+
+  .produto strong {
+    font-size: 13px;
   }
 }

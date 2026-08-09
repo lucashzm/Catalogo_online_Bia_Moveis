@@ -85,6 +85,14 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Star 3P9G Cinamomo Off White.jpg",
     descricao: "Roupeiro Star 3 Portas 9 Gavetas Cinamomo Off White",
     preco: "R$ 999,99"
+  },
+
+  {
+    nome: "Roupeiro Itapema 3Portas 9Gavetas Cedro Areia",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Cedro Areia.jpg",
+    descricao: "Roupeiro Itapema 3 Portas 9 Gavetas Cedro Areia",
+    preco: "R$ 1.199,00"
   }
       
       

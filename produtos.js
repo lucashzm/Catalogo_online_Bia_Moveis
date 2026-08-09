@@ -61,6 +61,14 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Cinamomo ou Cinamomo.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Cor Cinamomo",
     preco: "R$ 952,00"
+  },
+
+  {
+    nome:" Roupeiro Super Master 6Portas 6Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo Off White.jpg",
+    descricao: "Roupeiro Super Master 6 Portas 6 Gavetas Cinamomo Off White",
+    preco "R$ 1.200,00"
   }
       
       

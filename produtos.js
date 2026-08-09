@@ -77,6 +77,14 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Chicago 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Chicaco 6 Portas 6 Gavetas Cinamomo Off White",
     preco: "R$ 1418,00"
+  },
+
+  {
+    nome: "Roupeiro Star 3Portas 9Gavetas Cinamomo Off White",
+    categoria "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Star 3P9G Cinamomo Off White.jpg",
+    descricao: "Roupeiro Star 3 Portas 9 Gavetas Cinamomo Off White",
+    preco: " R$ 999,99"
   }
       
       

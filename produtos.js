@@ -93,6 +93,14 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Cedro Areia.jpg",
     descricao: "Roupeiro Itapema 3 Portas 9 Gavetas Cedro Areia",
     preco: "R$ 1.199,00"
+  },
+
+  {
+    nome: "Comoda Vitoria Plus 5Gavetas 1Porta Cedro",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P Cedro.jpg",
+    descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro",
+    preco: "R$ 480,00"
   }
       
       

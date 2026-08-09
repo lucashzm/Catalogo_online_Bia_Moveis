@@ -34,7 +34,7 @@ const produtos = [
   {
     nome: "Roupeiro Madri 6Portas Vidro Reflecta Peroba",
     categoria: "Roupeiros",
-    imagem: "Roupeiro Madri 6P Vidro Reflecta Peroba 10V.jpg",
+    imagem: "imagens/roupeiros/Roupeiro Madri 6P Vidro Reflecta Peroba 10V.jpg",
     descricao: "Roupeiro Madri 6 Portas de vidro Reflecta Peroba",
     preco: "R$ 3.700,00"
   }

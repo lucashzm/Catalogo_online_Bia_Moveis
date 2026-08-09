@@ -68,7 +68,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas Cinamomo Off White",
-    preco "R$ 1.200,00"
+    preco: "R$ 1.200,00"
   }
       
       

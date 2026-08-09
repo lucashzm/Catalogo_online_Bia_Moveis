@@ -29,6 +29,15 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Vivacce 4P4G Cinamomo Off White 4V Albatroz.jpg",
     descricao: "Roupeiro Vivvace, 4 Portas, 4 Gavetas, Cor Cinamomo Off White",
     preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro Madri 6Portas Vidro Reflecta Peroba",
+    categoria: "Roupeiros",
+    imagem: "Roupeiro Madri 6P Vidro Reflecta Peroba 10V.jpg",
+    descricao: "Roupeiro Madri 6 Portas de vidro Reflecta Peroba",
+    preco: "R$ 3.700,00"
   }
+      
       
 ];

@@ -45,7 +45,16 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Camarim Olimpia 4P2G Cinamomo Salvia.jpg",
     descricao: "Roupeiro Camarim Olimpia 4 Portas 2 Gavetas, Cor Cinamomo/Salvia",
     preco: "R$ 983,00"
+  },
+
+  {
+    nome: "Roupeiro Itapema 8Portas 4Gavetas c/ Espelho - Nogueira Off White",
+    categoria: "Roueprios",
+    imagem: "imagens/roupeiros/Roupeiro Itapema 8P4G com Pés e Espelhos Nogueira Madeira.Natura.Off White.jpg",
+    descricao: "Roupeiro Itapema 8 Portas, 4 Gavetas, com Pés e Espelhos, Cor Nogueira Madeira/ Natura Off White",
+    preco: "R$ 954,00"
   }
+    
       
       
 ];

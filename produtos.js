@@ -64,11 +64,19 @@ const produtos = [
   },
 
   {
-    nome:" Roupeiro Super Master 6Portas 6Gavetas Cinamomo Off White",
+    nome:"Roupeiro Super Master 6Portas 6Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas Cinamomo Off White",
     preco: "R$ 1.200,00"
+  },
+
+  {
+    nome: "Roupeiro Chicago 6Portas 6Gaveta Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Chicago 6P6G Cinamomo Off White.jpg",
+    descricao: "Roupeiro Chicaco 6 Portas 6 Gavetas Cinamomo Off White",
+    preco "R$ 1418,00"
   }
       
       

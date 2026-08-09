@@ -21,6 +21,14 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G Freijo.jpg",
     descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Cor Freijó",
     preco: "R$ 480,00"
+  },
+
+  {
+    nome: "Roupeiro Vivacce 4Portas4Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Vivacce 4P4G Cinamomo Off White 4V Albatroz.jpg",
+    descricao: "Roupeiro Vivvace, 4 Portas, 4 Gavetas, Cor Cinamomo Off White",
+    preco: "R$ 1.399,99"
   }
-    
+      
 ];

@@ -49,12 +49,19 @@ const produtos = [
 
   {
     nome: "Roupeiro Itapema 8Portas 4Gavetas c/ Espelho - Nogueira Off White",
-    categoria: "Roueprios",
+    categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema 8P4G com Pés e Espelhos Nogueira Madeira Natura Off White.jpg",
     descricao: "Roupeiro Itapema 8 Portas, 4 Gavetas, com Pés e Espelhos, Cor Nogueira Madeira/ Natura Off White",
     preco: "R$ 954,00"
+  },
+
+  {
+    nome: "Roupeiro Panama 3Portas 4Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Cinamomo ou Cinamomo.jpg",
+    descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Cor Cinamomo",
+    preco: "R$ 952,00"
   }
-    
       
       
 ];

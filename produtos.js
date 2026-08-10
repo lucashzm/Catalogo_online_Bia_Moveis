@@ -139,7 +139,7 @@ const produtos = [
     nome: "Sala Perla 110 Mel com 4 Cadeiras Brisa Mel Veludo Marfim",
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Perla 110x75 Mel com 4 Cadeiras Brisa Mel Veludo Marfim.jpg",
-    descricao "Conjunto Mesa Sala de Jantar Perla 110 Mel com 4 Cadeiras Brisa Mel - Veludo Marfim",
+    descricao: "Conjunto Mesa Sala de Jantar Perla 110 Mel com 4 Cadeiras Brisa Mel Veludo Marfim",
     preco: "R$ 567,00"
   },
 

@@ -101,6 +101,14 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P Cedro.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro",
     preco: "R$ 480,00"
+  },
+
+  {
+    nome: "Conjunto Sala Jantar Cindy Tampo 90cm Mel com 4 Cadeiras Delta Mel Savana",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Conjunto Sala Jantar Cindy Tmp Redondo 90cm Mel com 4 Cds Delta Mel Savana.jpg",
+    descricao: "Conjunto Mesa Sala de jantar Cindy Tampo Redondo 90cm Mel com 4 Cadeiras Delta Mel Savana",
+    preco: "R$ 489,00"
   }
       
       

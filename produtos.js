@@ -117,6 +117,14 @@ const produtos = [
     imagem: "imagens/mesas/conjunto Sala Jantar Luana Tmp Retangular 106 Off White com 4 Cds Luana Mel-Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Luana Tampo Retangular 106 com 4 Cadeiras Luana Mel Savana",
     preco: "R$ 529,00"
+  },
+
+  {
+    nome: "Conjunto Sala Jantar Sara Tampo Retangular 136 Mel com 6 Cadeiras Luana Mel Savana",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Conjunto Sala Jantar Sara Tmp Retangular 136 Mel com 6 Cds Luana Mel-Savana.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar Sara Tampo Retangular 136 Mel com 6 Cadeiras Luana Mel Savana",
+    preco: "R$ 589,00"
   }
       
       

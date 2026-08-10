@@ -149,6 +149,14 @@ const produtos = [
     imagem: "imagens/mesas/Sala Aurea 180x90 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Aurea 180 com 6 Cadeiras Safira Mel Blonde/Off White Veludo Marfim",
     preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Sala Ibi 120 com 4 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
+    categori: "Mesas",
+    imagem: "imagens/mesas/Sala Ibi 120x90 com 4 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar Ibi 120 Com 4 Cadeiras Safira Mel Blonde/ Off White Veludo Marfim",
+    preco: "R$ 1.299,99"
   }
   
       

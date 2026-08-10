@@ -141,6 +141,14 @@ const produtos = [
     imagem: "imagens/mesas/Sala Perla 110x75 Mel com 4 Cadeiras Brisa Mel Veludo Marfim.jpg",
     descricao "Conjunto Mesa Sala de Jantar Perla 110 Mel com 4 Cadeiras Brisa Mel - Veludo Marfim",
     preco: "R$ 567,00"
+  },
+
+  {
+    nome: "Sala Aurea 180 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Aurea 180x90 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar Aurea 180 com 6 Cadeiras Safira Mel Blonde/Off White Veludo Marfim",
+    preco: "R$ 1.999,99"
   }
   
       

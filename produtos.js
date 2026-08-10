@@ -125,6 +125,14 @@ const produtos = [
     imagem: "imagens/mesas/Conjunto Sala Jantar Sara Tmp Retangular 136 Mel com 6 Cds Luana Mel-Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Sara Tampo Retangular 136 Mel com 6 Cadeiras Luana Mel Savana",
     preco: "R$ 589,00"
+  },
+
+  {
+    nome: "Sala Wave Oasis 90 com 4 Cadeiras Sol Mel Linho Bronze",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Wave Oasis 90x90 com 4 Cadeiras Sol Mel Linho Bronze.jpg",
+    descricao: "Conjunto Mesa Sala de Jnatar Wave Oasis 90 com 4 Cadeiras SOl Mel Linho Bronze",
+    preco: "R$ 634,00"
   }
       
       

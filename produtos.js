@@ -104,11 +104,19 @@ const produtos = [
   },
 
   {
-    nome: "Conjunto Sala Jantar Cindy Tampo 90cm Mel com 4 Cadeiras Delta Mel Savana",
+    nome: "Conjunto Sala Jantar Cindy Tampo 90 Mel com 4 Cadeiras Delta Mel Savana",
     categoria: "Mesas",
     imagem: "imagens/mesas/Conjunto Sala Jantar Cindy Tmp Redondo 90cm Mel com 4 Cds Delta Mel Savana.jpg",
-    descricao: "Conjunto Mesa Sala de jantar Cindy Tampo Redondo 90cm Mel com 4 Cadeiras Delta Mel Savana",
+    descricao: "Conjunto Mesa Sala de jantar Cindy Tampo Redondo 90 Mel com 4 Cadeiras Delta Mel Savana",
     preco: "R$ 489,00"
+  },
+
+  {
+    nome: "Conjunto Sala Jantar Luana Tampo 106 Off White com 4 Cadeiras Luana Mel Savana",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/conjunto Sala Jantar Luana Tmp Retangular 106 Off White com 4 Cds Luana Mel-Savana.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar Luana Tampo Retangular 106 com 4 Cadeiras Luana Mel Savana",
+    preco: "R$ 529,00"
   }
       
       

@@ -153,11 +153,20 @@ const produtos = [
 
   {
     nome: "Sala Ibi 120 com 4 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
-    categori: "Mesas",
+    categoria: "Mesas",
     imagem: "imagens/mesas/Sala Ibi 120x90 com 4 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Ibi 120 Com 4 Cadeiras Safira Mel Blonde/ Off White Veludo Marfim",
     preco: "R$ 1.299,99"
+  },
+
+  {
+    nome: "Sala Amanda Tampo 110 Off White com 4 Cadeiras Delta Mel Savana",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Conjunto Sala Jantar Amanda Tmp Retangular 110 Off White com 4 Cadeiras Delta Mel Savana.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar Amanda Tampo 110 Retangular 110 Off White Com 4 Cadeiras Delta Mel Savana",
+    preco: "R$ 469,99"
   }
+    
   
       
       

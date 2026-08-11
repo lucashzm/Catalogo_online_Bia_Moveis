@@ -277,6 +277,14 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Berlim Chicago 4G1P Cinamomo Off White.jpg",
     descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo Off White",
     preco: "R$ 449,99"
+  },
+
+  {
+    nome: "Cozinha Compacta Completa Malu 9Portas 2Gavetas com Balcao Cinamomo Grafite",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Grafite.jpg",
+    descricao: "Cozinha Compacta Completa Malu 9 Portas, 2 Gavetas com balcão Cinamomo Grafite",
+    preco: "R$ 700,00"
   }
     
     

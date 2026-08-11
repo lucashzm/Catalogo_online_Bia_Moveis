@@ -224,7 +224,7 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Aruba 5G Cinamomo Off White",
+    nome: "Comoda Aruba 5Gavetas Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aruba 5G Cinamomo Off White.jpg",
     descricao: "Comoda Aruba 5 Gavetas Cinamomo Off White",

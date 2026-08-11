@@ -284,7 +284,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Grafite.jpg",
     descricao: "Cozinha Compacta Completa Malu 9 Portas, 2 Gavetas com balcão Cinamomo Grafite",
-    preco: "R$ 899,00"
+    preco: "R$ 999,00"
   }
     
     

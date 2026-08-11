@@ -253,6 +253,14 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Caribe 10G Cinamomo Off White.jpg",
     descricao: "Cômoda Cariba 10 Gavetas Cinamomo Off White",
     preco: "R$ 386,99"
+  },
+
+  {
+    nome: "Cômoda Aramoveis 8G Atacama",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Aramoveis 8G Atacama.jpg",
+    descricao: "Cômoda Aramoveis 8 Gavetas Atacama",
+    preco: "R$ 499,99"
   }
     
   

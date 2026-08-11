@@ -195,8 +195,16 @@ const produtos = [
     nome: "Sala Magic 120 Mel Blonde com 4 Cadeiras Sol Mel Cinza Veludo Grafite",
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Magic 120 Mel.Blonde com 4 Cadeiras Sol Mel Cinza Veludo Grafite.jpg",
-    descricao: "Conjunto Sala Magic 120 Mel Blonde com 4 Cadeiras Sol Me Cinza Veludo Grafite",
+    descricao: "Conjunto Mesa Sala Magic 120 Mel Blonde com 4 Cadeiras Sol Me Cinza Veludo Grafite",
     preco: "R$ 689,99"
+  },
+
+  {
+    nome: "Sala Melody 90 com 4 Cadeiras Bela Mel Blonde Off White Linho Bronze",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Melody 90com 4 Cadira Bela Mel Blonde Off White Linho Bronze.jpg",
+    descricao: "Conjunto Mesa Sala Melody 90 com 4 Cadeiras Bela Mel Blonde Off White Linho Bronze",
+    preco: " R$ 749,00"
   }
     
   

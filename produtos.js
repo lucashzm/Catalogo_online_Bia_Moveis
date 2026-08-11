@@ -181,6 +181,14 @@ const produtos = [
     imagem: "imagens/mesas/Sala Deli Denali 160 Mel Grafite com 6 Cadeiras Safira Mel Veludo Grafite.jpg",
     descricao: "Conjunto Mesa Sala de Jantar De Deli Delani 160 Mel Grafite com 6 Cadeiras Safira Mel Veludo Grafite",
     preco: "R$ 1.899,99"
+  },
+
+  {
+    nome: "Sala Daila Nicole 135 Mel Blonde Grafite com 6 Cadeiras Safira Mel Blonde Veludo Grafite",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Daila Nicole 135 Mel Blonde Grafite com 6 Cadeiras Sarifa Mel Blonde Veludo Grafite.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar Daila Nicole 135 Mel Blonde Grafite com 6 Cadeiras Safira Mel Blonde Veludo Grafite",
+    preco: "R$ 1.798,99"
   }
     
   

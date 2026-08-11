@@ -205,6 +205,14 @@ const produtos = [
     imagem: "imagens/mesas/Sala Melody 90com 4 Cadira Bela Mel Blonde Off White Linho Bronze.jpg",
     descricao: "Conjunto Mesa Sala Melody 90 com 4 Cadeiras Bela Mel Blonde Off White Linho Bronze",
     preco: " R$ 749,00"
+  },
+
+  {
+    nome: "Sala Luar Luna 160 com 6 Cadeiras Sol Mel Linho Inox",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Luar Luna 160 com 6 Cadeiras Sol Mel Linho Inox.jpg",
+    descricao: "Conjunto Mesa Sala Luar Luna 160 com 6 Cadeiras Sol Mel Linho Inox",
+    preco: "R$ 899,99"
   }
     
   

@@ -165,6 +165,14 @@ const produtos = [
     imagem: "imagens/mesas/Conjunto Sala Jantar Amanda Tmp Retangular 110 Off White com 4 Cadeiras Delta Mel Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Amanda Tampo 110 Retangular 110 Off White Com 4 Cadeiras Delta Mel Savana",
     preco: "R$ 469,99"
+  },
+
+  {
+    nome: "Conjunto Sala Jantar Luiza Tampo 110 Off White com 4 Cadeiras Delta Mel Savana",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Conjunto Sala Jantar Luiza Tmp Retangular 110 Off White com 4 Cds Delta Mel Savana.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar Luiza Tampo 110 Off White com 4 Cadeiras Delta Mel Savana",
+    preco: "R$ 469,00"
   }
     
   

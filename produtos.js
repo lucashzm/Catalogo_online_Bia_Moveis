@@ -24,7 +24,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Vivacce 4Portas4Gavetas Cinamomo Off White",
+    nome: "Roupeiro Vivacce 4Portas    4Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Vivacce 4P4G Cinamomo Off White 4V Albatroz.jpg",
     descricao: "Roupeiro Vivvace 4 Portas, 4 Gavetas, Cor Cinamomo Off White",
@@ -72,7 +72,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Chicago 6Portas 6Gaveta Cinamomo Off White",
+    nome: "Roupeiro Chicago 6Portas 6Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Chicago 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Chicaco 6 Portas 6 Gavetas Cinamomo Off White",
@@ -120,7 +120,7 @@ const produtos = [
   },
 
   {
-    nome: "Conjunto Sala Jantar Sara Tampo Retangular 136 Mel com 6 Cadeiras Luana Mel Savana",
+    nome: "Conjunto Sala Jantar Sara Tampo 136 Mel com 6 Cadeiras Luana Mel Savana",
     categoria: "Mesas",
     imagem: "imagens/mesas/Conjunto Sala Jantar Sara Tmp Retangular 136 Mel com 6 Cds Luana Mel-Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Sara Tampo Retangular 136 Mel com 6 Cadeiras Luana Mel Savana",

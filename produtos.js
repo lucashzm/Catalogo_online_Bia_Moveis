@@ -221,7 +221,16 @@ const produtos = [
     imagem: "imagens/mesas/Sala Eve 180com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
     descricao: "Conjunto Mesa Sala Eve 180 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
     preco: "R$ 1899,99"
+  },
+
+  {
+    nome: "Comoda Aruba 5G Cinamomo Off White",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Aruba 5G Cinamomo Off White.jpg",
+    descricao: "Comoda Aruba 5 Gavetas Cinamomo Off White",
+    preco: "R$ 249,99"
   }
+    
     
   
       

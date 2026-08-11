@@ -224,10 +224,10 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Aruba 5Gavetas Cinamomo Off White",
+    nome: "Cômoda Aruba 5Gavetas Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aruba 5G Cinamomo Off White.jpg",
-    descricao: "Comoda Aruba 5 Gavetas Cinamomo Off White",
+    descricao: "Cômoda Aruba 5 Gavetas Cinamomo Off White",
     preco: "R$ 249,99"
   },
 
@@ -240,15 +240,21 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Miami 5Gavetas 1Porta Cinamomo Off White",
+    nome: "Cômoda Miami 5Gavetas 1Porta Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Miami 5Gavetas 1Porta Cinamomo Off White.jpg",
     descricao: "Cômoda Miami 5 Gavetas 1 Porta Cinamomo/Off White",
     preco: "R$ 329,99"
+  },
+
+  {
+    nome: "Cômoda Caribe 10Gaveta Cinamomo Off White",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Caribe 10G Cinamomo Off White.jpg",
+    descricao: "Cômoda Cariba 10 Gavetas Cinamomo Off White",
+    preco: "R$ 386,99"
   }
     
-    
   
-      
       
 ];

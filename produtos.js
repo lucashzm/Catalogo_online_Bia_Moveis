@@ -269,7 +269,16 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Berlim Chicago 4Gavetas 1Porta Cinamomo.jpg",
     descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo",
     preco: "R$ 449,99"
+  },
+
+  {
+    nome: "Cômoda Berlim Chicago 4Gavetas 1Porta Cinamomo Off White",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Berlim Chicago 4G1P Cinamomo Off White.jpg",
+    descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo Off White",
+    preco: "R$ 449,99"
   }
+    
     
   
       

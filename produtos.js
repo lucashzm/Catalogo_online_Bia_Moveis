@@ -229,6 +229,14 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Aruba 5G Cinamomo Off White.jpg",
     descricao: "Comoda Aruba 5 Gavetas Cinamomo Off White",
     preco: "R$ 249,99"
+  },
+
+  {
+    nome: "Comoda Aruba 5Gavetas Branco",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Aruba 5Gavetas Branco.jpg",
+    descricao: "Comoda Aruba 5 Gavetas Branco",
+    preco: "R$ 249,99"
   }
     
     

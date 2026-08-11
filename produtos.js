@@ -232,11 +232,19 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Aruba 5Gavetas Branco",
+    nome: "Cômoda Aruba 5Gavetas Branco",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aruba 5Gavetas Branco.jpg",
-    descricao: "Comoda Aruba 5 Gavetas Branco",
+    descricao: "Cômoda Aruba 5 Gavetas Branco",
     preco: "R$ 249,99"
+  },
+
+  {
+    nome: "Comoda Miami 5Gavetas 1Porta Cinamomo Off White",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Miami 5Gavetas 1Porta Cinamomo Off White.jpg",
+    descricao: "Cômoda Miami 5 Gavetas 1 Porta Cinamomo/Off White",
+    preco: "R$ 329,99"
   }
     
     

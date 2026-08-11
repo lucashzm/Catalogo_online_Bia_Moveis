@@ -189,6 +189,14 @@ const produtos = [
     imagem: "imagens/mesas/Sala Daila Nicole 135 Mel Blonde Grafite com 6 Cadeiras Sarifa Mel Blonde Veludo Grafite.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Daila Nicole 135 Mel Blonde Grafite com 6 Cadeiras Safira Mel Blonde Veludo Grafite",
     preco: "R$ 1.798,99"
+  },
+
+  {
+    nome: "Sala Magic 120 Mel Blonde com 4 Cadeiras Sol Mel Cinza Veludo Grafite",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Magic 120 Mel.Blonde com 4 Cadeiras Sol Mel Cinza Veludo Grafite.jpg",
+    descricao: "Conjunto Sala Magic 120 Mel Blonde com 4 Cadeiras Sol Me Cinza Veludo Grafite",
+    preco: "R$ 689,99"
   }
     
   

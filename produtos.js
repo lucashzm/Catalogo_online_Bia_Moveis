@@ -261,6 +261,14 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Aramoveis 8G Atacama.jpg",
     descricao: "Cômoda Aramoveis 8 Gavetas Atacama",
     preco: "R$ 499,99"
+  },
+
+  {
+    nome: "Cômoda Berlim Chicago 4Gavetas 1Porta Cinamomo",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Berlim Chicago 4Gavetas 1Porta Cinamomo.jpg",
+    descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo",
+    preco: "R$ 449,99"
   }
     
   

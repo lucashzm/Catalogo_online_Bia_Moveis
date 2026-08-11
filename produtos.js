@@ -173,6 +173,14 @@ const produtos = [
     imagem: "imagens/mesas/Conjunto Sala Jantar Luiza Tmp Retangular 110 Off White com 4 Cds Delta Mel Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Luiza Tampo 110 Off White com 4 Cadeiras Delta Mel Savana",
     preco: "R$ 469,00"
+  },
+
+  {
+    nome: "Sala Deli Denali 160 Mel Grafite com 6 Cadeiras Safira Mel Veludo Grafite",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Deli Denali 160 Mel Grafite com 6 Cadeiras Safira Mel Veludo Grafite.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar De Deli Delani 160 Mel Grafite com 6 Cadeiras Safira Mel Veludo Grafite",
+    preco: "R$ 1.899,99"
   }
     
   

@@ -248,7 +248,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Caribe 10Gaveta Cinamomo Off White",
+    nome: "Cômoda Caribe 10Gavetas Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Caribe 10G Cinamomo Off White.jpg",
     descricao: "Cômoda Cariba 10 Gavetas Cinamomo Off White",
@@ -256,7 +256,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Aramoveis 8G Atacama",
+    nome: "Cômoda Aramoveis 8Gavetas Atacama",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aramoveis 8G Atacama.jpg",
     descricao: "Cômoda Aramoveis 8 Gavetas Atacama",

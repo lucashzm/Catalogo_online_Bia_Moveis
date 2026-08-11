@@ -213,6 +213,14 @@ const produtos = [
     imagem: "imagens/mesas/Sala Luar Luna 160 com 6 Cadeiras Sol Mel Linho Inox.jpg",
     descricao: "Conjunto Mesa Sala Luar Luna 160 com 6 Cadeiras Sol Mel Linho Inox",
     preco: "R$ 899,99"
+  },
+
+  {
+    nome: "Sala Eve 180 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Eve 180com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
+    descricao: "Conjunto Mesa Sala Eve 180 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
+    preco: "R$ 1899,99"
   }
     
   

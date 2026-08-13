@@ -309,6 +309,14 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha New Topazio 6Portas 2Gavetas Cinamomo Off White.jpg",
     descricao: "Cozinha New Topazio 6 Portas 2 Gavetas Cinamomo Off White",
     preco: "R$ 860,00"
+  },
+
+  {
+    nome: "Cozinha Siena Premium 6Portas 1Gaveta Branco Cinamomo",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Siena Premium 6Portas 1Gaveta Branco Cinamomo.jpg",
+    descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Branco Cinamomo",
+    preco: "R$ 899,99"
   }
 
     

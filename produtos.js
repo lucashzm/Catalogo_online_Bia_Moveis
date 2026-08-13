@@ -301,6 +301,14 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha Lia 3Portas 1Gaveta Cinamomo Off White.jpg",
     descricao: "Cozinha Lia 3 Portas 1 Gaveta Cinamomo Off White",
     preco: "R$ "599,99"
+  },
+
+  {
+    nome: "Cozinha New Topazio 6P2G Cinamomo Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha New Topazio 6P2G Cinamomo.Off White.jpg",
+    descricao: "Cozinha New Topazio 6 Portas 2 Gavetas Cinamomo Off White",
+    preco: "R$ 860,00"
   }
 
     

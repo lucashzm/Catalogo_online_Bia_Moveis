@@ -306,7 +306,7 @@ const produtos = [
   {
     nome: "Cozinha New Topazio 6P2G Cinamomo Off White",
     categoria: "Cozinhas",
-    imagem: "imagens/cozinhas/Cozinha New Topazio 6P2G Cinamomo.Off White.jpg",
+    imagem: "imagens/cozinhas/Cozinha New Topazio 6Portas 2Gavetas Cinamomo Off White.jpg",
     descricao: "Cozinha New Topazio 6 Portas 2 Gavetas Cinamomo Off White",
     preco: "R$ 860,00"
   }

@@ -285,7 +285,15 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Grafite.jpg",
     descricao: "Cozinha Compacta Completa Malu 9 Portas, 2 Gavetas com balcão Cinamomo Grafite",
     preco: "R$ 999,00"
-  }
+  },
+
+  {
+    nome: "Kit Cozinha Catar 6Portas 2Gavetas Jequitiba Granizo",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Kit Cozinha Catar 6Portas 2Gavetas Jequitiba - Granizo.jpg",
+    descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba Granizo",
+    preco: "R$ 1299,99"
+  },
     
     
   

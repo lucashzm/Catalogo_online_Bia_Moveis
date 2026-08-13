@@ -317,6 +317,14 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha Siena Premium 6Portas 1Gaveta Branco Cinamomo.jpg",
     descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Branco Cinamomo",
     preco: "R$ 899,99"
+  },
+
+  {
+    nome: "Cozinha Siena Premium 6Portas 1Gaveta Cinamomo Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Siena Premium 6P1G Cinamomo.Off White.jpg",
+    descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Cinamomo Off White",
+    preco: "899,99"
   }
 
     

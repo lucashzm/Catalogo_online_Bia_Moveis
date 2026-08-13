@@ -325,6 +325,14 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha Siena Premium 6P1G Cinamomo.Off White.jpg",
     descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Cinamomo Off White",
     preco: "899,99"
+  },
+
+  {
+    nome: "Kit Cozinha Veneza Pop Plus 9Portas 1Gaveta Freijó Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Kit Cozinha Veneza Pop Plus 9P1G3N Freijó-Off White.jpg",
+    descricao: "Cozinha Veneza Pop Plus 9 Portas 1 Gaveta Freijó Off White",
+    preco: "799,99"
   }
 
     

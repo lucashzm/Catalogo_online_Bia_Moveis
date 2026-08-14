@@ -429,6 +429,14 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha Lara BPM 6P2G Arenas.jpg",
     descricao: "Cozinha Lara BPM 6 Portas 2 Gavetas Arenas",
     preco: "R$ 1.099"
+  },
+
+  {
+    nome: "Cozinha Lara BPW 6P2G Cinamomo Arenas",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Lara BPW 6P2G Cinamomo/Arenas/Cinamomo",
+    descricao: "Cozinha Lara BPW 6 Portas 2 Gavetas Cinamomo Arenas",
+    preco: "R$ 1.099"
   }
   
 

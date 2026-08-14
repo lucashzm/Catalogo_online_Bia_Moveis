@@ -365,6 +365,14 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha Modena 7P3G Cinamomo Off White.jpg",
     descricao: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Off White",
     preco: "R$ 1.099"
+  },
+
+  {
+    nome: "Cozinha Modena 7Portas 3Gavetas Cinamomo Grafite",
+    categoria: "cozinha Modena 7P3G Cinamomo Grafite.jpg",
+    imagem: "imagens/cozinhas/cozinha Modena 7P3G Cinamomo Grafite.jpg",
+    descricao: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Grafite",
+    preco: "R$ 1.099"
   }
 
     

@@ -380,7 +380,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Arenas.jpg",
     descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Arenas",
-    preco: "1,199"
+    preco: "R$ 1,199"
   },
 
   {
@@ -388,8 +388,32 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Arenas.jpg",
     descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Cinamomo BPW Arenas",
-    preco: "1.199"
-    
+    preco: "R$ 1.199"
+  },
+
+  {
+    nome: "Cozinha Alexia BPW 6Portas 2Gavetas com Espelho Cinamomo BPW Grafite",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Grafite.jpeg",
+    descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Cinamomo BPW Grafite",
+    preco: "R$ 1.199"
+  },
+
+  {
+    nome: "Cozinha Antonela BPW 8Portas 2Gavetas com Espelhos Cinamomo Arenas",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Antonela BPW 8P2G com Espelhos Cinamomo Arenas.jpg",
+    descricao: "Cozinha Antonela BPW 8 Portas 2 Gavetas com Espelho Cinamomo Arenas",
+    preco: "R$ 1.499"
+  },
+
+  {
+    nome: "Cozinha Intense 10Portas 2Gavetas Freijo Nero",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Intense 10P2G Freijo.Nero.jpg",
+    descricao: "Cozinha Intense 10 Portas 2 Gavetas Freijo Nero",
+    preco: "R$ 1.099"
+  }
   
 
     

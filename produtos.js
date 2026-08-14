@@ -355,12 +355,17 @@ const produtos = [
     nome: "Cozinha Malaga 6Portas 2Gavetas Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Malaga 6P2G Cinamomo Grafite.jpg",
-    descricao: "COzinha Malaga 6 Portas 2 Gavetas Cinamomo Grafite",
+    descricao: "Cozinha Malaga 6 Portas 2 Gavetas Cinamomo Grafite",
     preco: "R$ 899,99"
+  },
+
+  {
+    nome: "Cozinha Modena 7Portas 3Gavetas Cinamomo Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Modena 7P3G Cinamomo Off White.jpg",
+    descricao: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Off White",
+    preco: "R$ 1.099"
   }
 
     
-    
-  
-      
-];
+  ];

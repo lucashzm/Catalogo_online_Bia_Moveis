@@ -324,7 +324,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Siena Premium 6P1G Cinamomo.Off White.jpg",
     descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Cinamomo Off White",
-    preco: "899,99"
+    preco: "R$ 899,99"
   },
 
   {
@@ -332,7 +332,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Veneza Pop Plus 9P1G3N Freijó-Off White.jpg",
     descricao: "Cozinha Veneza Pop Plus 9 Portas 1 Gaveta Freijó Off White",
-    preco: "799,99"
+    preco: "R$ 799,99"
   },
 
   {
@@ -340,7 +340,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Malu 7Portas 2Gavetas Damasco Ripado 3D Off White.jpg",
     descricao: "Cozinha Malu 7 Portas 2 Gavetas Damasco Ripado 3D Off White",
-    preco: "599,99"
+    preco: "R$ 599,99"
   },
 
   {
@@ -348,7 +348,15 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Duda 120 5P1G Cinamomo.Cinamomo Off White.jpg",
     descricao: "Cozinha Duda 120 5 Portas 1 Gaveta Cinamomo Off White",
-    preco: "549,99"
+    preco: "R$ 549,99"
+  },
+
+  {
+    nome: "Cozinha Malaga 6Portas 2Gavetas Cinamomo Grafite",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Malaga 6P2G Cinamomo Grafite.jpg",
+    descricao: "COzinha Malaga 6 Portas 2 Gavetas Cinamomo Grafite",
+    preco: "R$ 899,99"
   }
 
     

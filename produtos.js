@@ -369,11 +369,20 @@ const produtos = [
 
   {
     nome: "Cozinha Modena 7Portas 3Gavetas Cinamomo Grafite",
-    categoria: "cozinha Modena 7P3G Cinamomo Grafite.jpg",
+    categoria: "Cozinhas",
     imagem: "imagens/cozinhas/cozinha Modena 7P3G Cinamomo Grafite.jpg",
     descricao: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Grafite",
     preco: "R$ 1.099"
+  },
+
+  {
+    nome: "Cozinha Alexia BPW 6Portas 2Gavetas com Espelho Arenas",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Arenas.jpg",
+    descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Arenas",
+    preco: "1,099"
   }
+  
 
     
   ];

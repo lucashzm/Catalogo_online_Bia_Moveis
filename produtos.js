@@ -364,7 +364,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Modena 7P3G Cinamomo Off White.jpg",
     descricao: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Off White",
-    preco: "R$ 1.099"
+    preco: "R$ 1.199"
   },
 
   {
@@ -372,7 +372,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/cozinha Modena 7P3G Cinamomo Grafite.jpg",
     descricao: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Grafite",
-    preco: "R$ 1.099"
+    preco: "R$ 1.199"
   },
 
   {
@@ -380,8 +380,16 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Arenas.jpg",
     descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Arenas",
-    preco: "1,099"
-  }
+    preco: "1,199"
+  },
+
+  {
+    nome: "Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Arenas",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Arenas.jpg",
+    descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Cinamomo BPW Arenas",
+    preco: "1.199"
+    
   
 
     

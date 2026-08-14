@@ -13,10 +13,16 @@ body {
   max-width: 1100px;
   margin: 0 auto;
   padding: 40px 20px 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
 }
 
 .informacoes {
   text-align: left;
+  flex: 1;
 }
 
 h1 {
@@ -63,6 +69,23 @@ h1 span:last-child {
 }
 
 /* =========================
+   LOGO DO CABEÇALHO
+   ========================= */
+
+.logo {
+  flex: 0 0 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  width: 240px;
+  height: auto;
+  object-fit: contain;
+}
+
+/* =========================
    CATÁLOGO
    ========================= */
 
@@ -70,18 +93,6 @@ h1 span:last-child {
   max-width: 1100px;
   margin: 35px auto;
 }
-
-/* LOGO */
-
-.logo-catalogo {
-  display: block;
-  width: 90px;
-  height: auto;
-  margin: 0 auto 15px;
-  object-fit: contain;
-}
-
-/* TÍTULO DO CATÁLOGO */
 
 .catalogo h2 {
   text-align: center;
@@ -190,13 +201,18 @@ h1 span:last-child {
 
   .cabecalho {
     padding-top: 30px;
+    gap: 20px;
   }
 
   h1 {
     font-size: 48px;
   }
 
-  .logo-catalogo {
+  .logo {
+    flex: 0 0 200px;
+  }
+
+  .logo img {
     width: 170px;
   }
 
@@ -234,6 +250,7 @@ h1 span:last-child {
 
   .cabecalho {
     padding: 25px 8px 15px;
+    gap: 10px;
   }
 
   h1 {
@@ -249,13 +266,16 @@ h1 span:last-child {
     flex-wrap: wrap;
   }
 
-  .catalogo {
-    margin-top: 25px;
+  .logo {
+    flex: 0 0 110px;
   }
 
-  .logo-catalogo {
-    width: 130px;
-    margin-bottom: 10px;
+  .logo img {
+    width: 100px;
+  }
+
+  .catalogo {
+    margin-top: 25px;
   }
 
   .catalogo h2 {

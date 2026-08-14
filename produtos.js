@@ -280,10 +280,10 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha Compacta Completa Malu 9Portas 2Gavetas com Balcao Cinamomo Grafite",
+    nome: "Cozinha Compacta Malu 9Portas 2Gavetas com Balcao Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Grafite.jpg",
-    descricao: "Cozinha Compacta Completa Malu 9 Portas, 2 Gavetas com balcão Cinamomo Grafite",
+    descricao: "Cozinha Compacta Malu 9 Portas, 2 Gavetas com balcão Cinamomo Grafite",
     preco: "R$ 999,00"
   },
 
@@ -432,13 +432,40 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha Lara BPW 6P2G Cinamomo Arenas",
+    nome: "Cozinha Lara BPW 6Portas 2Gavetas Cinamomo Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Lara BPW 6P2G Cinamomo Arenas Cinamomo.jpg",
     descricao: "Cozinha Lara BPW 6 Portas 2 Gavetas Cinamomo Arenas",
     preco: "R$ 1.099"
-  }
+  },
+
+  {
+    nome: "Cozinha Mega 9Portas 2Gavetas Cinamomo Branco Texturizado",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Mega 9P2G Cinamomo Branco texturizado.jpg",
+    descricao: "Cozinha Mega 9 Portas 2 Gavetas Cinamomo Branco Texturizado",
+    preco: "R$ 1.099"
+  },
+
+  {
+    nome: "Cozinha Mega 9Portas 2Gavetas Cinamomo Grafite",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Mega 9P2G Cinamomo.Grafite.jpg",
+    descricao: "Cozinha Mega 9 Portas 2 Gavetas Cinamomo Grafite",
+    preco: "R$ 1.099"
+  },
+
+  {
+    nome: "Cozinha Compacta Malu 9Portas 2Gavetas com Balcao Cinamomo Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Compacta  Malu 9P2G com Balcao Cinamomo Off White.jpg",
+    descricao: "Cozinha Compacta Malu 9 Portas 2 Gavetas com Balcão Cinamomo Off White",
+    preco: "R$ 999,99"
+  },
+
   
 
     
-  ];
+  
+    
+    ];

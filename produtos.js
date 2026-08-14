@@ -333,6 +333,14 @@ const produtos = [
     imagem: "imagens/cozinhas/Kit Cozinha Veneza Pop Plus 9P1G3N Freijó-Off White.jpg",
     descricao: "Cozinha Veneza Pop Plus 9 Portas 1 Gaveta Freijó Off White",
     preco: "799,99"
+  },
+
+  {
+    nome: "Cozinha Malu 7Portas 2Gavetas Damasco Ripado 3D Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Malu 7Portas 2Gavetas Damasco Ripado 3D Off White.jpg",
+    descricao: "Cozinha Malu 7 Portas 2 Gavetas Damasco Ripado 3D Off White",
+    preco: "599,99"
   }
 
     

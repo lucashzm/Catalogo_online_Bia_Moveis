@@ -341,6 +341,14 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha Malu 7Portas 2Gavetas Damasco Ripado 3D Off White.jpg",
     descricao: "Cozinha Malu 7 Portas 2 Gavetas Damasco Ripado 3D Off White",
     preco: "599,99"
+  },
+
+  {
+    nome: "Cozinha Duda 120 5Portas 1Gavetas Cinamomo Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Duda 120 5P1G Cinamomo.Cinamomo Off White.jpg",
+    descricao: "Cozinha Duda 120 5 Portas 1 Gaveta Cinamomo Off White",
+    preco: "549,99"
   }
 
     

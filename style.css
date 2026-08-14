@@ -75,7 +75,7 @@ h1 span:last-child {
 
 .logo-catalogo {
   display: block;
-  width: 190px;
+  width: 100px;
   height: auto;
   margin: 0 auto 15px;
   object-fit: contain;

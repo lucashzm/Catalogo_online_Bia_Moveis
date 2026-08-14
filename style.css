@@ -325,3 +325,10 @@ h1 span:last-child {
     font-size: 13px;
   }
 }
+.logo-catalogo {
+  display: block;
+  width: 120px;
+  height: auto;
+  margin: 0 auto 20px;
+  object-fit: contain;
+}

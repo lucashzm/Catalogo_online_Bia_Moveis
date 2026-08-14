@@ -413,6 +413,22 @@ const produtos = [
     imagem: "imagens/cozinhas/Cozinha Intense 10P2G Freijo.Nero.jpg",
     descricao: "Cozinha Intense 10 Portas 2 Gavetas Freijo Nero",
     preco: "R$ 1.099"
+  },
+
+  {
+    nome: "Cozinha Intense 10Portas 2Gavetas Freijo Vanilla",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Intense 10P2G Freijo.Vanilla.jpg",
+    descricao: "Cozinha Intense 10 Portas 2 Gavetas Freijo Vanilla",
+    preco: "R$ 1.099"
+  },
+
+  {
+    nome: "Cozinha Lara BPM 6Portas 2Gavetas Arenas",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Lara BPM 6P2G Arenas.jpg",
+    descricao: "Cozinha Lara BPM 6 Portas 2 Gavetas Arenas",
+    preco: "R$ 1.099"
   }
   
 

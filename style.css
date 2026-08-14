@@ -73,14 +73,14 @@ h1 span:last-child {
    ========================= */
 
 .logo {
-  flex: 0 0 280px;
+  flex: 0 0 180px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .logo img {
-  width: 240px;
+  width: 150px;
   height: auto;
   object-fit: contain;
 }

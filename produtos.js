@@ -465,7 +465,7 @@ const produtos = [
 
   {
     nome: "Home Suspenso Ripado Munique Nature",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Suspenso Ripado Munique Nature.jpg",
     descricao: "Home Suspenso Ripado Munique Nature",
     preco: "R$ 899,99"
@@ -473,7 +473,7 @@ const produtos = [
 
   {
     nome: "Home Petropolis 1.8 Grigio Fosco Canela",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Petropolis 1.8 Grigio Fosco Canela.jpg",
     descricao: "Home Petropolis 1.80 Grigio Fosco Canela",
     preco: "R$ 899,99"
@@ -481,7 +481,7 @@ const produtos = [
 
   {
     nome: "Conjunto Show 106 Painel e Rack Freijo Trende Preto Texturizado",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Conjunto Show 106 Painel mais Rack Freijo Trende.Preto Tx.jpg",
     descricao: "Conjunto Show 106 Painel e Rack Freijo Trende Preto Texturizado",
     preco: "R$ 599,99"
@@ -489,7 +489,7 @@ const produtos = [
 
   {
     nome: "Conjunto Show 106 Painel e Rack Freijo Trend Off White Texturizado",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Conjunto Show 106 Painel mais Rack Freijo Trend.Off White Tx.jpg",
     descricao: "Conjunto Show 106 Painel e Rack Freijo Trend Off White Texturizado",
     preco: "R$ 599,99"
@@ -497,7 +497,7 @@ const produtos = [
 
   {
     nome: "Home Eldorado 2.0 Nature Off White",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Eldorado 2.0 Nature.Off White.jpg",
     descricao: "Home Eldorado 2.0 Nature Off White",
     preco: "1.099,99"
@@ -505,7 +505,7 @@ const produtos = [
 
   {
     nome: "Bancada Suspensa Lana 1.8 Savana",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Bancada Suspensa Lana 1.8 Savana.jpg",
     descricao: "Bancada Suspensa Lana 1.8 Savana",
     preco: "R$ 899,99"
@@ -513,31 +513,31 @@ const produtos = [
 
   {
     nome: "Home Theater Trinus 1.8 Cinamomo Off White",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Theater Trinus 1.8 Cinamomo Off White.jpg",
     descricao: "Home Theater Trinus 1.80 Cinamomo Off White",
-    preco: "1.099,99"
+    preco: "R$ 1.099,99"
   },
 
   {
     nome: "Home Detroit 2.50 Off White Nature",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Detroit 2500x1609 Off White.Nature.jpg",
     descricao: "Home Detroit 2.50 Off White Nature",
-    preco: "R$ 1.199"
+    preco: "R$ 1.199,99"
   },
 
   {
     nome: "Home Brilhare Off White Nature",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Brilhare Off White Nature Bechara.jpg",
     descricao: "Home Brilhare Off White Nature",
-    preco: "R$ 1.899"
+    preco: "R$ 1.899,99"
   },
 
   {
     nome: "Painel Impetus 182 com Nicho e LED Cascata Naturale Off White",
-    categoria: "Painés/Racks",
+    categoria: "Painéis/Racks",
     imagem: "imagens/home/Painel Impetus 182 com Nicho e LED Cascata Naturale Off White.jpg",
     descricao: "Painel Impetus 182 com Nicho e LED Cascata Naturale Off White",
     preco: "R$ 1.499,99"

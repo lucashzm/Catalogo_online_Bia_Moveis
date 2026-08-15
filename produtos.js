@@ -76,7 +76,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Chicago 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Chicaco 6 Portas 6 Gavetas Cinamomo Off White",
-    preco: "R$ 1418,00"
+    preco: "R$ 1699,00"
   },
 
   {
@@ -671,7 +671,164 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Vision 6P sendo 2P Vidro Fume com LED JequitibaGranizo.jpg",
     descricao: "Roupeiro Vision 6Portas (2Portas Vidro Fume) com LED, Jequitibá Granizo",
     preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Roupeiro Andorra Joinville 6Portas 4Gavetas Branco Neve",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Andorra Joinville 6P4G Branco Neve.jpg",
+    descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Branco Neve",
+    preco: "R$ 1.599,99"
+  },
+
+  {
+    nome: "Roupeiro Andorra Joinville 6Portas 4Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Andorra.Joinville 6P4G Cinamomo.jpg",
+    descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Cinamomo",
+    preco: "R$ 1.599,99"
+  },
+
+  {
+    nome: "Roupeiro Andorra Joinville 6Portas 4Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Andorra.Joinville 6P4G Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Cinamomo Off White",
+    preco: "R$ 1.599,99"
+  },
+
+  {
+    nome: "Roupeiro Aracena Sevilla 6Portas 8Gavetas Branco Neve",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Branco Neve.jpg",
+    descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Branco Neve",
+    preco: "R$ 2.099,99"
+  },
+
+  {
+    nome: "Roupeiro Aracena Sevilla 6Portas 8Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Cinamomo.jpg",
+    descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Cinamomo",
+    preco: "R$ 2.099,99"
+  },
+
+  {
+    nome: "Roupeiro Aracena Sevilla 6Portas 8Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Cinamomo Off White",
+    preco: "R$ 2.099,99"
+  },
+
+  {
+    nome: "Roupeiro Colibri 6Portas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Colibri 6P Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Colibri 6 Portas Cinamomo Off White",
+    preco: "R$ "1.599,99"
+  },
+
+  {
+    nome: "Roupeiro Colibri 6Portas Castanho ",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.jpg",
+    descricao: "Roupeiro Colibri 6 Portas Castanho",
+    preco: "R$ "1.599,99"
+  },
+
+  {
+    nome: "Roupeiro Colibri 6Portas Castanho Off White ",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.Off White.jpg",
+    descricao: "Roupeiro Colibri 6 Portas Castanho Off White",
+    preco: "R$ "1.599,99"
+  },
+
+  {
+    nome: "Roupeiro Esplendor.Realeza 6P6G Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Esplendor.Realeza 6P6G Cinamomo.jpg",
+    descricao: "Roupeiro Esplendor Realeza 6 Portas, 4 Gavetas, Cinamomo",
+    preco: "R$ 2.099,99"
+  },
+
+  {
+    nome: "Roupeiro Esplendor.Realeza 6P6G Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Esplendor.Realeza 6P6G Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Esplendor Realeza 6 Portas, 4 Gavetas, Cinamomo Off White",
+    preco: "R$ 2.099,99"
+  },
+
+  {
+    nome: "Roupeiro Imperio com Espelho, 4Portas 6Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Cinamomo.Cinamomo.jpg",
+    descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Cinamomo",
+    preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro Imperio com Espelho, 4Portas 6Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Branco.jpg",
+    descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Branco",
+    preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro Imperio com Espelho, 4Portas 6Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Cinamomo Off White",
+    preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro Itaperuna Celta 6Portas 4Gavetas Cinamomo Ripado Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Itaperuna.Celta 6P4G Cinamomo Ripado.Off White",
+    descricao: "Roupeiro Itaperuna Celta 6 Portas, 4 Gavetas, Cinamomo Ripado Off White",
+    preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro Laconia Esparta 6Portas 9Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro LaconiaEsparta 6P9G Cinamomo.jpg",
+    descricao: "Roupeiro Laconia Esparta 6 Portas, 9 Gavetas, Cinamomo",
+    preco: "R$ 2.499,99"
+  },
+
+  {
+    nome: "Roupeiro Laconia Esparta 6Portas 9Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro LaconiaEsparta 6P9G CinamomoOff White.jpg",
+    descricao: "Roupeiro Laconia Esparta 6 Portas, 9 Gavetas, Cinamomo Off White",
+    preco: "R$ 2.499,99"
+  },
+
+  {
+    nome: "Roupeiro Master Top 8Portas 2Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Master Top 8P2G Cinamomo.jpeg",
+    descricao: "Roupeiro Master Top 8 Portas. 2 Gavetas, Cinamomo",
+    preco: "R$ 1.399,99"
   }
+  
+    
+    
+  
+    
+    
+
+  
+    
+    
+    
+    
+    
     
     
     

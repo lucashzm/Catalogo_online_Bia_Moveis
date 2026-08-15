@@ -298,7 +298,7 @@ const produtos = [
   {
     nome: "Cozinha Lia 3Portas 1Gaveta Cinamomo Off White",
     categoria: "Cozinhas",
-    imagem: "imagens/cozinhas/Cozinha Lia 3Portas 1Gaveta Cinamomo Off White.jpg",
+    imagem: "imagens/cozinhas/Cozinha Lia 3Portas 1Gaveta Cinamomo Off White.jpeg",
     descricao: "Cozinha Lia 3 Portas 1 Gaveta Cinamomo Off White",
     preco: "R$ 599,99"
   },

@@ -278,6 +278,12 @@ h1 span:last-child {
     margin-top: 25px;
   }
 
+  .logo-catalogo {
+    width: 100px;
+    height: auto;
+    margin: 0 auto 15px;
+  }
+
   .catalogo h2 {
     font-size: 23px;
     margin-bottom: 22px;
@@ -325,9 +331,10 @@ h1 span:last-child {
     font-size: 13px;
   }
 }
+}
 .logo-catalogo {
   display: block;
-  width: 120px;
+  width: 160px;
   height: auto;
   margin: 0 auto 20px;
   object-fit: contain;

@@ -118,7 +118,15 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 3P9G Cinamomo Off White.jpg",
     descricao: "Roupeiro Star 3 Portas 9 Gavetas Cinamomo Off White",
-    preco: "R$ 999,99"
+    preco: "R$ 1.299,99"
+  },
+
+  {
+    nome: "Roupeiro Star 3Portas 9Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/ Roupeiro Star 3P9G Branco.jpg",
+    descricao: "Roupeiro Star 3 Portas 9 Gavetas Branco",
+    preco: "R$ 1,299,99"
   },
 
   {

@@ -726,7 +726,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Cinamomo.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Cinamomo Off White",
-    preco: "R$ "1.599,99"
+    preco: "R$ 1.599,99"
   },
 
   {
@@ -734,7 +734,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho",
-    preco: "R$ "1.599,99"
+    preco: "R$ 1.599,99"
   },
 
   {
@@ -742,7 +742,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho Off White",
-    preco: "R$ "1.599,99"
+    preco: "R$ 1.599,99"
   },
 
   {
@@ -788,7 +788,7 @@ const produtos = [
   {
     nome: "Roupeiro Itaperuna Celta 6Portas 4Gavetas Cinamomo Ripado Off White",
     categoria: "Roupeiros",
-    imagem: "imagens/roupeiros/Roupeiro Itaperuna.Celta 6P4G Cinamomo Ripado.Off White",
+    imagem: "imagens/roupeiros/Roupeiro Itaperuna.Celta 6P4G Cinamomo Ripado.Off White.jpg",
     descricao: "Roupeiro Itaperuna Celta 6 Portas, 4 Gavetas, Cinamomo Ripado Off White",
     preco: "R$ 1.399,99"
   },
@@ -823,7 +823,67 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Master BPW 8P2G Cinamomo BPWArenas.jpg",
     descricao: "Roupeiro Master Top 8 Portas, 2 Gavetas, Cinamomo BPW Arenas",
     preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro NT 6020 2Portas 3Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Banco New.Rosa Flex.jpg",
+    descricao: "Roupeito NT 2 Portas, 3 Gavetas, Branco",
+    preco: "R$ 699,99"
+  },
+
+  {
+    nome: "Roupeiro NT 6020 2Portas 3Gavetas Freijó Trend",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Freijo.jpg",
+    descricao: "Roupeito NT 2 Portas, 3 Gavetas, Freijó Trend",
+    preco: "R$ 799,99"
+  },
+
+  {
+    nome: "Roupeiro NT 6020 2Portas 3Gavetas Freijó Trend",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Freijo.jpg",
+    descricao: "Roupeito NT 2 Portas, 3 Gavetas, Freijó Trend",
+    preco: "R$ 799,99"
+  },
+
+  {
+    nome: "Roupeiro NT 6020 2Portas 3Gavetas Freijó Trend Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Off White.jpg",
+    descricao: "Roupeito NT 2 Portas, 3 Gavetas, Freijó Trend/ Off White",
+    preco: "R$ 799,99"
+  },
+
+  {
+    nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Branco Neve",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Branco Neve.jpg",
+    descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Branco Neve",
+    preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.jpg",
+    descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo",
+    preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo/ Off White",
+    preco: "R$ 1.999,99"
   }
+    
+    
+    
+    
 
     
   

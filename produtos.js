@@ -68,8 +68,25 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas Cinamomo Off White",
-    preco: "R$ 1.200,00"
+    preco: "R$ 1.599,00"
   },
+
+  {
+    nome:"Roupeiro Super Master 6Portas 6Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro SuperMaster 6P6G Cinamomo.jpg",
+    descricao: "Roupeiro Super Master 6 Portas 6 Gavetas, Cinamomo",
+    preco: "R$ 1.599,00"
+  },
+
+  {
+    nome:"Roupeiro Super Master 6Portas 6Gavetas Neve",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro SuperMaster 6P6G Neve.jpg",
+    descricao: "Roupeiro Super Master 6 Portas 6 Gavetas, Neve",
+    preco: "R$ 1.599,00"
+  },
+    
 
   {
     nome: "Roupeiro Chicago 6Portas 6Gavetas Cinamomo Off White",
@@ -871,8 +888,8 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo/ Off White",
     preco: "R$ 1.999,99"
-  }
-    
+  },
+
     
     
     

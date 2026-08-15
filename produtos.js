@@ -746,18 +746,18 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Esplendor.Realeza 6P6G Cinamomo",
+    nome: "Roupeiro Esplendor Realeza 6Portas 6Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Esplendor.Realeza 6P6G Cinamomo.jpg",
-    descricao: "Roupeiro Esplendor Realeza 6 Portas, 4 Gavetas, Cinamomo",
+    descricao: "Roupeiro Esplendor Realeza 6 Portas, 6 Gavetas, Cinamomo",
     preco: "R$ 2.099,99"
   },
 
   {
-    nome: "Roupeiro Esplendor.Realeza 6P6G Cinamomo Off White",
+    nome: "Roupeiro Esplendor.Realeza 6Portas 6Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Esplendor.Realeza 6P6G Cinamomo.Off White.jpg",
-    descricao: "Roupeiro Esplendor Realeza 6 Portas, 4 Gavetas, Cinamomo Off White",
+    descricao: "Roupeiro Esplendor Realeza 6 Portas, 6 Gavetas, Cinamomo Off White",
     preco: "R$ 2.099,99"
   },
 
@@ -829,7 +829,7 @@ const produtos = [
     nome: "Roupeiro NT 6020 2Portas 3Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Banco New.Rosa Flex.jpg",
-    descricao: "Roupeito NT 2 Portas, 3 Gavetas, Branco",
+    descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Branco",
     preco: "R$ 699,99"
   },
 
@@ -837,15 +837,7 @@ const produtos = [
     nome: "Roupeiro NT 6020 2Portas 3Gavetas Freijó Trend",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Freijo.jpg",
-    descricao: "Roupeito NT 2 Portas, 3 Gavetas, Freijó Trend",
-    preco: "R$ 799,99"
-  },
-
-  {
-    nome: "Roupeiro NT 6020 2Portas 3Gavetas Freijó Trend",
-    categoria: "Roupeiros",
-    imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Freijo.jpg",
-    descricao: "Roupeito NT 2 Portas, 3 Gavetas, Freijó Trend",
+    descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Freijó Trend",
     preco: "R$ 799,99"
   },
 
@@ -853,7 +845,7 @@ const produtos = [
     nome: "Roupeiro NT 6020 2Portas 3Gavetas Freijó Trend Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Off White.jpg",
-    descricao: "Roupeito NT 2 Portas, 3 Gavetas, Freijó Trend/ Off White",
+    descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Freijó Trend/ Off White",
     preco: "R$ 799,99"
   },
 

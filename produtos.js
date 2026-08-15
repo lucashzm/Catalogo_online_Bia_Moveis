@@ -11,16 +11,33 @@ const produtos = [
     nome: "Roupeiro Star 2Portas 6Gavetas Cinamomo/Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G Cinamomo Off White.jpg",
-    descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Cor Cinamomo/Off White",
-    preco: "R$ 953,00"
+    descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Cinamomo/Off White",
+    preco: "R$ 949,99"
   },
-  
+
+  {
+    nome: "Roupeiro Star 2Portas 6Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Star 2P6G Branco.jpg",
+    descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Branco",
+    preco: "R$ 949,99"
+  },
+
+  {
+    nome: "Roupeiro Star 2Portas 6Gavetas Jequitibá Granizo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Star 2P6G JequitibaGranizo.jpg",
+    descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Jequitibá/ Granizo",
+    preco: "R$ 949,99"
+  },
+    
+
   {
     nome: "Comoda Perola Fluence Plus 8Gavetas Freijo",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G Freijo.jpg",
     descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Cor Freijó",
-    preco: "R$ 480,00"
+    preco: "R$ 479,99"
   },
 
   {
@@ -888,8 +905,7 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo/ Off White",
     preco: "R$ 1.999,99"
-  },
-
+  }
     
     
     

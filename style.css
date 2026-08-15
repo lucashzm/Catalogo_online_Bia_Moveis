@@ -334,7 +334,7 @@ h1 span:last-child {
 }
 .logo-catalogo {
   display: block;
-  width: 190px;
+  width: 120px;
   height: auto;
   margin: 0 auto 20px;
   object-fit: contain;

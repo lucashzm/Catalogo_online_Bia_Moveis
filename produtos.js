@@ -564,7 +564,7 @@ const produtos = [
     nome: "Roupeiro Recife 6Portas 2Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Cinamomo Off White.jpg",
-    descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Branco",
+    descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Cinamomo Off White",
     preco: "R$ 1.099,99"
   },
 
@@ -572,7 +572,7 @@ const produtos = [
     nome: "Roupeiro Recife 6Portas 2Gavetas Jequitibá Granizo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Jequitiba Granizo.jpg",
-    descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Branco",
+    descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Jequitibá Granizo",
     preco: "R$ 1.099,99"
   },
 
@@ -588,7 +588,7 @@ const produtos = [
     nome: "Roupeiro Orion Premium 6Portas 6 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Orion Premium 6P6G Cinamomo.Off White.jpg",
-    descricao: "Roupeiro Orion Premium 6 Portas, 6 Gavetas, Cinamomo",
+    descricao: "Roupeiro Orion Premium 6 Portas, 6 Gavetas, Cinamomo Off White",
     preco: "R$ 2.099,99"
   },
 
@@ -619,7 +619,7 @@ const produtos = [
 
   {
     nome: "Roupeiro Texas 6Portas 4Gavetas Branco",
-    categoria: "Rouepeiros",
+    categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro-Texas-Branco NOVO.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Branco",
     preco: "R$ 1.099,00"
@@ -627,7 +627,7 @@ const produtos = [
 
   {
     nome: "Roupeiro Texas 6Portas 4Gavetas Cinamomo",
-    categoria: "Rouepeiros",
+    categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo",
     preco: "R$ 1.099,00"
@@ -635,7 +635,7 @@ const produtos = [
 
   {
     nome: "Roupeiro Texas 6Portas 4Gavetas Cinamomo Off White",
-    categoria: "Rouepeiros",
+    categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo Off White",
     preco: "R$ 1.099,00"
@@ -643,7 +643,7 @@ const produtos = [
 
   {
     nome: "Roupeiro Texas 6Portas 4Gavetas Jequitibá Granizo",
-    categoria: "Rouepeiros",
+    categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G JequitibaGranizo.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Jequitibá Granizo",
     preco: "R$ 1.099,00"

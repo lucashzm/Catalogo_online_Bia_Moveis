@@ -815,7 +815,17 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Master Top 8P2G Cinamomo.jpeg",
     descricao: "Roupeiro Master Top 8 Portas. 2 Gavetas, Cinamomo",
     preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro Master Top 8Portas 2Gavetas Cinamomo BPW Arenas",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Master BPW 8P2G Cinamomo BPWArenas.jpg",
+    descricao: "Roupeiro Master Top 8 Portas, 2 Gavetas, Cinamomo BPW Arenas",
+    preco: "R$ 1.399,99"
   }
+
+    
   
     
     

@@ -463,6 +463,18 @@ const produtos = [
     preco: "R$ 999,99"
   },
 
+  {
+    nome: "Home Suspenso Ripado Munique Nature",
+    categoria: "Painés/Racks",
+    imagem: "imagens/home/Home Suspenso Ripado Munique Nature.jpg",
+    descricao: "Home Suspenso Ripado Munique Nature",
+    preco: "R$ 899,99"
+
+
+
+
+
+  
   
 
     

@@ -458,7 +458,7 @@ const produtos = [
   {
     nome: "Cozinha Compacta Malu 9Portas 2Gavetas com Balcao Cinamomo Off White",
     categoria: "Cozinhas",
-    imagem: "imagens/cozinhas/Cozinha Compacta  Malu 9P2G com Balcao Cinamomo Off White.jpg",
+    imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Off White.jpg",
     descricao: "Cozinha Compacta Malu 9 Portas 2 Gavetas com Balcão Cinamomo Off White",
     preco: "R$ 999,99"
   },

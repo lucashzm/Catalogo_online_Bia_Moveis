@@ -541,16 +541,167 @@ const produtos = [
     imagem: "imagens/home/Painel Impetus 182 com Nicho e LED Cascata Naturale Off White.jpg",
     descricao: "Painel Impetus 182 com Nicho e LED Cascata Naturale Off White",
     preco: "R$ 1.499,99"
+  },
+
+  
+  {
+    nome: "Roupeiro Recife 6Portas 2Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Cinamomo.jpg",
+    descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Cinamomo",
+    preco: "R$ 1.099,99"
+  },
+
+  {
+    nome: "Roupeiro Recife 6Portas 2Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Branco.jpg",
+    descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Branco",
+    preco: "R$ 1.099,99"
+  },
+
+  {
+    nome: "Roupeiro Recife 6Portas 2Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Cinamomo Off White.jpg",
+    descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Branco",
+    preco: "R$ 1.099,99"
+  },
+
+  {
+    nome: "Roupeiro Recife 6Portas 2Gavetas Jequitibá Granizo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Jequitiba Granizo.jpg",
+    descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Branco",
+    preco: "R$ 1.099,99"
+  },
+
+  {
+    nome: "Roupeiro Orion Premium 6Portas 6 Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Orion Premium 6P6G.jpg",
+    descricao: "Roupeiro Orion Premium 6 Portas, 6 Gavetas, Cinamomo",
+    preco: "R$ 2.099,99"
+  },
+
+  {
+    nome: "Roupeiro Orion Premium 6Portas 6 Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Orion Premium 6P6G Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Orion Premium 6 Portas, 6 Gavetas, Cinamomo",
+    preco: "R$ 2.099,99"
+  },
+
+  {
+    nome: "Roupeiro Recife 8Portas 4Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Recife 8P4G Branco.jpg",
+    descricao: "Roupeiro Recife 8 Portas, 4 Gavetas Branco",
+    preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro Recife 8Portas 4Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Recife 8P4G CinamomoOff White.jpg",
+    descricao: "Roupeiro Recife 8 Portas, 4 Gavetas Cinamomo Off White",
+    preco: "R$ 1.399,99"
+  },
+
+  {
+    nome: "Roupeiro Recife 8Portas 4Gavetas Jequitibá Granizo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Recife 8P4G JequitibaGranizo.jpg",
+    descricao: "Roupeiro Recife 8 Portas, 4 Gavetas Jequitibá Granizo",
+    preco: "R$ 1.399,99"
+  },
+
+
+  {
+    nome: "Roupeiro Texas 6Portas 4Gavetas Branco",
+    categoria: "Rouepeiros",
+    imagem: "imagens/roupeiros/Roupeiro-Texas-Branco NOVO.jpg",
+    descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Branco",
+    preco: "R$ 1.099,00"
+  },
+
+  {
+    nome: "Roupeiro Texas 6Portas 4Gavetas Cinamomo",
+    categoria: "Rouepeiros",
+    imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.jpg",
+    descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo",
+    preco: "R$ 1.099,00"
+  },
+
+  {
+    nome: "Roupeiro Texas 6Portas 4Gavetas Cinamomo Off White",
+    categoria: "Rouepeiros",
+    imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo Off White",
+    preco: "R$ 1.099,00"
+  },
+
+  {
+    nome: "Roupeiro Texas 6Portas 4Gavetas Jequitibá Granizo",
+    categoria: "Rouepeiros",
+    imagem: "imagens/roupeiros/Roupeiro Texas 6P4G JequitibaGranizo.jpg",
+    descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Jequitibá Granizo",
+    preco: "R$ 1.099,00"
+  },
+
+  {
+    nome: "Roupeiro Vision 6Portas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Vision 6P sendo 2P Vidro Fume com LED Cinamomo.jpg",
+    descricao: "Roupeiro Vision 6Portas (2Portas Vidro Fume) com LED, Cinamomo",
+    preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Roupeiro Vision 6Portas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Vision 6P sendo 2P Vidro Fume com LED CinamomoOff White.jpg",
+    descricao: "Roupeiro Vision 6Portas (2Portas Vidro Fume) com LED, Cinamomo Off White",
+    preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Roupeiro Vision 6Portas Jequitibá Granizo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Vision 6P sendo 2P Vidro Fume com LED JequitibaGranizo.jpg",
+    descricao: "Roupeiro Vision 6Portas (2Portas Vidro Fume) com LED, Jequitibá Granizo",
+    preco: "R$ 1.999,99"
   }
-
-
-
-
-
-  
-  
-
+    
+    
+    
+    
+    
+    
     
   
+
+  
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     
     ];

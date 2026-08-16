@@ -10,6 +10,7 @@ const modalDescricao = document.getElementById("modal-descricao");
 const modalPreco = document.getElementById("modal-preco");
 
 const NUMERO_WHATSAPP = "5521983531564";
+const modalWhatsapp = document.getElementById("modal-whatsapp");
 
 const PRODUTOS_POR_PAGINA = 30;
 
@@ -136,7 +137,16 @@ function abrirModal(produto) {
 
   modalPreco.textContent = produto.preco;
 
+  const mensagem =
+    `Olá! Tenho interesse no produto "${produto.nome}", no valor de ${produto.preco}.`;
+
+  const mensagemCodificada = encodeURIComponent(mensagem);
+
+  modalWhatsapp.href =
+    `https://wa.me/${NUMERO_WHATSAPP}?text=${mensagemCodificada}`;
+
   modal.classList.add("aberto");
+}
 }
 
 

@@ -170,7 +170,7 @@ const produtos = [
   },
 
   {
-    ome: "Comoda Vitoria Plus 5Gavetas 1Porta Branco Cedro Areia",
+    nome: "Comoda Vitoria Plus 5Gavetas 1Porta Branco Cedro Areia",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P CedroAreia.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro Areia",

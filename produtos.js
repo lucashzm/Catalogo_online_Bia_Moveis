@@ -12,7 +12,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Cinamomo/Off White",
-    preco: "R$ 949,99"
+    preco: "R$ 1.099,99"
   },
 
   {
@@ -20,7 +20,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G Branco.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Branco",
-    preco: "R$ 949,99"
+    preco: "R$ 1.099,99"
   },
 
   {
@@ -28,7 +28,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G JequitibaGranizo.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Jequitibá/ Granizo",
-    preco: "R$ 949,99"
+    preco: "R$ 1.099,99"
   },
     
 
@@ -41,14 +41,14 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Vivacce 4Portas    4Gavetas Cinamomo Off White",
+    nome: "Roupeiro Vivacce 4Portas 4Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Vivacce 4P4G Cinamomo Off White 4V Albatroz.jpg",
     descricao: "Roupeiro Vivvace 4 Portas, 4 Gavetas, Cor Cinamomo Off White",
-    preco: "R$ 1.399,99"
+    preco: "R$ 1.499,99"
   },
 
-  {
+  /*{
     nome: "Roupeiro Madri 6Portas Vidro Reflecta Peroba",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Madri 6P Vidro Reflecta Peroba 10V.jpg",
@@ -57,19 +57,19 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Camarim Olimpia 4Portas 2Gavetas Cinamomo/Salvia",
+    nome: "Roupeiro Camarim Olimpia 4Portas 2Gavetas Cinamomo Salvia",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Camarim Olimpia 4P2G Cinamomo Salvia.jpg",
     descricao: "Roupeiro Camarim Olimpia 4 Portas 2 Gavetas, Cor Cinamomo/Salvia",
     preco: "R$ 983,00"
-  },
+  }, */
 
   {
     nome: "Roupeiro Itapema 8Portas 4Gavetas c/ Espelho - Nogueira Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema 8P4G com Pés e Espelhos Nogueira Madeira Natura Off White.jpg",
     descricao: "Roupeiro Itapema 8 Portas, 4 Gavetas, com Pés e Espelhos, Cor Nogueira Madeira/ Natura Off White",
-    preco: "R$ 954,00"
+    preco: "R$ 1.099,00"
   },
 
   {
@@ -77,7 +77,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Cinamomo ou Cinamomo.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Cor Cinamomo",
-    preco: "R$ 952,00"
+    preco: "R$ 1.199,00"
   },
 
   {
@@ -137,8 +137,6 @@ const produtos = [
     preco: "R$ 1.399,00"
   },
 
-
-  
   {
      nome: "Roupeiro Itapema 3Portas 9Gavetas Branco Brilho",
     categoria: "Roupeiros",
@@ -147,7 +145,6 @@ const produtos = [
     preco: "R$ 1.399,00"
   },
     
-
   {
     nome: "Comoda Vitoria Plus 5Gavetas 1Porta Cedro",
     categoria: "Cômodas",

@@ -124,7 +124,7 @@ const produtos = [
   {
     nome: "Roupeiro Star 3Portas 9Gavetas Branco",
     categoria: "Roupeiros",
-    imagem: "imagens/roupeiros/ Roupeiro Star 3P9G Branco.jpg",
+    imagem: "imagens/roupeiros/Roupeiro Star 3P9G Branco.jpg",
     descricao: "Roupeiro Star 3 Portas 9 Gavetas Branco",
     preco: "R$ 1,299,99"
   },

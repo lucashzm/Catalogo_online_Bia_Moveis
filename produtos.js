@@ -1222,11 +1222,18 @@ const produtos = [
   },
 
   {
+    nome: "Sofá Retrátil e Reclinável Atlas 3Lugares 320 Linho Bege",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Linho Bege 01 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Linho Bege",
+    preco: "R$ 2.899,99"
+  }
     
     
     
     
     
+   
 
   
   

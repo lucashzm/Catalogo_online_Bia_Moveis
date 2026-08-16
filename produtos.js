@@ -932,11 +932,29 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Atenas Plus 3P4G Cinamomo.jpg",
     descricao: "Roupeiro Atenas Plus 3 Portas, 4 Gavetas, Cinamomo",
     preco: "R$ 1.699,99"
+  },
+
+  {
+    nome: "Roupeiro Verona Plus com Espelho, 2Portas Peroba Off White Peroba",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Verona Plus 2P, sendo 1 Porta Espelhada Peroba Off White Peroba.jpg",
+    descricao: "Roupeiro Verona Plus 2 Portas (1 com espelho), Peroba Off White Peroba",
+    preco: "R$ 2.199,99"
+  },
+
+  {
+    nome: "Roupeiro Verona Plus com Espelho, 2Portas Branco Acetinado",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Verona Plus 2P, sendo 1 Porta Espelhada Branco Acetinado.jpg",
+    descricao: "Roupeiro Verona Plus 2 Portas (1 com espelho), Branco Acetinado",
+    preco: "R$ 2.199,99"
   }
     
     
     
     
+    
+    
 
     
   
@@ -955,33 +973,6 @@ const produtos = [
     
     
     
-    
-    
-    
-    
-  
-
-  
-
-
- 
- 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
     
     ];

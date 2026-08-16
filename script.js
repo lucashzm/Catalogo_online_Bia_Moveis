@@ -9,6 +9,8 @@ const modalImagem = document.getElementById("modal-imagem");
 const modalDescricao = document.getElementById("modal-descricao");
 const modalPreco = document.getElementById("modal-preco");
 
+const NUMERO_WHATSAPP = "5521983531564";
+
 const PRODUTOS_POR_PAGINA = 30;
 
 let categoriaAtual = "Todos";

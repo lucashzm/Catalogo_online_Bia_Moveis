@@ -43,7 +43,7 @@ const produtos = [
   {
     nome: "Comoda Perola Fluence Plus 8Gavetas Naturale Off White",
     categoria: "Cômodas",
-    imagem: "imagens/comodas/ Comoda Perola Fluence Plus 8G NaturaleOff White.jpg",
+    imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G NaturaleOff White.jpg",
     descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Naturale Off White",
     preco: "R$ 599,99"
   },
@@ -158,9 +158,26 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P Cedro.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro",
-    preco: "R$ 480,00"
+    preco: "R$ 499,99"
   },
 
+  {
+    nome: "Comoda Vitoria Plus 5Gavetas 1Porta Branco Brilho",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P Branco Brilho.jpg",
+    descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Branco Brilho",
+    preco: "R$ 499,99"
+  },
+
+  {
+    ome: "Comoda Vitoria Plus 5Gavetas 1Porta Branco Cedro Areia",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P CedroAreia.jpg",
+    descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro Areia",
+    preco: "R$ 499,99"
+  },
+    
+    
   {
     nome: "Conjunto Sala Jantar Cindy Tampo 90 Mel com 4 Cadeiras Delta Mel Savana",
     categoria: "Mesas",
@@ -1009,7 +1026,10 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.Off White.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo Off White",
     preco: "R$ 1.099,99"
-  }
+  },
+
+  {
+    
   
     
     

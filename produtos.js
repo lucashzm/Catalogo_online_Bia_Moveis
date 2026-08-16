@@ -1491,7 +1491,7 @@ const produtos = [
   {
     nome: "Colchao Casal Falcon Firme 138x188x18",
     categoria: "Camas/Colchões/Box",
-    imagem: "imagens/colchao/ColchaoFalconFirme18 NOVO.jpg",
+    imagem: "imagens/colchao/Colchao Casal Falcon Firme 138x188x18",
     descricao: "Colchão Casal Falcon Firme 138x188x18 Plumatex",
     preco: "R$ 799,99"
   },

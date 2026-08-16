@@ -345,3 +345,41 @@ h1 span:last-child {
   margin: 0 auto 20px;
   object-fit: contain;
 }
+
+/* =========================
+   PAGINAÇÃO
+   ========================= */
+
+#paginacao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 35px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+#paginacao button {
+  background-color: white;
+  color: #222;
+  border: 1px solid #ddd;
+  border-radius: 25px;
+  padding: 12px 20px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+  min-width: 48px;
+  min-height: 44px;
+}
+
+#paginacao button:hover {
+  background-color: #f0f0f0;
+}
+
+#paginacao button.ativo {
+  background-color: #a65f1b;
+  color: white;
+  border-color: #a65f1b;
+}

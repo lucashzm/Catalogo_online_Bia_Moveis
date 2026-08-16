@@ -1209,7 +1209,7 @@ const produtos = [
     nome: "Sofá Retrátil e Reclinável Atlas 2.90 Linho Bege",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Linho Bege 01 Idealle.jpg",
-    descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m VeLinho Bege",
+    descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Linho Bege",
     preco: "R$ 2.499,99"
   },
 
@@ -1217,7 +1217,7 @@ const produtos = [
     nome: "Sofá Retrátil e Reclinável Atlas 2.90 Linho Bege Claro",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braco 25cm Velulo Inca Bege Claro 02 Idealle.jpg",
-    descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m VeLinho Bege Claro 02",
+    descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Linho Bege Claro 02",
     preco: "R$ 2.499,99"
   },
 
@@ -1308,8 +1308,6 @@ const produtos = [
     descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 250m, Veludo Inca Preto",
     preco: "R$ 2.399,99"
   },
--------------------------
-
 
   
   {
@@ -1356,7 +1354,7 @@ const produtos = [
     nome: "Sofá Retrátil Reclinável Barcelona 250 Linho Gelo",
     categoria: "Sofás",
     imagem: "imagens/sofás/Estorado Retratil Reclinavel Barcelona 250 2x100 com Braco 25cm Linho Gelo.jpg",
-    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50cm, Linho Gelo",
+    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50m, Linho Gelo",
     preco: "R$ 2.299,99"
   },
 
@@ -1364,7 +1362,7 @@ const produtos = [
     nome: "Sofá Retrátil Reclinável Barcelona 250 Linho Bege",
     categoria: "Sofás",
     imagem: "imagens/sofás/Estofado Retratil Reclinavel Barcelona 250 2x100 mais Braco 25cm Linho Bege 01 Idealle.jpg",
-    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50cm, Linho Bege",
+    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50m, Linho Bege",
     preco: "R$ 2.299,99"
   },
 
@@ -1372,7 +1370,7 @@ const produtos = [
     nome: "Sofá Retrátil Reclinável Barcelona 250 Veludo Inca Azul",
     categoria: "Sofás",
     imagem: "imagens/sofás/Estofado Retratil Reclinavel Barcelona 250 2x100 mais Braco 25cm Veludo Inca Azul 24 Idealle.jpg",
-    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50cm, Veludo Inca Azul",
+    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50m, Veludo Inca Azul",
     preco: "R$ 2.299,99"
   },
 
@@ -1380,7 +1378,7 @@ const produtos = [
     nome: "Sofá Retrátil Reclinável Barcelona 250 Veludo Inca Grafite",
     categoria: "Sofás",
     imagem: "imagens/sofás/Estofado Retratil Reclinavel Barcelona 250 2x100 mais Braco 25cm Veludo Inca Grafite 10 Idealle.jpg",
-    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50cm, Veludo Inca Grafite",
+    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50m, Veludo Inca Grafite",
     preco: "R$ 2.299,99"
   }
 

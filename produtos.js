@@ -319,7 +319,23 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Miami 5Gavetas 1Porta Cinamomo Off White.jpg",
     descricao: "Cômoda Miami 5 Gavetas 1 Porta Cinamomo/Off White",
-    preco: "R$ 329,99"
+    preco: "R$ 449,99"
+  },
+
+  {
+    nome: "Cômoda Miami 5Gavetas 1Porta Branco",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Miami 5G1P Branco.jpg",
+    descricao: "Cômoda Miami 5 Gavetas 1 Porta, Branco",
+    preco: "R$ 449,99"
+  },
+
+  {
+    nome: "Cômoda Miami 5Gavetas 1Porta Preto",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Miami 5G1P Preto.jpg",
+    descricao: "Cômoda Miami 5 Gavetas 1 Porta, Preto",
+    preco: "R$ 449,99"
   },
 
   {

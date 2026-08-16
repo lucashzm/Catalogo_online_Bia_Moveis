@@ -980,7 +980,33 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Samara 2P Flutuantes Vidros Reflecta Peroba.jpg",
     descricao: "Roupeiro Samara 2 Portas Flutuantes Vidro Reflecta Peroba",
     preco: "R$ 5.199,99"
+  },
+
+  {
+    nome: "Roupeiro Santiago Plus com Espelho, 2Portas 2Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Branco.jpg",
+    descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Branco",
+    preco: "R$ 1.099,99"
+  },
+
+   {
+    nome: "Roupeiro Santiago Plus com Espelho, 2Portas 2Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.jpg",
+    descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo",
+    preco: "R$ 1.099,99"
+   },
+
+  {
+     {
+    nome: "Roupeiro Santiago Plus com Espelho, 2Portas 2Gavetas Cinamomo Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.Off White.jpg",
+    descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo Off White",
+    preco: "R$ 1.099,99"
   }
+  
     
     
     

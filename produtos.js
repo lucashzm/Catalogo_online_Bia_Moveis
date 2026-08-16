@@ -398,7 +398,7 @@ const produtos = [
   {
     nome: "Kit Cozinha Catar 6Portas 2Gavetas Jequitiba Granizo",
     categoria: "Cozinhas",
-    imagem: "imagens/cozinhas/Kit Cozinha Catar 6Portas 2Gavetas Jequitiba - Granizo.jpg",
+    imagem: "imagens/cozinhas/Kit Cozinha Catar 6Portas 2Gavetas JequitibaGranizo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba/ Granizo",
     preco: "R$ 1,099,99"
   },

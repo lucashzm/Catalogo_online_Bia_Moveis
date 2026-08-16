@@ -1101,7 +1101,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Royal 2MD 2.00 Veludo Grafite",
+    nome: "Sofá Retrátil e Reclinável Royal 2.00 Veludo Grafite",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Grafite.jpg",
     descricao: "Sofá Retrátil e Reclinável Royal 2 Módulos, 2.00m, Veludo Grafite",
@@ -1109,7 +1109,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Royal 2MD 2.00 Veludo Pérola",
+    nome: "Sofá Retrátil e Reclinável Royal 2.00 Veludo Pérola",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Perola.jpg",
     descricao: "Sofá Retrátil e Reclinável Royal 2 Módulos, 2.00m, Veludo Pérola",
@@ -1117,7 +1117,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Ouro Preto 2MD 2.50 Cappuccino",
+    nome: "Sofá Retrátil e Reclinável Ouro Preto 2.50 Cappuccino",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retr Recl Ouro Preto 250 2x100 Capuccino.jpeg",
     descricao: "Sofá Retrátil e Reclinável Ouro Preto, 2 Módulos, 2.50, Cappuccino",
@@ -1125,7 +1125,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Ouro Preto 2MD 2.50 Grafite",
+    nome: "Sofá Retrátil e Reclinável Ouro Preto 2.50 Grafite",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Grafite.jpg",
     descricao: "Sofá Retrátil e Reclinável Ouro Preto, 2 Módulos, 2.50, Grafite",
@@ -1133,7 +1133,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Ouro Preto 2MD 2.50 Preto",
+    nome: "Sofá Retrátil e Reclinável Ouro Preto 2.50 Preto",
     categoria: "Sofás",
     imagem: "imagens/sofas/Retr Recl Ouro Preto 250 2x100 Preto.jpeg",
     descricao: "Sofá Retrátil e Reclinável Ouro Preto, 2 Módulos, 2.50, Preto",
@@ -1141,7 +1141,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Veludo Inca Grafite",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.30 Veludo Inca Grafite",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Grafite.jpeg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Veludo Inca Grafite",
@@ -1149,7 +1149,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Linho Bege",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.30 Linho Bege",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Linho Bege 01 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Linho Bege 01",
@@ -1157,7 +1157,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Linho Gelo",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.30 Linho Gelo",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Linho Gelo Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Linho Gelo",
@@ -1165,7 +1165,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Veludo Bege Claro",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.30 Veludo Bege Claro",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Bege Claro 02.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Veludo Bege Claro 02",
@@ -1173,7 +1173,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Veludo Inca Marrom",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.30 Veludo Inca Marrom",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Marrom 17 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Veludo Inca Marrom",
@@ -1181,7 +1181,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Linho Bege",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.90 Linho Bege",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Linho Bege 01 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Veludo Linho Bege 01",
@@ -1190,7 +1190,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Veludo Inca Grafite",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.90 Veludo Inca Grafite",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Veludo Inca Grafite 10 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Veludo Inca Grafite",
@@ -1198,7 +1198,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Veludo Inca Marrom",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.90 Veludo Inca Marrom",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Marrom 17 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Veludo Inca Marrom",
@@ -1206,7 +1206,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Linho Bege",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.90 Linho Bege",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Linho Bege 01 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m VeLinho Bege",
@@ -1214,7 +1214,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Linho Bege Claro",
+    nome: "Sofá Retrátil e Reclinável Atlas 2.90 Linho Bege Claro",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braco 25cm Velulo Inca Bege Claro 02 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m VeLinho Bege Claro 02",
@@ -1283,7 +1283,55 @@ const produtos = [
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Buzios 290 2x120 Brc 25cm Veludo Inca Azul 24 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Buzios, 2 Módulos, 2.90m, Veludo Inca Azul",
     preco: "R$ 2.899,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Geriba 250 Veludo Inca Grafite",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 250 2x100 Brc 25cm Veludo Inca Grafite 10 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 250m, Veludo Inca Grafite",
+    preco: "R$ 2.399,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Geriba 250 Linho Bege",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 250 2x100 Brc 25cm Linho Bege 01 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 250m, Linho Bege",
+    preco: "R$ 2.399,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Geriba 250 Veludo Inca Preto",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 250 2x100 Brc 25cm Veludo Inca Preto 13 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 250m, Veludo Inca Preto",
+    preco: "R$ 2.399,99"
+  },
+-------------------------
+
+
+  
+  {
+    nome: "Sofá Retrátil Reclinável Geriba 290 Veludo Inca Bege Claro",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 290 2x120 + Braco 25cm Veludo Inca Bege Claro 02 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 290m, Veludo Inca Bege Claro",
+    preco: "R$ 2.699,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Geriba 290 Veludo Inca Marrom",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 290 2x120 + Braco 25cm Veludo Inca Marrom 17 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 290m, Veludo Inca Marrom",
+    preco: "R$ 2.699,99"
   }
+  
+
+  
+
+    
     
     
     

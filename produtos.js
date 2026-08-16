@@ -1519,9 +1519,7 @@ const produtos = [
     imagem: "imagens/colchao/Colchao Solteiro Inova Plus D45 88x188x26.jpg",
     descricao: "Colchao Solteiro Inova Plus D45 88x188x26 InovaFlex",
     preco: "R$ 699,99"
-  },
-
-  {
+  }
     
     
     

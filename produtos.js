@@ -326,9 +326,26 @@ const produtos = [
     nome: "Cômoda Caribe 10Gavetas Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Caribe 10G Cinamomo Off White.jpg",
-    descricao: "Cômoda Cariba 10 Gavetas Cinamomo Off White",
-    preco: "R$ 386,99"
+    descricao: "Cômoda Cariba 10 Gavetas Cinamomo, Off White",
+    preco: "R$ 499,99"
   },
+
+  {
+    nome: "Cômoda Caribe 10Gavetas Branco",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Caribe 10G Branco.jpg",
+    descricao: "Cômoda Cariba 10 Gavetas, Branco",
+    preco: "R$ 499,99"
+  },
+
+  {
+     nome: "Cômoda Caribe 10Gavetas Preto",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Caribe 10G Preto.jpg",
+    descricao: "Cômoda Cariba 10 Gavetas, Preto",
+    preco: "R$ 499,99"
+  },
+    
 
   {
     nome: "Cômoda Aramoveis 8Gavetas Atacama",
@@ -1026,9 +1043,7 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.Off White.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo Off White",
     preco: "R$ 1.099,99"
-  },
-
-  {
+  }
     
   
     

@@ -1270,12 +1270,22 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil Reclinável Buzios 250 Veludo Inca Azul",
+    nome: "Sofá Retrátil Reclinável Buzios 290 Veludo Inca Bege",
     categoria: "Sofás",
-    imagem: "imagens/sofas/Estofado Retratil Reclinavel Buzios 250 2x100 Brc 25cm Veludo Inca Azul 24 Idealle.jpg",
-    descricao: "Sofá Retrátil e Reclinável Buzios, 2 Módulos, 2.50m, Veludo Inca Azul",
-    preco: "R$ 2.299,99"
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Buzios 290 2x120 Brc 25cm Veludo Inca Bege Claro 02 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Buzios, 2 Módulos, 2.90m, Veludo Inca Bege",
+    preco: "R$ 2.899,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Buzios 290 Veludo Inca Azul",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Buzios 290 2x120 Brc 25cm Veludo Inca Azul 24 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Buzios, 2 Módulos, 2.90m, Veludo Inca Azul",
+    preco: "R$ 2.899,99"
   }
+    
+    
     
   
     

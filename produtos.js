@@ -1326,7 +1326,73 @@ const produtos = [
     imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 290 2x120 + Braco 25cm Veludo Inca Marrom 17 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 290m, Veludo Inca Marrom",
     preco: "R$ 2.699,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Geriba 320 Linho Gelo",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 320 3x90 com Braco 25cm Linho Gelo Idealle.jpeg",
+    descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 320m, Linho Gelo",
+    preco: "R$ 2.999,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Geriba 320 Veludo Inca Azul",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 320 3x90 com Braco 25cm Veludo Inca Azul 24 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 320m, Veludo Inca Azul",
+    preco: "R$ 2.999,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Geriba 320 Veludo Inca Marrom",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Geriba 320 3x90 com Braco 25cm Veludo Inca Marrom 17 Idealle.jpeg",
+    descricao: "Sofá Retrátil e Reclinável Geriba, 2 Módulos, 320m, Veludo Inca Marrom",
+    preco: "R$ 2.999,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Barcelona 250 Linho Gelo",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estorado Retratil Reclinavel Barcelona 250 2x100 com Braco 25cm Linho Gelo.jpg",
+    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50cm, Linho Gelo",
+    preco: "R$ 2.299,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Barcelona 250 Linho Bege",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Barcelona 250 2x100 mais Braco 25cm Linho Bege 01 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50cm, Linho Bege",
+    preco: "R$ 2.299,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Barcelona 250 Veludo Inca Azul",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Barcelona 250 2x100 mais Braco 25cm Veludo Inca Azul 24 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50cm, Veludo Inca Azul",
+    preco: "R$ 2.299,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Barcelona 250 Veludo Inca Grafite",
+    categoria: "Sofás",
+    imagem: "imagens/sofás/Estofado Retratil Reclinavel Barcelona 250 2x100 mais Braco 25cm Veludo Inca Grafite 10 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50cm, Veludo Inca Grafite",
+    preco: "R$ 2.299,99"
   }
+
+
+  
+    
+    
+
+  
+  
+  
+    
   
 
   

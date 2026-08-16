@@ -4,8 +4,49 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Linho Inox Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Tecido Linhão, Nanquim",
-    preco: "R$ 999,99"
+    preco: "R$ 1.199,99"
   },
+
+  {
+    nome: "Sofá Living Felicia 180 3Lugares Corino Chumbo",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Corino Chumbo Viero.jpg",
+    descricao: "Estofado Living Felicia 180 3 Lugares, Corino Chumbo",
+    preco: "R$ 1.199,99"
+  },
+
+  {
+    nome: "Sofá Living Felicia 180 3Lugares Corino Durango",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Corino Durango Viero.jpg",
+    descricao: "Estofado Living Felicia 180 3 Lugares, Corino Durango",
+    preco: "R$ 1.199,99"
+  },
+
+  {
+    nome: "Sofá Living Felicia 180 3Lugares Veludo Marfim",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Marfim Viero.jpg",
+    descricao: "Estofado Living Felicia 180 3 Lugares, Veludo Marfim",
+    preco: "R$ 1.199,99"
+  },
+
+  {
+    nome: "Sofá Living Felicia 180 3Lugares Oliva",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Oliva Viero.jpg",
+    descricao: "Estofado Living Felicia 180 3 Lugares, Oliva",
+    preco: "R$ 1.199,99"
+  },
+
+  {
+    nome: "Sofá Living Felicia 180 3Lugares Terracota",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Terracota Viero.jpg",
+    descricao: "Estofado Living Felicia 180 3 Lugares, Terracota",
+    preco: "R$ 1.199,99"
+  },
+  
 
   {
     nome: "Roupeiro Star 2Portas 6Gavetas Cinamomo/Off White",
@@ -1372,11 +1413,77 @@ const produtos = [
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Barcelona 250 2x100 mais Braco 25cm Veludo Inca Grafite 10 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Barcelona, 2 Módulos, 2.50m, Veludo Inca Grafite",
     preco: "R$ 2.299,99"
-  }
+  },
 
+  {
+    nome: "Sofá Canto M-146 5 Lugares Tecido Acqua Block Caqui",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Sofá Canto M-146 5 Lugares 300x210 - Tecido Acqua Block Cor B-484 Caqui Martins Estofados.jpg",
+    descricao: "Sofá de Canto M-146 5 Lugares, Tecido Acqua Block, Caqui",
+    preco: "R$ 2.999,99"
+  },
+
+  {
+    nome: "Sofa Living Organic M-204 3 Lugares Tecido Boucle Bege Claro",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Sofa Living Organic M204 3 Lugares 2,00m Tecido Boucle Bege Claro B473.jpg",
+    descricao: "Sofá Living Organic M-204 3 Lugares, Tecido Boucle Bege Claro",
+    preco: "R$ 2.499,99"
+  },
+
+  {
+    nome: "Sofa Living Organic M-204 3 Lugares Tecido Boucle Cinza",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Sofa Living Organic M204 3 Lugares 2,00m Tecido Boucle Cinza.jpeg",
+    descricao: "Sofá Living Organic M-204 3 Lugares, Tecido Boucle Cinza",
+    preco: "R$ 2.499,99"
+  },
+
+  {
+    nome: "Sofa Living Organic M-204 3 Lugares Tecido Sarja Verde",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Sofa Living Organic M204 3 Lugares 2,00m Tecido Sarja Verde B485 Martins Estofados.jpg",
+    descricao: "Sofá Living Organic M-204 3 Lugares, Tecido Boucle Sarja Verde",
+    preco: "R$ 2.499,99"
+  },
+
+  {
+    nome: "Sofa Living Organic M-204 3 Lugares Tecido Boucle Bege",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Sofa Living Organic M204 3 Lugares 2,00m Tecido Boucle Côr Bege B474 Martins Estofados.jpg",
+    descricao: "Sofá Living Organic M-204 3 Lugares, Tecido Boucle Bege",
+    preco: "R$ 2.499,99"
+  },
+
+  {
+    nome: "Sofa Living M-203 3 Lugares Tecido Linho Cinza",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Sofa Living M203 3 Lugares 2,00m Tecido Linho Cinza B463 Martins Estofados.jpg",
+    descricao: "Sofá Living M-203 3 Lugares, Tecido Linho Cinza",
+    preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Sofa Living M-203 3 Lugares Tecido Linho Bege",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Sofa Living M203 3 Lugares 2,00m Tecido Linho Bege B452 Martins Estofado.jpg",
+    descricao: "Sofá Living M-203 3 Lugares, TecidoL Linho Bege",
+    preco: "R$ 1.999,99"
+  }
+  
+    
+
+  
 
   
     
+    
+
+  
+
+
+  
+   
     
 
   

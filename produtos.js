@@ -964,6 +964,22 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Las Vegas 2P6G com Espelhos Branco.jpg",
     descricao: "Roupeiro Las Vegas com Espelho, 2 Portas, 6 Gavetas, Branco",
     preco: "R$ 2.999,99"
+  },
+
+  {
+    nome: "Roupeiro Samara 2Portas Flutuantes Vidro Reflecta Off White",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Samara 2P Flutuantes Vidro Reflecta Off White.jpg",
+    descricao: "Roupeiro Samara 2 Portas Flutuantes Vidro Reflecta Off White",
+    preco: "R$ 5.199,99"
+  },
+
+  {
+    nome: "Roupeiro Samara 2Portas Flutuantes Vidro Reflecta Peroba",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/RRoupeiro Samara 2P Flutuantes Vidros Reflecta Peroba.jpg",
+    descricao: "Roupeiro Samara 2 Portas Flutuantes Vidro Reflecta Peroba",
+    preco: "R$ 5.199,99"
   }
     
     

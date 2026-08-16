@@ -590,3 +590,8 @@ h1 span:last-child {
   background-color: #8f5017;
   transform: translateY(-1px);
 }
+
+.botao-whatsapp i {
+  color: #25D366;
+  font-size: 19px;
+}

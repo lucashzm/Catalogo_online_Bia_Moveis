@@ -1059,7 +1059,32 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.Off White.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo Off White",
     preco: "R$ 1.099,99"
+  },
+
+  {
+    nome: "Comoda Mary 5Gavetas 1Porta Branco Brilho",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Mary 5G1P Branco Brilho.jpg",
+    descricao: "Comoda Mary 5 Gavetas, 1 Porta, Branco Brilho",
+    preco: "R$ 549,99"
+  },
+
+  {
+    nome: "Comoda Mary 5Gavetas 1Porta Cedro",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Mary 5G1P Cedro.jpg",
+    descricao: "Comoda Mary 5 Gavetas, 1 Porta, Cedro",
+    preco: "R$ 549,99"
+  },
+
+  {
+    nome: "Comoda Mary 5Gavetas 1Porta Branco Cedro Areia",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/Comoda Mary 5G1P CedroAreia.jpg",
+    descricao: "Comoda Mary 5 Gavetas, 1 Porta, Cedro/ Areia ",
+    preco: "R$ 549,99"
   }
+    
     
   
     

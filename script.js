@@ -147,7 +147,6 @@ function abrirModal(produto) {
 
   modal.classList.add("aberto");
 }
-}
 
 
 function fecharModalProduto() {

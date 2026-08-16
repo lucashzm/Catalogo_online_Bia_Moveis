@@ -391,7 +391,7 @@ const produtos = [
     nome: "Cozinha Compacta Malu 9Portas 2Gavetas com Balcao Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Grafite.jpg",
-    descricao: "Cozinha Compacta Malu 9 Portas, 2 Gavetas com balcão Cinamomo Grafite",
+    descricao: "Cozinha Compacta Malu 9 Portas, 2 Gavetas com balcão Cinamomo/ Grafite",
     preco: "R$ 999,99"
   },
 
@@ -399,15 +399,30 @@ const produtos = [
     nome: "Kit Cozinha Catar 6Portas 2Gavetas Jequitiba Granizo",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6Portas 2Gavetas Jequitiba - Granizo.jpg",
-    descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba Granizo",
-    preco: "R$ 1299,99"
+    descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba/ Granizo",
+    preco: "R$ 1,099,99"
+  },
+
+  {
+    nome: "Kit Cozinha Catar 6Portas 2Gavetas Branco Cinamomo",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G BrancoCinamomo.jpg",
+    descricao: "Cozinha Catar 6 POrtas 2 Gavetas, Branco/ Cinamomo",
+    preco: "R$ 1,099,99"
+  },
+
+  {nome: "Kit Cozinha Catar 6Portas 2Gavetas Jequitiba Granizo",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/",
+    descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba/ Granizo",
+    preco: "R$ 1,099,99"
   },
 
   {
     nome: "Cozinha Lia 3Portas 1Gaveta Cinamomo Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Lia 3Portas 1Gaveta Cinamomo Off White.jpeg",
-    descricao: "Cozinha Lia 3 Portas 1 Gaveta Cinamomo Off White",
+    descricao: "Cozinha Lia 3 Portas 1 Gaveta Cinamomo/ Off White",
     preco: "R$ 599,99"
   },
 
@@ -415,7 +430,7 @@ const produtos = [
     nome: "Cozinha New Topazio 6P2G Cinamomo Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha New Topazio 6Portas 2Gavetas Cinamomo Off White.jpg",
-    descricao: "Cozinha New Topazio 6 Portas 2 Gavetas Cinamomo Off White",
+    descricao: "Cozinha New Topazio 6 Portas 2 Gavetas Cinamomo/ Off White",
     preco: "R$ 860,00"
   },
 
@@ -423,7 +438,7 @@ const produtos = [
     nome: "Cozinha Siena Premium 6Portas 1Gaveta Branco Cinamomo",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Siena Premium 6Portas 1Gaveta Branco Cinamomo.jpg",
-    descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Branco Cinamomo",
+    descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Branco/ Cinamomo",
     preco: "R$ 899,99"
   },
 
@@ -1083,9 +1098,7 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Mary 5G1P CedroAreia.jpg",
     descricao: "Comoda Mary 5 Gavetas, 1 Porta, Cedro/ Areia ",
     preco: "R$ 549,99"
-  },
-
-  {
+  }
     
     
     

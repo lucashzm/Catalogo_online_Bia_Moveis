@@ -1469,7 +1469,25 @@ const produtos = [
     imagem: "imagens/sofas/Sofa Living M203 3 Lugares 2,00m Tecido Linho Bege B452 Martins Estofado.jpg",
     descricao: "Sofá Living M-203 3 Lugares, TecidoL Linho Bege",
     preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Conjunto Estofado 175 3x2Lugares Veludo Bege",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Conj Estofado 175 2x3Lgs Veludo Joinvile Bege Rondomoveis.jpg",
+    descricao: "Conjunto Sofá Joinville 3 e 2 Lugares, Veludo Bege",
+    preco: "R$ 2.499,99"
+  },
+
+  {
+    nome: "Conjunto Estofado 175 3x2Lugares Veludo Marrom",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Conj Estofado 175 2x3Lgs Veludo Jurere Marrom Rondomoveis.jpg",
+    descricao: "Conjunto Sofá Junere 3 e 2 Lugares, Veludo Marrom",
+    preco: "R$ 2.499,99"
   }
+  
+  
   
     
 

@@ -1206,14 +1206,6 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 2.90 Linho Bege",
-    categoria: "Sofás",
-    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Linho Bege 01 Idealle.jpg",
-    descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Linho Bege",
-    preco: "R$ 2.499,99"
-  },
-
-  {
     nome: "Sofá Retrátil e Reclinável Atlas 2.90 Linho Bege Claro",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braco 25cm Velulo Inca Bege Claro 02 Idealle.jpg",

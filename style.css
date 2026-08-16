@@ -185,7 +185,8 @@ h1 span:last-child {
 .produto p {
   color: #555;
   margin: 14px 0 8px;
-  font-size: 14px;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 15px;
   line-height: 1.4;
 }
 

@@ -183,9 +183,10 @@ h1 span:last-child {
 }
 
 .produto p {
-  color: #444;
+  color: #555;
   margin: 14px 0 8px;
-  font-size: 15px;
+  font-size: 14px;
+  line-height: 1.4;
 }
 
 .produto strong {

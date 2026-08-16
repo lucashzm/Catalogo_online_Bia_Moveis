@@ -999,7 +999,6 @@ const produtos = [
    },
 
   {
-     {
     nome: "Roupeiro Santiago Plus com Espelho, 2Portas 2Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.Off White.jpg",

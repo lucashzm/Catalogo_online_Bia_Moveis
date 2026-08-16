@@ -1227,7 +1227,37 @@ const produtos = [
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Linho Bege 01 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Linho Bege",
     preco: "R$ 2.899,99"
+  },
+
+  {
+    nome: "Sofá Retrátil e Reclinável Atlas 3Lugares 320 Linho Gelo",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Linho Gelo.jpg",
+    descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Linho Gelo",
+    preco: "R$ 2.899,99"
+  },
+
+  {
+    nome: "Sofá Retrátil e Reclinável Atlas 3Lugares 320 Linho Bege Claro",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Veludo Inca Bege Claro.jpg",
+    descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Linho Bege Claro",
+    preco: "R$ 2.899,99"
+  },
+
+  {
+    nome: "Sofá Retrátil e Reclinável Atlas 3Lugares 320 Veludo Inca Marrom",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Veludo Inca Marrom 17 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Veludo Inca Marrom",
+    preco: "R$ 2.899,99"
   }
+    
+  
+    
+  
+    
+    
     
     
     

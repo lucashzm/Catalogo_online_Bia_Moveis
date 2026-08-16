@@ -134,8 +134,19 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Cedro Areia.jpg",
     descricao: "Roupeiro Itapema 3 Portas 9 Gavetas Cedro Areia",
-    preco: "R$ 1.199,00"
+    preco: "R$ 1.399,00"
   },
+
+
+  
+  {
+     nome: "Roupeiro Itapema 3Portas 9Gavetas Branco Brilho",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Branco Brilho.jpg",
+    descricao: "Roupeiro Itapema 3 Portas 9 Gavetas Branco Brilho",
+    preco: "R$ 1.399,00"
+  },
+    
 
   {
     nome: "Comoda Vitoria Plus 5Gavetas 1Porta Cedro",
@@ -913,7 +924,16 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo/ Off White",
     preco: "R$ 1.999,99"
+  },
+
+  {
+    nome: "Roupeiro Atenas Plus 3Portas 4Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Atenas Plus 3P4G Cinamomo.jpg",
+    descricao: "Roupeiro Atenas Plus 3 Portas, 4 Gavetas, Cinamomo",
+    preco: "R$ 1.699,99"
   }
+    
     
     
     

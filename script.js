@@ -2,6 +2,13 @@ const listaProdutos = document.getElementById("lista-produtos");
 const botoes = document.querySelectorAll(".filtro");
 const paginacao = document.getElementById("paginacao");
 
+const modal = document.getElementById("modal-produto");
+const fecharModal = document.getElementById("fechar-modal");
+const modalNome = document.getElementById("modal-nome");
+const modalImagem = document.getElementById("modal-imagem");
+const modalDescricao = document.getElementById("modal-descricao");
+const modalPreco = document.getElementById("modal-preco");
+
 const PRODUTOS_POR_PAGINA = 30;
 
 let categoriaAtual = "Todos";
@@ -44,6 +51,10 @@ function mostrarProdutos(categoria, pagina = 1) {
         <strong>${produto.preco}</strong>
       </p>
     `;
+
+    card.addEventListener("click", function() {
+      abrirModal(produto);
+    });
 
     listaProdutos.appendChild(card);
   });
@@ -110,6 +121,49 @@ function criarPaginacao(totalProdutos) {
     paginacao.appendChild(proximo);
   }
 }
+
+
+function abrirModal(produto) {
+
+  modalNome.textContent = produto.nome;
+
+  modalImagem.src = produto.imagem;
+  modalImagem.alt = produto.nome;
+
+  modalDescricao.textContent = produto.descricao;
+
+  modalPreco.textContent = produto.preco;
+
+  modal.classList.add("aberto");
+}
+
+
+function fecharModalProduto() {
+  modal.classList.remove("aberto");
+}
+
+
+fecharModal.addEventListener("click", function() {
+  fecharModalProduto();
+});
+
+
+modal.addEventListener("click", function(event) {
+
+  if (event.target === modal) {
+    fecharModalProduto();
+  }
+
+});
+
+
+document.addEventListener("keydown", function(event) {
+
+  if (event.key === "Escape") {
+    fecharModalProduto();
+  }
+
+});
 
 
 botoes.forEach(function(botao) {

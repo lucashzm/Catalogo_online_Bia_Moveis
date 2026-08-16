@@ -37,7 +37,7 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G Freijo.jpg",
     descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Cor Freijó",
-    preco: "R$ 479,99"
+    preco: "R$ 599,99"
   },
 
   {

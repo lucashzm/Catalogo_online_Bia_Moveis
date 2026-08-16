@@ -977,7 +977,7 @@ const produtos = [
   {
     nome: "Roupeiro Samara 2Portas Flutuantes Vidro Reflecta Peroba",
     categoria: "Roupeiros",
-    imagem: "imagens/roupeiros/RRoupeiro Samara 2P Flutuantes Vidros Reflecta Peroba.jpg",
+    imagem: "imagens/roupeiros/Roupeiro Samara 2P Flutuantes Vidros Reflecta Peroba.jpg",
     descricao: "Roupeiro Samara 2 Portas Flutuantes Vidro Reflecta Peroba",
     preco: "R$ 5.199,99"
   }

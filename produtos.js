@@ -1527,7 +1527,25 @@ const produtos = [
     imagem: "imagens/colchao/Colchao Casal Montreal Molas Ensacadas 138x188x32 Vian Colchoes.jpg",
     descricao: "Colchao Casal Montreal Molas Ensacadas 138x188x32 Vian Colchões",
     preco: "R$ 1.099,99"
+  },
+
+  {
+    nome: "Colchão Casal Smart Classic Molas Ensacadas 138x188x22 Azul Plumatex",
+    categoria: "Camas/Colchões/Box",
+    imagem: "imagens/colchao/Colchão Casal Smart Classic Molas Ensacadas 138x188x22 Azul Plumatex.jpeg",
+    descricao: "Colchão Casal Smart Classic Molas Ensacadas 138x188x22 Azul Plumatex",
+    preco: "R$ 899,99"
+  },
+
+  {
+    nome: "Colchao Casal Resistance Sealy Molas LFK 138x188x32",
+    categoria: "Camas/Colchões/Box",
+    imagem: "imagens/colchao/Colchao Casal Resistance Sealy Molas LFK 138x188x32 Plumatex.jpg",
+    descricao: "Colchao Casal Resistance Sealy Molas LFK 138x188x32 Plumatex",
+    preco: "R$ 1.999,99"
   }
+    
+    
     
     
     

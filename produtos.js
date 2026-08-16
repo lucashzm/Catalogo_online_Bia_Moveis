@@ -1251,7 +1251,34 @@ const produtos = [
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Veludo Inca Marrom 17 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Veludo Inca Marrom",
     preco: "R$ 2.899,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Buzios 250 Veludo Inca Grafite",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Buzios 250 2x100 Brc 25cm Veludo Inca Grafite 10 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Buzios, 2 Módulos, 2.50m, Veludo Inca Grafite",
+    preco: "R$ 2.299,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Buzios 250 Veludo Inca Marrom",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Buzios 250 2x100 Brc 25cm Veludo Inca Marrom 17 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Buzios, 2 Módulos, 2.50m, Veludo Inca Marrom",
+    preco: "R$ 2.299,99"
+  },
+
+  {
+    nome: "Sofá Retrátil Reclinável Buzios 250 Veludo Inca Azul",
+    categoria: "Sofás",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Buzios 250 2x100 Brc 25cm Veludo Inca Azul 24 Idealle.jpg",
+    descricao: "Sofá Retrátil e Reclinável Buzios, 2 Módulos, 2.50m, Veludo Inca Azul",
+    preco: "R$ 2.299,99"
   }
+    
+  
+    
     
   
     

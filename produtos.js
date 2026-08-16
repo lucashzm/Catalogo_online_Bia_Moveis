@@ -4,7 +4,7 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Linho Inox Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Tecido Linhão, Nanquim",
-    preco: "R$ 998,00"
+    preco: "R$ 998,99"
   },
 
   {
@@ -61,7 +61,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Madri 6P Vidro Reflecta Peroba 10V.jpg",
     descricao: "Roupeiro Madri 6 Portas de vidro Reflecta Peroba",
-    preco: "R$ 3.700,00"
+    preco: "R$ 3.700,99"
   },
 
   {
@@ -69,7 +69,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Camarim Olimpia 4P2G Cinamomo Salvia.jpg",
     descricao: "Roupeiro Camarim Olimpia 4 Portas 2 Gavetas, Cinamomo/Salvia",
-    preco: "R$ 983,00"
+    preco: "R$ 983,99"
   }, */
 
   {
@@ -77,7 +77,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema 8P4G com Pés e Espelhos Nogueira Madeira Natura Off White.jpg",
     descricao: "Roupeiro Itapema 8 Portas, 4 Gavetas, com Pés e Espelhos, Cor Nogueira Madeira/ Natura Off White",
-    preco: "R$ 1.099,00"
+    preco: "R$ 1.099,99"
   },
 
   {
@@ -85,7 +85,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Cinamomo ou Cinamomo.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Cinamomo",
-    preco: "R$ 1.199,00"
+    preco: "R$ 1.199,99"
   },
 
   {
@@ -93,7 +93,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas Cinamomo Off White",
-    preco: "R$ 1.599,00"
+    preco: "R$ 1.599,99"
   },
 
   {
@@ -101,7 +101,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro SuperMaster 6P6G Cinamomo.jpg",
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas, Cinamomo",
-    preco: "R$ 1.599,00"
+    preco: "R$ 1.599,99"
   },
 
   {
@@ -109,7 +109,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro SuperMaster 6P6G Neve.jpg",
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas, Neve",
-    preco: "R$ 1.599,00"
+    preco: "R$ 1.599,99"
   },
     
 
@@ -118,7 +118,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Chicago 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Chicaco 6 Portas 6 Gavetas Cinamomo Off White",
-    preco: "R$ 1699,00"
+    preco: "R$ 1699,99"
   },
 
   {
@@ -142,7 +142,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Cedro Areia.jpg",
     descricao: "Roupeiro Itapema 3 Portas 9 Gavetas Cedro Areia",
-    preco: "R$ 1.399,00"
+    preco: "R$ 1.399,99"
   },
 
   {
@@ -183,7 +183,7 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Conjunto Sala Jantar Cindy Tmp Redondo 90cm Mel com 4 Cds Delta Mel Savana.jpg",
     descricao: "Conjunto Mesa Sala de jantar Cindy Tampo Redondo 90 Mel com 4 Cadeiras Delta Mel Savana",
-    preco: "R$ 489,00"
+    preco: "R$ 489,99"
   },
 
   {
@@ -191,7 +191,7 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/conjunto Sala Jantar Luana Tmp Retangular 106 Off White com 4 Cds Luana Mel-Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Luana Tampo Retangular 106 com 4 Cadeiras Luana Mel Savana",
-    preco: "R$ 529,00"
+    preco: "R$ 529,99"
   },
 
   {
@@ -199,7 +199,7 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Conjunto Sala Jantar Sara Tmp Retangular 136 Mel com 6 Cds Luana Mel-Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Sara Tampo Retangular 136 Mel com 6 Cadeiras Luana Mel Savana",
-    preco: "R$ 589,00"
+    preco: "R$ 589,99"
   },
 
   {
@@ -207,7 +207,7 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Wave Oasis 90x90 com 4 Cadeiras Sol Mel Linho Bronze.jpg",
     descricao: "Conjunto Mesa Sala de Jnatar Wave Oasis 90 com 4 Cadeiras SOl Mel Linho Bronze",
-    preco: "R$ 634,00"
+    preco: "R$ 634,99"
   },
 
   {
@@ -392,7 +392,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Grafite.jpg",
     descricao: "Cozinha Compacta Malu 9 Portas, 2 Gavetas com balcão Cinamomo Grafite",
-    preco: "R$ 999,00"
+    preco: "R$ 999,99"
   },
 
   {
@@ -1083,7 +1083,10 @@ const produtos = [
     imagem: "imagens/comodas/Comoda Mary 5G1P CedroAreia.jpg",
     descricao: "Comoda Mary 5 Gavetas, 1 Porta, Cedro/ Areia ",
     preco: "R$ 549,99"
-  }
+  },
+
+  {
+    
     
     
   

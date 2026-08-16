@@ -3,7 +3,7 @@ const produtos = [
     nome: "Sofá Living Felicia 180 3Lugares Linhão Nanquim",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Linho Inox Viero.jpg",
-    descricao: "Estofado Living Felicia 180 3 Lugares, Tecido Linhão, Cor Nanquim",
+    descricao: "Estofado Living Felicia 180 3 Lugares, Tecido Linhão, Nanquim",
     preco: "R$ 998,00"
   },
 
@@ -41,10 +41,18 @@ const produtos = [
   },
 
   {
+    nome: "Comoda Perola Fluence Plus 8Gavetas Naturale Off White",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/ Comoda Perola Fluence Plus 8G NaturaleOff White.jpg",
+    descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Naturale Off White",
+    preco: "R$ 599,99"
+  },
+   
+  {
     nome: "Roupeiro Vivacce 4Portas 4Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Vivacce 4P4G Cinamomo Off White 4V Albatroz.jpg",
-    descricao: "Roupeiro Vivvace 4 Portas, 4 Gavetas, Cor Cinamomo Off White",
+    descricao: "Roupeiro Vivvace 4 Portas, 4 Gavetas, Cinamomo Off White",
     preco: "R$ 1.499,99"
   },
 
@@ -60,7 +68,7 @@ const produtos = [
     nome: "Roupeiro Camarim Olimpia 4Portas 2Gavetas Cinamomo Salvia",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Camarim Olimpia 4P2G Cinamomo Salvia.jpg",
-    descricao: "Roupeiro Camarim Olimpia 4 Portas 2 Gavetas, Cor Cinamomo/Salvia",
+    descricao: "Roupeiro Camarim Olimpia 4 Portas 2 Gavetas, Cinamomo/Salvia",
     preco: "R$ 983,00"
   }, */
 
@@ -76,7 +84,7 @@ const produtos = [
     nome: "Roupeiro Panama 3Portas 4Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Cinamomo ou Cinamomo.jpg",
-    descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Cor Cinamomo",
+    descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Cinamomo",
     preco: "R$ 1.199,00"
   },
 

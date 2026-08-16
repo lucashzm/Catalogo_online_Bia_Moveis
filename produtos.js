@@ -1103,7 +1103,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Royal 2MD 2.00 Veludo Grafite",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Grafite.jpg",
+    imagem: "imagens/sofas/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Grafite.jpg",
     descricao: "Sofá Retrátil e Reclinável Royal 2 Módulos, 2.00m, Veludo Grafite",
     preco: "R$ 1.199,99"
   },
@@ -1111,7 +1111,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Royal 2MD 2.00 Veludo Pérola",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Perola.jpg",
+    imagem: "imagens/sofas/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Perola.jpg",
     descricao: "Sofá Retrátil e Reclinável Royal 2 Módulos, 2.00m, Veludo Pérola",
     preco: "R$ 1.199,99"
   },
@@ -1119,7 +1119,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Ouro Preto 2MD 2.50 Cappuccino",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retr Recl Ouro Preto 250 2x100 Capuccino.jpeg",
+    imagem: "imagens/sofas/Estofado Retr Recl Ouro Preto 250 2x100 Capuccino.jpeg",
     descricao: "Sofá Retrátil e Reclinável Ouro Preto, 2 Módulos, 2.50, Cappuccino",
     preco: "R$ 2.599,99"
   },
@@ -1127,7 +1127,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Ouro Preto 2MD 2.50 Grafite",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Grafite.jpg",
+    imagem: "imagens/sofas/Estofado Retratil e Reclinavel Royal 200 2x100 Veludo Grafite.jpg",
     descricao: "Sofá Retrátil e Reclinável Ouro Preto, 2 Módulos, 2.50, Grafite",
     preco: "R$ 2.599,99"
   },
@@ -1135,7 +1135,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Ouro Preto 2MD 2.50 Preto",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Retr Recl Ouro Preto 250 2x100 Preto.jpeg",
+    imagem: "imagens/sofas/Retr Recl Ouro Preto 250 2x100 Preto.jpeg",
     descricao: "Sofá Retrátil e Reclinável Ouro Preto, 2 Módulos, 2.50, Preto",
     preco: "R$ 2.599,99"
   },
@@ -1143,7 +1143,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Veludo Inca Grafite",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Grafite.jpeg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Grafite.jpeg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Veludo Inca Grafite",
     preco: "R$ 2.099,99"
   },
@@ -1151,7 +1151,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Linho Bege",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Linho Bege 01 Idealle.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Linho Bege 01 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Linho Bege 01",
     preco: "R$ 2.099,99"
   },
@@ -1159,7 +1159,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Linho Gelo",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Linho Gelo Idealle.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Linho Gelo Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Linho Gelo",
     preco: "R$ 2.099,99"
   },
@@ -1167,7 +1167,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Veludo Bege Claro",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Bege Claro 02.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Bege Claro 02.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Veludo Bege Claro 02",
     preco: "R$ 2.099,99"
   },
@@ -1175,7 +1175,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.30 Veludo Inca Marrom",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Marrom 17 Idealle.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Marrom 17 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.30m Veludo Inca Marrom",
     preco: "R$ 2.099,99"
   },
@@ -1183,7 +1183,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Linho Bege",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Linho Bege 01 Idealle.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Linho Bege 01 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Veludo Linho Bege 01",
     preco: "R$ 2.499,99"
 
@@ -1192,7 +1192,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Veludo Inca Grafite",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Veludo Inca Grafite 10 Idealle.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Veludo Inca Grafite 10 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Veludo Inca Grafite",
     preco: "R$ 2.499,99"
   },
@@ -1200,7 +1200,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Veludo Inca Marrom",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Marrom 17 Idealle.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 230 2x90 + Braco 25cm Veludo Inca Marrom 17 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m Veludo Inca Marrom",
     preco: "R$ 2.499,99"
   },
@@ -1208,7 +1208,7 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Linho Bege",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Linho Bege 01 Idealle.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braço 25cm Linho Bege 01 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m VeLinho Bege",
     preco: "R$ 2.499,99"
   },
@@ -1216,10 +1216,13 @@ const produtos = [
   {
     nome: "Sofá Retrátil e Reclinável Atlas 2MD 2.90 Linho Bege Claro",
     categoria: "Sofás",
-    imagem: "imagens/sofás/Estofado Retratil Reclinavel Atlas 290 2x120 + Braco 25cm Velulo Inca Bege Claro 02 Idealle.jpg",
+    imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 290 2x120 + Braco 25cm Velulo Inca Bege Claro 02 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 2 Módulos, 2.90m VeLinho Bege Claro 02",
     preco: "R$ 2.499,99"
-  }
+  },
+
+  {
+    
     
     
     

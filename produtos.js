@@ -4,7 +4,7 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Linho Inox Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Tecido Linhão, Nanquim",
-    preco: "R$ 998,99"
+    preco: "R$ 999,99"
   },
 
   {

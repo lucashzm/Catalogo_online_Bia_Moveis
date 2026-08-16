@@ -948,7 +948,25 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Verona Plus 2P, sendo 1 Porta Espelhada Branco Acetinado.jpg",
     descricao: "Roupeiro Verona Plus 2 Portas (1 com espelho), Branco Acetinado",
     preco: "R$ 2.199,99"
+  },
+
+  {
+    nome: "Roupeiro Las Vegas com Espelho, 2Portas 6Gavetas Cinamomo",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Las Vegas 2P6G com Espelhos Cinamomo.jpg",
+    descricao: "Roupeiro Las Vegas com Espelho, 2 Portas, 6 Gavetas, Cinamomo",
+    preco: "R$ 2.999,99"
+  },
+
+  {
+    nome: "Roupeiro Las Vegas com Espelho, 2Portas 6Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Las Vegas 2P6G com Espelhos Branco.jpg",
+    descricao: "Roupeiro Las Vegas com Espelho, 2 Portas, 6 Gavetas, Branco",
+    preco: "R$ 2.999,99"
   }
+    
+    
     
     
     

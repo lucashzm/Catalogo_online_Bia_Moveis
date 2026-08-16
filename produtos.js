@@ -1519,7 +1519,16 @@ const produtos = [
     imagem: "imagens/colchao/Colchao Solteiro Inova Plus D45 88x188x26.jpg",
     descricao: "Colchao Solteiro Inova Plus D45 88x188x26 InovaFlex",
     preco: "R$ 699,99"
+  },
+
+  {
+    nome: "Colchao Casal Montreal Molas Ensacadas 138x188x32",
+    categoria: "Camas/Colchões/Box",
+    imagem: "imagens/colchao/Colchao Casal Montreal Molas Ensacadas 138x188x32 Vian Colchoes.jpg",
+    descricao: "Colchao Casal Montreal Molas Ensacadas 138x188x32 Vian Colchões",
+    preco: "R$ 1.099,99"
   }
+    
     
     
     

@@ -441,7 +441,7 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6Portas 2Gavetas JequitibaGranizo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba/ Granizo",
-    preco: "R$ 1,099,99"
+    preco: "R$ 1,299,99"
   },
 
   {
@@ -449,14 +449,15 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G BrancoCinamomo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas, Branco/ Cinamomo",
-    preco: "R$ 1,099,99"
+    preco: "R$ 1,299,99"
   },
 
-  {nome: "Kit Cozinha Catar 6Portas 2Gavetas Jequitiba Granizo",
+  {
+    nome: "Kit Cozinha Catar 6Portas 2Gavetas Cinamomo Off White",
     categoria: "Cozinhas",
-    imagem: "imagens/cozinhas/",
-    descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba/ Granizo",
-    preco: "R$ 1,099,99"
+    imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G CinamomoOff White.jpg",
+    descricao: "Cozinha Catar 6 POrtas 2 Gavetas Cinamomo/ Off White",
+    preco: "R$ 1,299,99"
   },
 
   {
@@ -1458,7 +1459,7 @@ const produtos = [
   {
     nome: "Sofa Living M-203 3 Lugares Tecido Linho Cinza",
     categoria: "Sofás",
-    imagem: "imagens/sofas/Sofa Living M203 3 Lugares 2,00m Tecido Linho Cinza B463 Martins Estofados.jpg",
+    imagem: "imagens/sofas/Sofa Living M203 3 Lugares 2,00m  Tecido Linho Cinza B463 Martins Estofados.jpg",
     descricao: "Sofá Living M-203 3 Lugares, Tecido Linho Cinza",
     preco: "R$ 1.999,99"
   },

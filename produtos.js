@@ -1485,9 +1485,43 @@ const produtos = [
     imagem: "imagens/sofas/Conj Estofado 175 2x3Lgs Veludo Jurere Marrom Rondomoveis.jpg",
     descricao: "Conjunto Sofá Junere 3 e 2 Lugares, Veludo Marrom",
     preco: "R$ 2.499,99"
+  },
+
+  {
+    nome: "Colchao Casal Falcon Firme 138x188x18",
+    categoria: "Camas/Colchões/Box",
+    imagem: "imagens/colchao/ColchaoFalconFirme18 NOVO.jpg",
+    descricao: "Colchão Casal Falcon Firme 138x188x18 Plumatex",
+    preco: "R$ 799,99"
+  },
+
+  {
+    nome: "Colchão Casal Light D33 138x188x14",
+    categoria: "Camas/Colchões/Box",
+    imagem: "imagens/colchao/Colchão Casal Light D33 138x188x14.jpg",
+    descricao: "Colchão Casal Light D33 138x188x14 Ortobom",
+    preco: "R$ 799,99"
+  },
+
+  {
+    nome: "Colchao Casal Fit D45 138x188x25",
+    categoria: "Camas/Colchões/Box",
+    imagem: "imagens/colchao/Colchao Casal Fit D45 138x188x25.jpg",
+    descricao: "Colchao Casal Fit D45 138x188x25 Ortobom",
+    preco: "R$ 1.499,99"
+  },
+
+  {
+
+    nome: "Colchao Solteiro Inova Plus D45 88x188x26",
+    categoria: "Camas/Colchões/Box",
+    imagem: "imagens/colchao/Colchao Solteiro Inova Plus D45 88x188x26.jpg",
+    descricao: "Colchao Solteiro Inova Plus D45 88x188x26 InovaFlex",
+    preco: "R$ 699,99"
   }
-  
-  
+    
+    
+    
   
     
 

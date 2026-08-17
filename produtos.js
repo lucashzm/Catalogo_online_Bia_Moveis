@@ -4,7 +4,9 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Linho Inox Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Tecido Linhão, Nanquim",
+    detalhes: "Estofado Living Felicia 180, 3 Lugares, tecido Linhão, cor Nanquim, da Viero. Medidas: Alt. 0,865 m, Larg. 1,815 m, Prof. 0,765 m. Peso: 44 kg. Estrutura 100% em madeira de eucalipto com base em MDP. Encosto fixo com almofadas em fibra siliconada. Assento fixo em espuma de poliuretano D23, com uma mola de sustentação no centro de cada assento. Braços em espuma D12 e pés de madeira. Suporta até 130 kg.",
     preco: "R$ 1.199,99"
+    
   },
 
   {

@@ -153,7 +153,7 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Branco Salleto.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Branco",
     detalhes: "Roupeiro Panama, da Salleto, cor Branco. Medidas: Alt. 2,08 m, Larg. 1,855 m, Prof. 0,47 m. Peso: 118,5 kg. Estrutura 100% em MDP 12 mm. 3 portas de correr em MDP 15 mm, com roldanas de aço/plástico sobre trilho de alumínio. 4 gavetas com corrediças telescópicas, 5 prateleiras, nichos para roupas de cama, travesseiros e sapatos, 3 cabideiros de polipropileno e puxadores de MDF.",
-    preco: "R$ 1.199,99
+    preco: "R$ 1.199,99"
   },
 
   {
@@ -162,7 +162,7 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Jequitiba ou Jequitiba.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Jequitibá",
     detalhes: "Roupeiro Panama, da Salleto, cor Jequitibá. Medidas: Alt. 2,08 m, Larg. 1,855 m, Prof. 0,47 m. Peso: 118,5 kg. Estrutura 100% em MDP 12 mm. 3 portas de correr em MDP 15 mm, com roldanas de aço/plástico sobre trilho de alumínio. 4 gavetas com corrediças telescópicas, 5 prateleiras, nichos para roupas de cama, travesseiros e sapatos, 3 cabideiros de polipropileno e puxadores de MDF.",
-    preco: "R$ 1.199,99
+    preco: "R$ 1.199,99"
   },
   
   {

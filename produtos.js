@@ -14,7 +14,9 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Corino Chumbo Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Corino Chumbo",
+    detalhes: "Estofado Living Felicia 180, 3 Lugares, da Viero, em tecido Corino, cor Chumbo. Medidas: Alt. 0,865 m, Larg. 1,815 m, Prof. 0,765 m. Peso: 44 kg. Estrutura 100% em madeira de eucalipto com base em MDP. Encosto fixo com almofadas em fibra siliconada. Assento fixo em espuma de poliuretano D23, com mola de sustentação no centro de cada assento. Braços em espuma D12 e pés de madeira. Suporta até 130 kg.",
     preco: "R$ 1.199,99"
+    
   },
 
   {
@@ -22,6 +24,7 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Corino Durango Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Corino Durango",
+    detalhes: "Estofado Living Felicia 180, 3 Lugares, da Viero, em tecido Corino, cor Durango. Medidas: Alt. 0,865 m, Larg. 1,815 m, Prof. 0,765 m. Peso: 44 kg. Estrutura 100% em madeira de eucalipto com base em MDP. Encosto fixo com almofadas em fibra siliconada. Assento fixo em espuma de poliuretano D23, com mola de sustentação no centro de cada assento. Braços em espuma D12 e pés de madeira. Suporta até 130 kg.",
     preco: "R$ 1.199,99"
   },
 
@@ -30,6 +33,7 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Marfim Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Veludo Marfim",
+    detalhes: "Estofado Living Felicia 180, 3 Lugares, da Viero, em tecido Veludo, cor Marfim. Medidas: Alt. 0,865 m, Larg. 1,815 m, Prof. 0,765 m. Peso: 44 kg. Estrutura 100% em madeira de eucalipto com base em MDP. Encosto fixo com almofadas em fibra siliconada. Assento fixo em espuma de poliuretano D23, com mola de sustentação no centro de cada assento. Braços em espuma D12 e pés de madeira. Suporta até 130 kg.",
     preco: "R$ 1.199,99"
   },
 
@@ -38,6 +42,7 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Oliva Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Oliva",
+    detalhes: "Estofado Living Felicia 180, 3 Lugares, da Viero, em tecido Veludo, cor Oliva. Medidas: Alt. 0,865 m, Larg. 1,815 m, Prof. 0,765 m. Peso: 44 kg. Estrutura 100% em madeira de eucalipto com base em MDP. Encosto fixo com almofadas em fibra siliconada. Assento fixo em espuma de poliuretano D23, com mola de sustentação no centro de cada assento. Braços em espuma D12 e pés de madeira. Suporta até 130 kg.",
     preco: "R$ 1.199,99"
   },
 
@@ -46,6 +51,7 @@ const produtos = [
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Terracota Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Terracota",
+    detalhes: "Estofado Living Felicia 180, 3 Lugares, da Viero, em tecido Veludo, cor Terracota. Medidas: Alt. 0,865 m, Larg. 1,815 m, Prof. 0,765 m. Peso: 44 kg. Estrutura 100% em madeira de eucalipto com base em MDP. Encosto fixo com almofadas em fibra siliconada. Assento fixo em espuma de poliuretano D23, com mola de sustentação no centro de cada assento. Braços em espuma D12 e pés de madeira. Suporta até 130 kg.",
     preco: "R$ 1.199,99"
   },
   

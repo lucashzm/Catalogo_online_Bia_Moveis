@@ -61,6 +61,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Cinamomo/Off White",
+    detalhes: "Roupeiro Star, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,23 m, Larg. 1,195 m, Prof. 0,47 m. Peso: 84,9 kg. Estrutura 100% em MDP. 2 portas de correr com roldanas metálicas e trilhos de alumínio. 6 gavetas com corrediças telescópicas, 1 cabideiro, 4 nichos internos para roupas e objetos pessoais e puxadores de madeira.",
     preco: "R$ 1.099,99"
   },
 
@@ -69,6 +70,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G Branco.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Branco",
+    detalhes: "Roupeiro Star, da Salleto, cor Branco. Medidas: Alt. 2,23 m, Larg. 1,195 m, Prof. 0,47 m. Peso: 84,9 kg. Estrutura 100% em MDP. 2 portas de correr com roldanas metálicas e trilhos de alumínio. 6 gavetas com corrediças telescópicas, 1 cabideiro, 4 nichos internos para roupas e objetos pessoais e puxadores de madeira.",
     preco: "R$ 1.099,99"
   },
 
@@ -77,6 +79,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G JequitibaGranizo.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Jequitibá/ Granizo",
+    detalhes: "Roupeiro Star, da Salleto, cor Jequitibá/Granizo. Medidas: Alt. 2,23 m, Larg. 1,195 m, Prof. 0,47 m. Peso: 84,9 kg. Estrutura 100% em MDP. 2 portas de correr com roldanas metálicas e trilhos de alumínio. 6 gavetas com corrediças telescópicas, 1 cabideiro, 4 nichos internos para roupas e objetos pessoais e puxadores de madeira.",
     preco: "R$ 1.099,99"
   },
     
@@ -86,6 +89,7 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G Freijo.jpg",
     descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Cor Freijó",
+    detalhes: "Cômoda Pérola Fluence Plus, da Móveis Paraná, cor Freijó. Medidas: Alt. 0,97 m, Larg. 1,20 m, Prof. 0,40 m. Estrutura 100% em MDP 12 mm. 8 gavetas com corrediças metálicas, puxadores e pés cônicos de PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 599,99"
   },
 
@@ -94,6 +98,7 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G NaturaleOff White.jpg",
     descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Naturale Off White",
+    detalhes: "Cômoda Pérola Fluence Plus, da Móveis Paraná, cor Naturale/Off White. Medidas: Alt. 0,97 m, Larg. 1,20 m, Prof. 0,40 m. Estrutura 100% em MDP 12 mm. 8 gavetas com corrediças metálicas, puxadores e pés cônicos de PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 599,99"
   },
    
@@ -101,7 +106,10 @@ const produtos = [
     nome: "Roupeiro Vivacce 4Portas 4Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Vivacce 4P4G Cinamomo Off White 4V Albatroz.jpg",
-    descricao: "Roupeiro Vivvace 4 Portas, 4 Gavetas, Cinamomo Off White",
+    imagens: [ "imagens/roupeiros/Roupeiro Vivacce 4P4G CinamomoOff White 4V Albatroz Moveis interior.jpg" 
+             ],
+    detalhes: "Roupeiro Vivacce, da Albatroz Móveis, cor Cinamomo/Off White. Medidas: Alt. 2,17 m, Larg. 2,12 m, Prof. 0,47 m. Peso: 119 kg. Estrutura 100% em MDP 12 mm e 15 mm. 4 portas de giro com dobradiças metálicas e puxadores de perfil de MDF. 4 gavetas externas com corrediças telescópicas e puxadores em cava. Colmeia interna com 9 nichos: 2 amplos com cabideiros de alumínio, 1 superior para malas ou roupas de cama e 6 laterais para roupas, bolsas e objetos pessoais. Pés plásticos de PVC e acabamento em pintura UV semibrilho.",
+    descricao: "Roupeiro Vivacce 4 Portas, 4 Gavetas, Cinamomo Off White",
     preco: "R$ 1.499,99"
   },
 
@@ -126,6 +134,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema 8P4G com Pés e Espelhos Nogueira Madeira Natura Off White.jpg",
     descricao: "Roupeiro Itapema 8 Portas, 4 Gavetas, com Pés e Espelhos, Cor Nogueira Madeira/ Natura Off White",
+    detalhes: "Roupeiro Itapema 8P2G com pés e espelhos, da Atualle Móveis, cor Nogueira/Natura Off White. Medidas: Alt. 1,82 m, Larg. 1,82 m, Prof. 0,40 m. Estrutura 100% em MDP 12 mm e 15 mm. 8 portas de bater com dobradiças metálicas, 4 gavetas externas com corrediças metálicas e puxadores de perfil em MDF. 1 nicho com cabideiro de madeira e 6 nichos laterais, divididos por 4 prateleiras, para roupas, malas, sapatos e objetos pessoais. Acabamento em pintura UV fosco/semibrilho.",
     preco: "R$ 1.099,99"
   },
 
@@ -134,9 +143,28 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Cinamomo ou Cinamomo.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Panama, da Salleto, cor Cinamomo. Medidas: Alt. 2,08 m, Larg. 1,855 m, Prof. 0,47 m. Peso: 118,5 kg. Estrutura 100% em MDP 12 mm. 3 portas de correr em MDP 15 mm, com roldanas de aço/plástico sobre trilho de alumínio. 4 gavetas com corrediças telescópicas, 5 prateleiras, nichos para roupas de cama, travesseiros e sapatos, 3 cabideiros de polipropileno e puxadores de MDF.",
     preco: "R$ 1.199,99"
   },
 
+  {
+    nome: "Roupeiro Panama 3Portas 4Gavetas Branco",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Branco Salleto.jpg",
+    descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Branco",
+    detalhes: "Roupeiro Panama, da Salleto, cor Branco. Medidas: Alt. 2,08 m, Larg. 1,855 m, Prof. 0,47 m. Peso: 118,5 kg. Estrutura 100% em MDP 12 mm. 3 portas de correr em MDP 15 mm, com roldanas de aço/plástico sobre trilho de alumínio. 4 gavetas com corrediças telescópicas, 5 prateleiras, nichos para roupas de cama, travesseiros e sapatos, 3 cabideiros de polipropileno e puxadores de MDF.",
+    preco: "R$ 1.199,99
+  },
+
+  {
+    nome: "Roupeiro Panama 3Portas 4Gavetas Jequitibá",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Jequitiba ou Jequitiba.jpg",
+    descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Jequitibá",
+    detalhes: "Roupeiro Panama, da Salleto, cor Jequitibá. Medidas: Alt. 2,08 m, Larg. 1,855 m, Prof. 0,47 m. Peso: 118,5 kg. Estrutura 100% em MDP 12 mm. 3 portas de correr em MDP 15 mm, com roldanas de aço/plástico sobre trilho de alumínio. 4 gavetas com corrediças telescópicas, 5 prateleiras, nichos para roupas de cama, travesseiros e sapatos, 3 cabideiros de polipropileno e puxadores de MDF.",
+    preco: "R$ 1.199,99
+  },
+  
   {
     nome:"Roupeiro Super Master 6Portas 6Gavetas Cinamomo Off White",
     categoria: "Roupeiros",

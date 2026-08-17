@@ -684,12 +684,57 @@ const produtos = [
     nome: "Cozinha Duda 120 5Portas 1Gavetas Cinamomo Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Duda 120 5P1G Cinamomo.Cinamomo Off White.jpg",
+    imagens: [ "imagens/cozinha/cozinha duda 120 interno.jpg"
+              ],
     descricao: "Cozinha Duda 120 5 Portas 1 Gaveta Cinamomo Off White",
-    preco: "R$ 549,99"
+    detalhes: "Kit Cozinha Duda 120, da Poquema, cor Cinamomo/Cinamomo Off White. Medidas: Alt. 1,72 m, Larg. 1,20 m, Prof. 0,35 m. Estrutura 100% em MDP. 3 portas de bater com dobradiças metálicas, 2 portas de correr e 1 gaveta com corrediça metálica. 2 prateleiras externas, puxadores plásticos metalizados prata e pés plásticos rígidos.",
+    preco: "R$ 749,99"
   },
 
+    {
+    nome: "Cozinha Duda 120 5Portas 1Gavetas Damasco Ripado/ Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/",
+    imagens: [ "imagens/cozinha/
+              ],
+    descricao: "Cozinha Duda 120 5 Portas 1 Gaveta, Damasco Ripado/ Off White ",
+    detalhes: "Kit Cozinha Duda 120, da Poquema, cor Damasco Ripado (efeito 3D)/Off White. Medidas: Alt. 1,72 m, Larg. 1,20 m, Prof. 0,35 m. Estrutura 100% em MDP. 3 portas de bater com dobradiças metálicas, 2 portas de correr e 1 gaveta com corrediça metálica. 2 prateleiras externas, puxadores plásticos metalizados prata e pés plásticos rígidos.",
+    preco: "R$ 749,99"
+  },
 
+    {
+    nome: "Cozinha Duda 120 5Portas 1Gavetas Damasco/ Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/",
+    imagens: [ "imagens/cozinha/"
+              ],
+    descricao: "Cozinha Duda 120 5 Portas 1 Gaveta Damasco/ Off White",
+      detalhes: "Kit Cozinha Duda 120, da Poquema, cor Damasco/Off White. Medidas: Alt. 1,72 m, Larg. 1,20 m, Prof. 0,35 m. Estrutura 100% em MDP. 3 portas de bater com dobradiças metálicas, 2 portas de correr e 1 gaveta com corrediça metálica. 2 prateleiras externas, puxadores plásticos metalizados prata e pés plásticos rígidos.",
+    preco: "R$ 749,99"
+  },
 
+  
+  {
+    nome: "Cozinha Malaga 6Portas 2Gavetas Cinamomo Grafite",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/Cozinha Malaga 6P2G Cinamomo Grafite.jpg",
+    imagens: [ "imagens/cozinhas/cozinha malaga cinamomo grafite interno.jpg"
+              ],
+    descricao: "Cozinha Malaga 6 Portas 2 Gavetas Cinamomo Grafite",
+    detalhes: "Kit Cozinha Málaga 6P2G, da Fellicci, cor Cinamomo/Grafite. Medidas: Alt. 1,93 m, Larg. 1,62 m, Prof. 0,39 m. Peso: 60,7 kg. Estrutura 100% em MDP, com caixas em 12 mm e portas e frentes de gavetas em 15 mm. 6 portas de bater com dobradiças metálicas, sendo 2 superiores com detalhes frisados. 2 gavetas com corrediças metálicas telescópicas. 6 nichos superiores para potes, temperos e utensílios. 2 nichos amplos sobre o balcão para fornos elétricos e eletrodomésticos (0,47 x 0,78 x 0,39 m cada). 1 prateleira interna, puxadores de perfil em MDF e pés reguláveis de PVC. Acabamento em pintura UV brilho.",
+    preco: "R$ 999,99"
+  },
+
+  {
+    nome: "Cozinha Malaga 6Portas 2Gavetas Cinamomo/ Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/",
+    imagens: [ "imagens/cozinhas/cozinha malaga cinamomo off interno.jpg"
+              ],
+    descricao: "Cozinha Malaga 6 Portas 2 Gavetas ",
+    detalhes: "Kit Cozinha Málaga 6P2G, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 1,93 m, Larg. 1,62 m, Prof. 0,39 m. Peso: 60,7 kg. Estrutura 100% em MDP, com caixas em 12 mm e portas e frentes de gavetas em 15 mm. 6 portas de bater com dobradiças metálicas, sendo 2 superiores com detalhes frisados. 2 gavetas com corrediças metálicas telescópicas. 6 nichos superiores para potes, temperos e utensílios. 2 nichos amplos sobre o balcão para fornos elétricos e eletrodomésticos (0,47 x 0,78 x 0,39 m cada). 1 prateleira interna, puxadores de perfil em MDF e pés reguláveis de PVC. Acabamento em pintura UV brilho.",
+    preco: "R$ 999,99"
+  },
 
 
 
@@ -702,14 +747,7 @@ const produtos = [
 
 
   
-  {
-    nome: "Cozinha Malaga 6Portas 2Gavetas Cinamomo Grafite",
-    categoria: "Cozinhas",
-    imagem: "imagens/cozinhas/Cozinha Malaga 6P2G Cinamomo Grafite.jpg",
-    descricao: "Cozinha Malaga 6 Portas 2 Gavetas Cinamomo Grafite",
-    preco: "R$ 899,99"
-  },
-
+  
   {
     nome: "Cozinha Modena 7Portas 3Gavetas Cinamomo Off White",
     categoria: "Cozinhas",

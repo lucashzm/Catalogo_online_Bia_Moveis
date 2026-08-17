@@ -352,7 +352,8 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Conjunto Sala Jantar Amanda Tmp Retangular 110 Off White com 4 Cadeiras Delta Mel Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Amanda Tampo 110 Retangular 110 Off White Com 4 Cadeiras Delta Mel Savana",
-    preco: "R$ 469,99"
+    detalhes: "Conjunto Sala de Jantar Amanda 110 com 4 Cadeiras Delta, da Sonetto Móveis, cor Mel/Savana. Mesa: Alt. 0,79 m, Larg. 1,10 m, Prof. 0,75 m, peso 12,71 kg. Cadeiras: Alt. 0,905 m, Larg. 0,40 m, Prof. 0,40 m, peso 4,2 kg cada. Estrutura mista em MDP/MDF 9 mm e 15 mm. Mesa com tampo em MDF serigrafado Off White e base em MDP. Cadeiras em MDF 15 mm, com assento em espuma D12 e revestimento em Courino. Sapatas plásticas de PVC e acabamento em pintura UV semibrilho.",
+    preco: "R$ 899,99"
   },
 
   {
@@ -360,7 +361,8 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Conjunto Sala Jantar Luiza Tmp Retangular 110 Off White com 4 Cds Delta Mel Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Luiza Tampo 110 Off White com 4 Cadeiras Delta Mel Savana",
-    preco: "R$ 469,00"
+    detalhes: "Conjunto Sala de Jantar Luiza 110 com 4 Cadeiras Delta, da Sonetto Móveis, cor Mel/Savana. Mesa: Alt. 0,787 m, Larg. 1,10 m, Prof. 0,75 m, peso 12,90 kg. Cadeiras: Alt. 0,905 m, Larg. 0,40 m, Prof. 0,40 m, peso 4,20 kg cada. Estrutura mista em MDP/MDF 9 mm, 12 mm e 15 mm. Tampo em MDF 15 mm serigrafado Off White e base em V de MDP 12 mm. Cadeiras em MDF 15 mm, com estofamento em espuma D12 e revestimento em Courino Savana. Sapatas plásticas de PVC e acabamento em pintura UV semibrilho.",
+    preco: "R$ 899,00"
   },
 
   {
@@ -368,7 +370,8 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Deli Denali 160 Mel Grafite com 6 Cadeiras Safira Mel Veludo Grafite.jpg",
     descricao: "Conjunto Mesa Sala de Jantar De Deli Delani 160 Mel Grafite com 6 Cadeiras Safira Mel Veludo Grafite",
-    preco: "R$ 1.899,99"
+    detalhes: "Sala Deli/Denali 160x90 com 6 Cadeiras Safira, da Viero, cor Mel/Grafite. Mesa: Alt. 0,825 m, Larg. 1,60 m, Prof. 0,90 m. Cadeiras: Alt. 1,01 m, Larg. 0,41 m, Prof. 0,61 m. Peso total: 123,6 kg. Estrutura em MDP/MDF. Base em formato de trapézios invertidos com detalhe Off White. Tampo de MDF 40 mm com borda chanfrada e vidro lapidado com cantos arredondados, na cor Off White. Cadeiras em MDF e madeira de eucalipto, com assento em espuma D20 e encosto em espuma D12, ambos revestidos em Veludo Grafite. Mesa suporta até 50 kg e cadeiras até 90 kg. Acabamento em pintura UV semibrilho.",
+    preco: "R$ 2.299,99"
   },
 
   {
@@ -376,7 +379,8 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Daila Nicole 135 Mel Blonde Grafite com 6 Cadeiras Sarifa Mel Blonde Veludo Grafite.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Daila Nicole 135 Mel Blonde Grafite com 6 Cadeiras Safira Mel Blonde Veludo Grafite",
-    preco: "R$ 1.798,99"
+    detalhes: "Sala Daila/Nicole 135 com 6 Cadeiras Safira, da Viero, cor Mel Blonde/Grafite. Mesa: Alt. 0,78 m, Larg. 1,35 m, Prof. 1,35 m. Cadeiras: Alt. 1,01 m, Larg. 0,41 m, Prof. 0,61 m. Peso total: 78,2 kg. Estrutura em MDP/MDF. Tampo redondo de MDF 40 mm com bordas chanfradas e vidro temperado de 4 mm. Base em formato de cruzeta. Cadeiras em madeira de eucalipto/MDF, com assento e encosto em espuma D20, revestidos em Veludo Grafite. Mesa suporta até 50 kg e cadeiras até 90 kg. Acabamento em pintura UV semibrilho.",
+    preco: "R$ 2.299,99"
   },
 
   {
@@ -384,7 +388,8 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Magic 120 Mel.Blonde com 4 Cadeiras Sol Mel Cinza Veludo Grafite.jpg",
     descricao: "Conjunto Mesa Sala Magic 120 Mel Blonde com 4 Cadeiras Sol Me Cinza Veludo Grafite",
-    preco: "R$ 689,99"
+    detalhes: "Sala Magic 120x80 com 4 Cadeiras Sol, da Viero, cor Mel/Blonde, com Veludo Grafite. Mesa: Alt. 0,79 m, Larg. 1,20 m, Prof. 0,80 m. Cadeiras: Alt. 0,885 m, Larg. 0,385 m, Prof. 0,435 m. Peso total: 48,1 kg. Mesa com estrutura em MDF/MDP, tampo em MDF 25 mm laqueado Off White e base em MDP. Suporta até 50 kg. Cadeiras com estrutura em MDF/MDP, assento e encosto em espuma D16, revestidos em Veludo Grafite. Suportam até 80 kg. Acabamento UV semibrilho.",
+    preco: "R$ 1.099,99"
   },
 
   {
@@ -392,7 +397,8 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Melody 90com 4 Cadira Bela Mel Blonde Off White Linho Bronze.jpg",
     descricao: "Conjunto Mesa Sala Melody 90 com 4 Cadeiras Bela Mel Blonde Off White Linho Bronze",
-    preco: " R$ 749,00"
+    detalhes: "Sala Melody com 4 Cadeiras Bela, da Viero, cor Mel Blonde/Off White/Bronze, em tecido Linho. Mesa: Alt. 0,787 m, diâmetro 0,90 m. Cadeiras: Alt. 0,883 m, altura do assento 0,485 m, Larg. 0,38 m, Prof. 0,496 m. Estrutura mista em MDF 18,5 mm e 25 mm e MDP 15 mm, 25 mm e 35 mm. Mesa com tampo redondo de MDF 25 mm, bordas arredondadas e base cônica ripada com base circular em MDP 15 mm. Suporta até 50 kg. Cadeiras com assento em MDP, espuma D26 e encosto em espuma D12, revestidos em Linho sintético de poliéster. Suportam até 90 kg. Sapatas plásticas de PVC e acabamento em pintura UV semibrilho.",
+    preco: " R$ 1.099,00"
   },
 
   {
@@ -400,79 +406,104 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Luar Luna 160 com 6 Cadeiras Sol Mel Linho Inox.jpg",
     descricao: "Conjunto Mesa Sala Luar Luna 160 com 6 Cadeiras Sol Mel Linho Inox",
-    preco: "R$ 899,99"
+    detalhes: "Sala Luar/Luna 160x80 com 6 Cadeiras Sol, da Viero Móveis, cor Mel, tecido Linho Inox. Mesa: Alt. 0,788 m, Larg. 1,60 m, Prof. 0,90 m, peso 63,4 kg. Estrutura em MDP 25 mm, tampo em MDF 18 mm com bordas e cantos arredondados. Suporta até 50 kg. Cadeiras: Alt. 0,89 m, Larg. 0,387 m, Prof. 0,515 m. Estrutura em MDF/MDP, assento em MDP 18,35 mm com espuma D26 e encosto em MDP 35 mm com espuma D12, revestidos em Linho 100% poliéster. Suportam até 80 kg. Sapatas plásticas de PVC e acabamento em pintura UV semibrilho.",
+    preco: "R$ 1.299,99"
   },
 
-  {
+ /* {
     nome: "Sala Eve 180 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Eve 180com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
     descricao: "Conjunto Mesa Sala Eve 180 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
     preco: "R$ 1899,99"
   },
-
+*/
   {
     nome: "Cômoda Aruba 5Gavetas Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aruba 5G Cinamomo Off White.jpg",
+    imagens: [ "imagens/comodas/comoda aruba cinamomo off.jpg"
+              ],
     descricao: "Cômoda Aruba 5 Gavetas Cinamomo Off White",
-    preco: "R$ 249,99"
+    detalhes: "Cômoda Aruba 5G, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 0,92 m, Larg. 0,61 m, Prof. 0,38 m. Peso: 18 kg. Estrutura 100% em MDP 12 mm. 5 gavetas com corrediças de madeira e puxadores plásticos de PVC. Acabamento em pintura UV brilho.",
+    preco: "R$ 499,99"
   },
 
   {
     nome: "Cômoda Aruba 5Gavetas Branco",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aruba 5Gavetas Branco.jpg",
+    imagens: [ "imagens/comodas/comoda aruba branco.jpg"
+              ],
     descricao: "Cômoda Aruba 5 Gavetas Branco",
-    preco: "R$ 249,99"
+    detalhes: "Cômoda Aruba 5G, da Fellicci, cor Branco. Medidas: Alt. 0,92 m, Larg. 0,61 m, Prof. 0,38 m. Peso: 18 kg. Estrutura 100% em MDP 12 mm. 5 gavetas com corrediças de madeira e puxadores plásticos de PVC. Acabamento em pintura UV brilho.",
+    preco: "R$ 499,99"
   },
 
   {
     nome: "Cômoda Miami 5Gavetas 1Porta Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Miami 5Gavetas 1Porta Cinamomo Off White.jpg",
+    imagens: [ "imagens/comodas/Comoda Miami Cinamomo Off White.jpg"
+              ],
     descricao: "Cômoda Miami 5 Gavetas 1 Porta Cinamomo/Off White",
-    preco: "R$ 449,99"
+    detalhes: "Cômoda Miami 5G1P, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 0,92 m, Larg. 0,91 m, Prof. 0,38 m. Peso: 26 kg. Estrutura 100% em MDP 12 mm. 5 gavetas com corrediças de madeira, suportando até 3 kg cada. 1 porta com dobradiças metálicas e 2 nichos internos divididos por uma prateleira, com suporte de até 3 kg. Puxadores plásticos de PVC e acabamento em pintura UV brilho.",
+    preco: "R$ 499,99"
   },
 
   {
     nome: "Cômoda Miami 5Gavetas 1Porta Branco",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Miami 5G1P Branco.jpg",
+    imagens: [ "imagens/comodas/comoda miami branco.jpg"
+              ],
     descricao: "Cômoda Miami 5 Gavetas 1 Porta, Branco",
-    preco: "R$ 449,99"
+    detalhes: "Cômoda Miami 5G1P, da Fellicci, cor Branco. Medidas: Alt. 0,92 m, Larg. 0,91 m, Prof. 0,38 m. Peso: 26 kg. Estrutura 100% em MDP 12 mm. 5 gavetas com corrediças de madeira, suportando até 3 kg cada. 1 porta com dobradiças metálicas e 2 nichos internos divididos por uma prateleira, com suporte de até 3 kg. Puxadores plásticos de PVC e acabamento em pintura UV brilho.",
+    preco: "R$ 549,99"
   },
 
   {
     nome: "Cômoda Miami 5Gavetas 1Porta Preto",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Miami 5G1P Preto.jpg",
-    descricao: "Cômoda Miami 5 Gavetas 1 Porta, Preto",
-    preco: "R$ 449,99"
+    imagens: [ "imagens/comodas/Comoda miami preto.jpg"
+              ],
+    descricao: "Cômoda Miami 5 Gavetas 1 Porta, Preto", 
+    detalhes: "Cômoda Miami 5G1P, da Fellicci, cor Preto. Medidas: Alt. 0,92 m, Larg. 0,91 m, Prof. 0,38 m. Peso: 26 kg. Estrutura 100% em MDP 12 mm. 5 gavetas com corrediças de madeira, suportando até 3 kg cada. 1 porta com dobradiças metálicas e 2 nichos internos divididos por uma prateleira, com suporte de até 3 kg. Puxadores plásticos de PVC e acabamento em pintura UV brilho.",
+    preco: "R$ 549,99"
   },
 
   {
     nome: "Cômoda Caribe 10Gavetas Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Caribe 10G Cinamomo Off White.jpg",
+    imagens: [ "imagens/comodas/comoda caribe cinamomo off white.jpg"
+              ],
     descricao: "Cômoda Cariba 10 Gavetas Cinamomo, Off White",
-    preco: "R$ 499,99"
+    detalhes: "Cômoda Caribe 10G, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 0,92 m, Larg. 1,20 m, Prof. 0,38 m. Peso: 32,7 kg. Estrutura 100% em MDP 12 mm. 10 gavetas com corrediças de madeira e puxadores plásticos de PVC, suportando até 3 kg cada. Acabamento em pintura UV brilho.",
+    preco: "R$ 599,99"
   },
 
   {
     nome: "Cômoda Caribe 10Gavetas Branco",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Caribe 10G Branco.jpg",
+    imagens: [ "imagens/comodas/comoda caribe branco.jpg"
+              ],
     descricao: "Cômoda Cariba 10 Gavetas, Branco",
-    preco: "R$ 499,99"
+    detalhes: "Cômoda Caribe 10G, da Fellicci, cor Branco. Medidas: Alt. 0,92 m, Larg. 1,20 m, Prof. 0,38 m. Peso: 32,7 kg. Estrutura 100% em MDP 12 mm. 10 gavetas com corrediças de madeira e puxadores plásticos de PVC, suportando até 3 kg cada. Acabamento em pintura UV brilho.",
+    preco: "R$ 599,99"
   },
 
   {
      nome: "Cômoda Caribe 10Gavetas Preto",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Caribe 10G Preto.jpg",
+    imagens: [ "imagens/comodas/comoda caribe preto.jpg"
+              ],
     descricao: "Cômoda Cariba 10 Gavetas, Preto",
-    preco: "R$ 499,99"
+    detalhes: "Cômoda Caribe 10G, da Fellicci, cor Preto. Medidas: Alt. 0,92 m, Larg. 1,20 m, Prof. 0,38 m. Peso: 32,7 kg. Estrutura 100% em MDP 12 mm. 10 gavetas com corrediças de madeira e puxadores plásticos de PVC, suportando até 3 kg cada. Acabamento em pintura UV brilho.",
+    preco: "R$ 599,99"
   },
     
 
@@ -481,7 +512,8 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aramoveis 8G Atacama.jpg",
     descricao: "Cômoda Aramoveis 8 Gavetas Atacama",
-    preco: "R$ 499,99"
+    detalhes: "Cômoda Aramóveis 8 Gavetas, da Aramóveis, cor Atacama. Medidas: Alt. 0,968 m, Larg. 1,36 m, Prof. 0,45 m. Peso: 49,95 kg. Estrutura 100% em MDP 12 mm e 15 mm. 8 gavetas com corrediças metálicas telescópicas e puxadores de perfil em MDF 25 mm. Pés em U de PVC. Acabamento em pintura UV alto brilho.",
+    preco: "R$ 699,99"
   },
 
   {
@@ -489,7 +521,8 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Berlim Chicago 4Gavetas 1Porta Cinamomo.jpg",
     descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo",
-    preco: "R$ 449,99"
+    detalhes: "Cômoda Berlim 4G1P, da TCIL Móveis, cor Cinamomo. Medidas: Alt. 0,915 m, Larg. 1,044 m, Prof. 0,448 m. Peso: 34,08 kg. Estrutura 100% em MDP 12 mm e 15 mm. 4 gavetas com corrediças metálicas, 1 porta de bater com dobradiças metálicas e 2 nichos internos divididos por uma prateleira. Puxadores de perfil em MDF, sapatas plásticas de PVC e acabamento em pintura UV brilho e semibrilho.",
+    preco: "R$ 599,99"
   },
 
   {
@@ -497,23 +530,51 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Berlim Chicago 4G1P Cinamomo Off White.jpg",
     descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo Off White",
-    preco: "R$ 449,99"
+    detalhes: "Cômoda Berlim 4G1P, da TCIL Móveis, cor Cinamomo/Off White. Medidas: Alt. 0,915 m, Larg. 1,044 m, Prof. 0,448 m. Peso: 34,08 kg. Estrutura 100% em MDP 12 mm e 15 mm. 4 gavetas com corrediças metálicas, 1 porta de bater com dobradiças metálicas e 2 nichos internos divididos por uma prateleira. Puxadores de perfil em MDF, sapatas plásticas de PVC e acabamento em pintura UV brilho e semibrilho.",
+    preco: "R$ 599,99"
   },
 
+  {
+    nome: "Cômoda Berlim Chicago 4Gavetas 1Porta ",
+    categoria: "Cômodas",
+    imagem: "imagens/comodas/",
+    descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta ",
+    detalhes: "Cômoda Berlim 4G1P, da TCIL Móveis, cor Branco Neve. Medidas: Alt. 0,915 m, Larg. 1,044 m, Prof. 0,448 m. Peso: 34,08 kg. Estrutura 100% em MDP 12 mm e 15 mm. 4 gavetas com corrediças metálicas, 1 porta de bater com dobradiças metálicas e 2 nichos internos divididos por uma prateleira. Puxadores de perfil em MDF, sapatas plásticas de PVC e acabamento em pintura UV brilho e semibrilho.",
+    preco: "R$ 599,99"
+  },
+
+  
   {
     nome: "Cozinha Compacta Malu 9Portas 2Gavetas com Balcao Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Grafite.jpg",
+    imagens: [ "cozinha Malu Cinamomo Off White.jpg"
+              ],
     descricao: "Cozinha Compacta Malu 9 Portas, 2 Gavetas com balcão Cinamomo/ Grafite",
+    detalhes: "Cozinha Compacta Completa Malu 9P6G com Balcão, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 1,98 m, Larg. 2,40 m, Prof. 0,39 m. Peso: 65,85 kg. Estrutura 100% em MDP, com caixas em MDP 12 mm e portas e frentes de gavetas em MDP 15 mm. Dupla opção de montagem. 9 portas com dobradiças metálicas, 2 gavetas com corrediças metálicas e 3 nichos externos: 2 para potes e temperos e 1 para micro-ondas (50 x 58 x 39 cm). 1 prateleira interna na torre quente e amplo espaço sobre o balcão para eletrodomésticos e utensílios. Puxadores e pés reguláveis em PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 999,99"
   },
 
+
+  {
+    nome: "Cozinha Compacta Malu 9Portas 2Gavetas com Balcao Cinamomo Off White",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/",
+    imagens: [ "cozinha Malu Cinamomo Off White.jpg"
+              ],
+    descricao: "Cozinha Compacta Malu 9 Portas, 2 Gavetas com balcão Cinamomo/ Off White",
+    detalhes: "Cozinha Compacta Completa Malu 9P6G com Balcão, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 1,98 m, Larg. 2,40 m, Prof. 0,39 m. Peso: 65,85 kg. Estrutura 100% em MDP, com caixas em MDP 12 mm e portas e frentes de gavetas em MDP 15 mm. Dupla opção de montagem. 9 portas com dobradiças metálicas, 2 gavetas com corrediças metálicas e 3 nichos externos: 2 para potes e temperos e 1 para micro-ondas (50 x 58 x 39 cm). 1 prateleira interna na torre quente e amplo espaço sobre o balcão para eletrodomésticos e utensílios. Puxadores e pés reguláveis em PVC. Acabamento em pintura UV brilho.",
+    preco: "R$ 999,99"
+  },
+    
+  
   {
     nome: "Kit Cozinha Catar 6Portas 2Gavetas Jequitiba Granizo",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6Portas 2Gavetas JequitibaGranizo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba/ Granizo",
-    preco: "R$ 1,299,99"
+    detalhes: "Kit Cozinha Catar, da Salleto, cor Jequitibá/Granizo. Medidas: Alt. 2,00 m, Larg. 2,00 m, Prof. 0,45 m. Peso: 101,4 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas, 2 gavetas com corrediças telescópicas, nicho amplo para utensílios, 1 nicho para forno, 2 nichos para potes e objetos culinários e 2 garrafeiros laterais para 4 garrafas cada. 1 prateleira interna, detalhes ripados, puxadores em MDF e pés plásticos reguláveis.",
+    preco: "R$ 1,399,99"
   },
 
   {
@@ -521,7 +582,8 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G BrancoCinamomo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas, Branco/ Cinamomo",
-    preco: "R$ 1,299,99"
+    detalhes: "Kit Cozinha Catar, da Salleto, cor Branco/Cinamomo. Medidas: Alt. 2,00 m, Larg. 2,00 m, Prof. 0,45 m. Peso: 101,4 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas, 2 gavetas com corrediças telescópicas, nicho amplo para utensílios, 1 nicho para forno, 2 nichos para potes e objetos culinários e 2 garrafeiros laterais para 4 garrafas cada. 1 prateleira interna, detalhes ripados, puxadores em MDF e pés plásticos reguláveis.",
+    preco: "R$ 1,399,99"
   },
 
   {
@@ -529,7 +591,8 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G CinamomoOff White.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas Cinamomo/ Off White",
-    preco: "R$ 1,299,99"
+    detalhes: "Kit Cozinha Catar, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,00 m, Larg. 2,00 m, Prof. 0,45 m. Peso: 101,4 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas, 2 gavetas com corrediças telescópicas, nicho amplo para utensílios, 1 nicho para forno, 2 nichos para potes e objetos culinários e 2 garrafeiros laterais para 4 garrafas cada. 1 prateleira interna, detalhes ripados, puxadores em MDF e pés plásticos reguláveis.",
+    preco: "R$ 1,399,99"
   },
 
   {
@@ -537,39 +600,75 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Lia 3Portas 1Gaveta Cinamomo Off White.jpeg",
     descricao: "Cozinha Lia 3 Portas 1 Gaveta Cinamomo/ Off White",
-    preco: "R$ 599,99"
+    detalhes: "Kit Cozinha Lia, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 1,77 m, Larg. 0,83 m, Prof. 0,36 m. Peso: 31,5 kg. Estrutura 100% em MDP 12 mm, com tampo em MDP 15 mm. 3 portas de bater com dobradiças metálicas, 1 gaveta com corrediças telescópicas e 3 nichos externos para utensílios e eletrodomésticos. 2 prateleiras, sendo 1 interna, com suporte de até 5 kg. Puxadores de madeira, pés plásticos reguláveis e acabamento em pintura UV semibrilho/fosco.",
+    preco: "R$ 699,99"
   },
 
   {
-    nome: "Cozinha New Topazio 6P2G Cinamomo Off White",
+    nome: "Cozinha New Topazio 6Portas 2Gavetas Cinamomo/ Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha New Topazio 6Portas 2Gavetas Cinamomo Off White.jpg",
     descricao: "Cozinha New Topazio 6 Portas 2 Gavetas Cinamomo/ Off White",
-    preco: "R$ 860,00"
+    detalhes: "Kit Cozinha New Topázio, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,01 m, Larg. 1,65 m, Prof. 0,45 m. Peso: 76,7 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas e 2 gavetas com corrediças telescópicas, sendo 1 com divisor de talheres. Prateleiras internas, garrafeiros, adega e nichos para fornos, eletrodomésticos e utensílios. Puxadores de MDF e pés plásticos com regulagem de altura.",
+    preco: "R$ 1.199,00"
   },
 
   {
-    nome: "Cozinha Siena Premium 6Portas 1Gaveta Branco Cinamomo",
+    nome: "Cozinha New Topazio 6Portas 2Gavetas Branco/ Cinamomo Off ",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/",
+    descricao: "Cozinha New Topazio 6 Portas 2 Gavetas, Branco/ Cinamomo",
+    detalhes: "Kit Cozinha New Topázio, da Salleto, cor Branco/Cinamomo. Medidas: Alt. 2,01 m, Larg. 1,65 m, Prof. 0,45 m. Peso: 76,7 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas e 2 gavetas com corrediças telescópicas, sendo 1 com divisor de talheres. Prateleiras internas, garrafeiros, adega e nichos para fornos, eletrodomésticos e utensílios. Puxadores de MDF e pés plásticos com regulagem de altura.",
+    preco: "R$ 1.199,00
+  },
+
+  {
+    nome: "Cozinha New Topazio 6Portas 2Gavetas Jequitibá/ Granizo",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/",
+    descricao: "Cozinha New Topazio 6 Portas 2 Gavetas, Jequitibá/ Granizo",
+    detalhes: "Kit Cozinha New Topázio, da Salleto, cor Jequitibá/Granizo. Medidas: Alt. 2,01 m, Larg. 1,65 m, Prof. 0,45 m. Peso: 76,7 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas e 2 gavetas com corrediças telescópicas, sendo 1 com divisor de talheres. Prateleiras internas, garrafeiros, adega e nichos para fornos, eletrodomésticos e utensílios. Puxadores de MDF e pés plásticos com regulagem de altura.",
+    preco: "R$ 1.199,00
+  },
+
+  
+  {
+    nome: "Cozinha Siena Premium 6Portas 1Gaveta Branco/ Cinamomo",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Siena Premium 6Portas 1Gaveta Branco Cinamomo.jpg",
     descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Branco/ Cinamomo",
-    preco: "R$ 899,99"
+    detalhes: "Kit Cozinha Siena Premium, da Sallêto Móveis, cor Branco/Cinamomo. Medidas: Alt. 2,00 m, Larg. 1,40 m, Prof. 0,40 m. Peso: 70,1 kg. Estrutura 100% em MDP 15 mm. 6 portas de bater com dobradiças metálicas, sendo 1 basculante, e 1 gaveta com corrediças telescópicas metálicas. Tampo com bordas frisadas, nicho para forno e utensílios, puxadores de MDF e pés com regulagem de altura (15,5 cm). Acabamento em pintura UV semibrilho.",
+    preco: "R$ 1.099,99"
   },
 
   {
-    nome: "Cozinha Siena Premium 6Portas 1Gaveta Cinamomo Off White",
+    nome: "Cozinha Siena Premium 6Portas 1Gaveta Cinamomo/ Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Siena Premium 6P1G Cinamomo.Off White.jpg",
     descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Cinamomo Off White",
-    preco: "R$ 899,99"
+    detalhes: "Kit Cozinha Siena Premium, da Sallêto Móveis, cor Cinamomo/Off White. Medidas: Alt. 2,00 m, Larg. 1,40 m, Prof. 0,40 m. Peso: 70,1 kg. Estrutura 100% em MDP 15 mm. 6 portas de bater com dobradiças metálicas, sendo 1 basculante, e 1 gaveta com corrediças telescópicas metálicas. Tampo com bordas frisadas, nicho para forno e utensílios, puxadores de MDF e pés com regulagem de altura (15,5 cm). Acabamento em pintura UV semibrilho.",
+    preco: "R$ 1.099,99"
   },
+
+  {
+     nome: "Cozinha Siena Premium 6Portas 1Gaveta Jequitibá/ Granizo",
+    categoria: "Cozinhas",
+    imagem: "imagens/cozinhas/",
+    descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Jequitibá/ Granizo",
+    detalhes: "Kit Cozinha New Siena Premium, da Sallêto Móveis, cor Jequitibá/Granizo/Cinamomo/Preto. Medidas: Alt. 2,00 m, Larg. 1,40 m, Prof. 0,40 m. Peso: 70,1 kg. Estrutura 100% em MDP 15 mm. 6 portas de bater com dobradiças metálicas, sendo 1 basculante, e 1 gaveta com corrediças telescópicas metálicas. Tampo com bordas frisadas, nicho para forno e utensílios, puxadores de MDF e pés com regulagem de altura (15,5 cm). Acabamento em pintura UV semibrilho.",
+    preco: "R$ 1.099,99"
+  },
+  
 
   {
     nome: "Kit Cozinha Veneza Pop Plus 9Portas 1Gaveta Freijó Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Veneza Pop Plus 9P1G3N Freijó-Off White.jpg",
+    imagens: [ "imagens/cozinhas/cozinha veneza interno.jpg"
+              ],
     descricao: "Cozinha Veneza Pop Plus 9 Portas 1 Gaveta Freijó Off White",
-    preco: "R$ 799,99"
+    detalhes: "Kit Cozinha Veneza Pop Plus, da Móveis Paraná, cor Freijó/Off White. Medidas: Alt. 1,90 m, Larg. 1,50 m, Prof. 0,45 m. Estrutura 100% em MDP 12 mm. 9 portas de giro com dobradiças metálicas, sendo 2 superiores com vidro, e 1 gaveta com corrediças metálicas. 2 prateleiras internas, 2 nichos verticais superiores para louças ou decoração, 1 nicho horizontal para potes ou temperos e amplo espaço sobre o balcão para eletrodomésticos e utensílios. Nicho para forno de 0,655 x 0,47 m. Puxadores e pés plásticos de PVC. Acabamento em pintura UV brilho.",
+    preco: "R$ 999,99"
   },
 
   {
@@ -577,7 +676,8 @@ const produtos = [
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Malu 7Portas 2Gavetas Damasco Ripado 3D Off White.jpg",
     descricao: "Cozinha Malu 7 Portas 2 Gavetas Damasco Ripado 3D Off White",
-    preco: "R$ 599,99"
+    detalhes: "Kit Cozinha Malu 7P2G, da Poquema, cor Damasco Ripado (efeito 3D)/Off White. Medidas: Alt. 1,73 m, Larg. 1,06 m, Prof. 0,35 m. Estrutura 100% em MDP 12 mm. 7 portas com dobradiças metálicas e 2 gavetas com corrediças metálicas. Amplo espaço sobre o balcão para utensílios domésticos e torre lateral com 3 nichos, divididos por 2 prateleiras, para potes e eletrodomésticos. Puxadores e pés plásticos de PVC. Acabamento em pintura UV semibrilho/fosco.",
+    preco: "R$ 799,99"
   },
 
   {
@@ -588,6 +688,20 @@ const produtos = [
     preco: "R$ 549,99"
   },
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     nome: "Cozinha Malaga 6Portas 2Gavetas Cinamomo Grafite",
     categoria: "Cozinhas",

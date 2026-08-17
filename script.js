@@ -8,9 +8,9 @@ const modalNome = document.getElementById("modal-nome");
 const modalImagem = document.getElementById("modal-imagem");
 const modalDescricao = document.getElementById("modal-descricao");
 const modalPreco = document.getElementById("modal-preco");
+const modalWhatsapp = document.getElementById("modal-whatsapp");
 
 const NUMERO_WHATSAPP = "5521983531564";
-const modalWhatsapp = document.getElementById("modal-whatsapp");
 
 const PRODUTOS_POR_PAGINA = 30;
 
@@ -134,6 +134,11 @@ function abrirModal(produto) {
   modalImagem.alt = produto.nome;
 
   modalDescricao.textContent = produto.descricao;
+
+  // Mostra os detalhes completos quando existirem
+  if (produto.detalhes) {
+    modalDescricao.textContent = produto.detalhes;
+  }
 
   modalPreco.textContent = produto.preco;
 

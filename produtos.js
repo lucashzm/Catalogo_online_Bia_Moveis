@@ -741,53 +741,74 @@ const produtos = [
 
 
 
-
-
-
-
-
-  
   
   {
     nome: "Cozinha Modena 7Portas 3Gavetas Cinamomo Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Modena 7P3G Cinamomo Off White.jpg",
+    imagens: [ "imagens/cozinhas/Cozinha Modena 7portas cinamomo Off White interno.jpg"
+              ],
     descricao: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Off White",
+    detalhes: "Kit Cozinha Modena 7P3G, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 1,93 m, Larg. 2,18 m, Prof. 0,40 m. Peso: 92,10 kg. Estrutura 100% em MDP, com caixas em 12 mm e portas e frentes de gavetas em MDF 15 mm. 7 portas de bater com dobradiças metálicas e 3 gavetas com corrediças telescópicas. 1 nicho superior para potes e utensílios, 1 garrafeiro para 4 garrafas e 4 prateleiras internas. 2 nichos laterais para fornos e micro-ondas (47 x 78 x 39 cm cada) e 1 nicho central para eletrodomésticos (47 x 93 x 39 cm). Puxadores de perfil em MDF, pés reguláveis de PVC e acabamento em pintura UV brilho.",
     preco: "R$ 1.199"
   },
 
+/* SITE FUNCIONANDO ATÉ AQUI */
+
+
+
+
+
+
+  
   {
     nome: "Cozinha Modena 7Portas 3Gavetas Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/cozinha Modena 7P3G Cinamomo Grafite.jpg",
+    imagens: [ "imagens/cozinhas/cozinha modena 7portas cinamomo grafite interno.jpg"
+              ],
     descricao: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Grafite",
+    detalhes: "Kit Cozinha Modena 7P3G, da Fellicci, cor Cinamomo/Grafite. Medidas: Alt. 1,93 m, Larg. 2,18 m, Prof. 0,40 m. Peso: 92,10 kg. Estrutura 100% em MDP, com caixas em 12 mm e portas e frentes de gavetas em MDF 15 mm. 7 portas de bater com dobradiças metálicas e 3 gavetas com corrediças telescópicas. 1 nicho superior para potes e utensílios, 1 garrafeiro para 4 garrafas e 4 prateleiras internas. 2 nichos laterais para fornos e micro-ondas (47 x 78 x 39 cm cada) e 1 nicho central para eletrodomésticos (47 x 93 x 39 cm). Puxadores de perfil em MDF, pés reguláveis de PVC e acabamento em pintura UV brilho.",
     preco: "R$ 1.199"
   },
-
+  
   {
     nome: "Cozinha Alexia BPW 6Portas 2Gavetas com Espelho Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Arenas.jpg",
+    imagens: [ "imagens/cozinhas/cozinha alexia arenas interno.jpg"
+              ],
     descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Arenas",
-    preco: "R$ 1,199"
+    detalhes: "Kit Cozinha Alexia BPW com Espelho, da Imop, cor Arenas. Medidas: Alt. 2,00 m, Larg. 1,82 m, Prof. 0,42 m. Estrutura 100% em MDP 12 e 15 mm. 6 portas de bater com dobradiças metálicas, sendo 2 com espelhos, 2 gavetas com corrediças metálicas e suporte de até 3 kg cada. 4 nichos para objetos, espaço para forno (53 x 44 cm), 1 prateleira interna e garrafeiro para 4 garrafas. Puxadores de MDF e pés plásticos de PVC. Acabamento BPW (laminado melamínico de baixa pressão).",
+    preco: "R$ 1,299"
   },
 
+  
   {
-    nome: "Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Arenas",
+    nome: "Cozinha Alexia BPW 6Portas 2Gavetas com Espelho Cinamomo BPW Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Arenas.jpg",
+    imagens: [ "imagens/cozinhas/cozinha alexia cinamomo arenas interno.jpg"
+              ],
     descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Cinamomo BPW Arenas",
-    preco: "R$ 1.199"
+    detalhes: "Kit Cozinha Alexia BPW, da Imop, cor Cinamomo BPW/Arenas. Medidas: Alt. 2,00 m, Larg. 1,82 m, Prof. 0,42 m. Estrutura 100% em MDP 12 e 15 mm. 6 portas de bater com dobradiças metálicas, sendo 2 com espelhos, 2 gavetas com corrediças metálicas e suporte de até 3 kg cada. 4 nichos para objetos, espaço para forno (53 x 44 cm), 1 prateleira interna e garrafeiro para 4 garrafas. Puxadores de MDF e pés plásticos de PVC. Acabamento BPW (laminado melamínico de baixa pressão).",
+    preco: "R$ 1.299"
   },
 
   {
     nome: "Cozinha Alexia BPW 6Portas 2Gavetas com Espelho Cinamomo BPW Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Grafite.jpeg",
+    imagens: [ "imagens/cozinhas/cozinha alexia cinamomo grafite.jpg"
+              ],
     descricao: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Cinamomo BPW Grafite",
-    preco: "R$ 1.199"
+    detalhes: "Kit Cozinha Alexia BPW com Espelho, da Imop, cor Cinamomo BPW/Grafite. Medidas: Alt. 2,00 m, Larg. 1,82 m, Prof. 0,42 m. Estrutura 100% em MDP 12 e 15 mm. 6 portas de bater com dobradiças metálicas, sendo 2 com espelhos, 2 gavetas com corrediças metálicas e suporte de até 3 kg cada. 4 nichos para objetos, espaço para forno (53 x 44 cm), 1 prateleira interna e garrafeiro para 4 garrafas. Puxadores de MDF e pés plásticos de PVC. Acabamento BPW (laminado melamínico de baixa pressão).",
+    preco: "R$ 1.299"
   },
 
+
+  
+  /*
   {
     nome: "Cozinha Antonela BPW 8Portas 2Gavetas com Espelhos Cinamomo Arenas",
     categoria: "Cozinhas",
@@ -795,79 +816,107 @@ const produtos = [
     descricao: "Cozinha Antonela BPW 8 Portas 2 Gavetas com Espelho Cinamomo Arenas",
     preco: "R$ 1.499"
   },
+*/
 
+  
   {
     nome: "Cozinha Intense 10Portas 2Gavetas Freijo Nero",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Intense 10P2G Freijo.Nero.jpg",
     descricao: "Cozinha Intense 10 Portas 2 Gavetas Freijo Nero",
-    preco: "R$ 1.099"
+    detalhes: "Kit Cozinha Intense, da Kit's Paraná, cor Freijó/Nero. Medidas: Alt. 2,045 m, Larg. 2,222 m, Prof. 0,468 m. Peso: 100,55 kg. Estrutura 100% em MDP 12 e 15 mm. 10 portas de bater com dobradiças metálicas e 2 gavetas com corrediças metálicas telescópicas. 2 prateleiras internas e 5 nichos externos: 1 superior para potes e temperos, 2 verticais para utensílios ou decoração, 1 para forno elétrico com passa-fios e 1 amplo sobre o balcão para eletrodomésticos e utensílios. Puxadores ergonômicos e pés reguláveis em poliestireno. Acabamento em pintura UV semibrilho texturizada.",
+    preco: "R$ 1.199"
   },
 
+
+  
   {
     nome: "Cozinha Intense 10Portas 2Gavetas Freijo Vanilla",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Intense 10P2G Freijo.Vanilla.jpg",
     descricao: "Cozinha Intense 10 Portas 2 Gavetas Freijo Vanilla",
-    preco: "R$ 1.099"
+    detalhes: "Kit Cozinha Intense, da Kit's Paraná, cor Freijó/Vanilla. Medidas: Alt. 2,045 m, Larg. 2,222 m, Prof. 0,468 m. Peso: 100,55 kg. Estrutura 100% em MDP 12 e 15 mm. 10 portas de bater com dobradiças metálicas e 2 gavetas com corrediças telescópicas. 2 prateleiras internas e 5 nichos externos: 1 superior para potes e temperos, 2 verticais para utensílios ou decoração, 1 para forno elétrico com passa-fios e 1 amplo sobre o balcão para eletrodomésticos e utensílios. Puxadores ergonômicos e pés reguláveis em poliestireno. Acabamento em pintura UV semibrilho texturizada.",
+    preco: "R$ 1.199"
   },
 
+  
+
+  
   {
     nome: "Cozinha Lara BPM 6Portas 2Gavetas Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Lara BPM 6P2G Arenas.jpg",
+    imagens: [ "imagens/cozinhas/cozinha Lara arenas interior.jpg"
+              ],
     descricao: "Cozinha Lara BPM 6 Portas 2 Gavetas Arenas",
-    preco: "R$ 1.099"
+    detalhes: "Kit Cozinha Lara BPW, da Imop, cor Arenas. Medidas: Alt. 1,98 m, Larg. 1,62 m, Prof. 0,42 m. Estrutura 100% em MDF 12 e 15 mm. 6 portas de bater com dobradiças metálicas e 2 gavetas com corrediças telescópicas, suportando até 3 kg cada. 2 espaços para fornos (78 x 48 cm), nichos para temperos e objetos, 1 prateleira interna, puxadores de MDF e pés plásticos de PVC. Acabamento BPW.",
+    preco: "R$ 1.199"
   },
 
+
+
+  
   {
     nome: "Cozinha Lara BPW 6Portas 2Gavetas Cinamomo Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Lara BPW 6P2G Cinamomo Arenas Cinamomo.jpg",
+    imagens: [ "imagens/cozinhas/Cozinha Lara Cinamomo arenas offwhite.jpg"
+              ],
     descricao: "Cozinha Lara BPW 6 Portas 2 Gavetas Cinamomo Arenas",
-    preco: "R$ 1.099"
+    detalhes: "Kit Cozinha Lara BPW, da Imop, cor Cinamomo/Arenas/Cinamomo. Medidas: Alt. 1,98 m, Larg. 1,62 m, Prof. 0,42 m. Estrutura 100% em MDP 12 e 15 mm. 6 portas de bater com dobradiças metálicas e 2 gavetas com corrediças telescópicas, suportando até 3 kg cada. 2 espaços para fornos (78 x 48 cm), nichos para temperos e objetos, 1 prateleira interna, puxadores de MDF e pés plásticos de PVC. Acabamento BPW.",
+    preco: "R$ 1.199"
   },
 
+
+  
+
+  
   {
     nome: "Cozinha Mega 9Portas 2Gavetas Cinamomo Branco Texturizado",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Mega 9P2G Cinamomo Branco texturizado.jpg",
     descricao: "Cozinha Mega 9 Portas 2 Gavetas Cinamomo Branco Texturizado",
-    preco: "R$ 1.099"
+    detalhes: "Kit Cozinha Mega, da Aramóveis, cor Cinamomo/Branco Texturizado. Medidas: Alt. 2,00 m, Larg. 2,08 m, Prof. 0,45 m. Peso: 93,5 kg. Estrutura em MDP 12 e 15 mm. 9 portas de bater com dobradiças metálicas e 2 gavetas com corrediças metálicas. 1 nicho para forno elétrico e 6 nichos externos para eletrodomésticos e utensílios. Puxadores e pés em PVC. Acabamento em pintura UV alto brilho.",
+    preco: "R$ 1.299"
   },
 
+
+
+  
   {
     nome: "Cozinha Mega 9Portas 2Gavetas Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Mega 9P2G Cinamomo.Grafite.jpg",
     descricao: "Cozinha Mega 9 Portas 2 Gavetas Cinamomo Grafite",
-    preco: "R$ 1.099"
+    detalhes: "Kit Cozinha Mega, Côr Cinamomo/Grafite Texturizado, da Aramóveis, Medidas: Alt 2,00m Larg 2,08m Prof 0,45m Peso 93,5Kg - 3 Volumes - Estrutura em MDP 12mm e 15mm, 9 Portas de Bater com Dobradiças Metálicas, 2 Gavetas com Dobradiças Metálicas, Puxadores de PVC, 1 Nicho para Forno Elétrico, 6 Nichos Externos para Eletrodomésticos e demais Utensílios Domésticos, Puxadores e Pés Plásticos de PVC e Acabamento em Pintura UV.",
+    preco: "R$ 1.299"
   },
 
-  {
-    nome: "Cozinha Compacta Malu 9Portas 2Gavetas com Balcao Cinamomo Off White",
-    categoria: "Cozinhas",
-    imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Off White.jpg",
-    descricao: "Cozinha Compacta Malu 9 Portas 2 Gavetas com Balcão Cinamomo Off White",
-    preco: "R$ 999,99"
-  },
 
   {
     nome: "Home Suspenso Ripado Munique Nature",
     categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Suspenso Ripado Munique Nature.jpg",
+    imagens: [ "imagens/home/home munique nature.jpg"
+              ],
     descricao: "Home Suspenso Ripado Munique Nature",
-    preco: "R$ 899,99"
+    detalhes: "Home Suspenso Ripado Munique, da Giga Móveis, cor Nature. Medidas: Alt. 1,735 m, Larg. 1,810 m, Prof. 0,296 m. Peso: 60,88 kg. Estrutura mista em MDP/MDF 12, 15, 25 e 27 mm. Painel com prateleira superior de 25 mm, detalhe ripado em MDF e passa-fios. Bancada com tampo de 25 mm, 1 porta basculante com dobradiças metálicas e pistão a gás e 2 nichos externos com prateleira para eletrônicos e objetos decorativos. Suporta TVs de até 70. Acabamento em pintura UV brilho.",
+    preco: "R$ 999,99"
   },
 
   {
     nome: "Home Petropolis 1.8 Grigio Fosco Canela",
     categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Petropolis 1.8 Grigio Fosco Canela.jpg",
+    imagens: [ "imagens/home/Home petropolis 18 grigio fosco.jpg"
+              ],
     descricao: "Home Petropolis 1.80 Grigio Fosco Canela",
-    preco: "R$ 899,99"
+    detalhes: "Home Petrópolis 1.8, da Mobler, cor Grigio Fosco/Canela. Medidas: Alt. 1,912 m, Larg. 1,80 m, Prof. 0,375 m. Peso: 47,60 kg. Estrutura mista em MDP/MDF 12, 15 e 25 mm. Painel com bordas chanfradas, detalhes frisados, passa-fios, prateleira superior de 25 mm com iluminação LED e suporte para TVs de até 70. Bancada com tampo de 25 mm, 2 nichos para eletrônicos com passa-fios e 2 portas basculantes em MDF com detalhes frisados, dobradiças metálicas e limitadores de abertura. 2 nichos internos, pés de PVC e acabamento em pintura UV brilho.",
+    preco: "R$ 999,99"
   },
 
+
+  
   {
     nome: "Conjunto Show 106 Painel e Rack Freijo Trende Preto Texturizado",
     categoria: "Painéis/Racks",
@@ -876,6 +925,8 @@ const produtos = [
     preco: "R$ 599,99"
   },
 
+
+  
   {
     nome: "Conjunto Show 106 Painel e Rack Freijo Trend Off White Texturizado",
     categoria: "Painéis/Racks",

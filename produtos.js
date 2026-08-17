@@ -619,7 +619,7 @@ const produtos = [
     imagem: "imagens/cozinhas/",
     descricao: "Cozinha New Topazio 6 Portas 2 Gavetas, Branco/ Cinamomo",
     detalhes: "Kit Cozinha New Topázio, da Salleto, cor Branco/Cinamomo. Medidas: Alt. 2,01 m, Larg. 1,65 m, Prof. 0,45 m. Peso: 76,7 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas e 2 gavetas com corrediças telescópicas, sendo 1 com divisor de talheres. Prateleiras internas, garrafeiros, adega e nichos para fornos, eletrodomésticos e utensílios. Puxadores de MDF e pés plásticos com regulagem de altura.",
-    preco: "R$ 1.199,00
+    preco: "R$ 1.199,00"
   },
 
   {
@@ -628,7 +628,7 @@ const produtos = [
     imagem: "imagens/cozinhas/",
     descricao: "Cozinha New Topazio 6 Portas 2 Gavetas, Jequitibá/ Granizo",
     detalhes: "Kit Cozinha New Topázio, da Salleto, cor Jequitibá/Granizo. Medidas: Alt. 2,01 m, Larg. 1,65 m, Prof. 0,45 m. Peso: 76,7 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas e 2 gavetas com corrediças telescópicas, sendo 1 com divisor de talheres. Prateleiras internas, garrafeiros, adega e nichos para fornos, eletrodomésticos e utensílios. Puxadores de MDF e pés plásticos com regulagem de altura.",
-    preco: "R$ 1.199,00
+    preco: "R$ 1.199,00"
   },
 
   
@@ -695,7 +695,7 @@ const produtos = [
     nome: "Cozinha Duda 120 5Portas 1Gavetas Damasco Ripado/ Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/",
-    imagens: [ "imagens/cozinha/
+    imagens: [ "imagens/cozinha/"
               ],
     descricao: "Cozinha Duda 120 5 Portas 1 Gaveta, Damasco Ripado/ Off White ",
     detalhes: "Kit Cozinha Duda 120, da Poquema, cor Damasco Ripado (efeito 3D)/Off White. Medidas: Alt. 1,72 m, Larg. 1,20 m, Prof. 0,35 m. Estrutura 100% em MDP. 3 portas de bater com dobradiças metálicas, 2 portas de correr e 1 gaveta com corrediça metálica. 2 prateleiras externas, puxadores plásticos metalizados prata e pés plásticos rígidos.",

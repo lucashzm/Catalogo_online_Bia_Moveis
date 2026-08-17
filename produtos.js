@@ -169,7 +169,10 @@ const produtos = [
     nome:"Roupeiro Super Master 6Portas 6Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo Off White.jpg",
+    imagens: [ "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo interno.jpg"
+              ],
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas Cinamomo Off White",
+    detalhes: "Roupeiro Super/Master, da TCIL, cor Cinamomo/Off White. Medidas: Alt. 2,18 m, Larg. 2,01 m, Prof. 0,46 m. Peso: 156 kg. Estrutura 100% em MDP 12 mm e 15 mm. 6 portas de bater com dobradiças metálicas e puxadores de perfil vertical em MDF. 6 gavetas internas com corrediças metálicas telescópicas e puxadores de botão em PVC. Colmeia interna com 7 nichos: 3 superiores horizontais para roupas de cama ou malas e 4 com cabideiros de alumínio. 2 gaveteiros com 3 gavetas cada e espaços para sapatos. Acabamento em pintura UV semibrilho.",
     preco: "R$ 1.599,99"
   },
 
@@ -177,7 +180,10 @@ const produtos = [
     nome:"Roupeiro Super Master 6Portas 6Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro SuperMaster 6P6G Cinamomo.jpg",
+    imagens: [ "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo interno.jpg"
+              ],
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Super/Master, da TCIL, cor Cinamomo. Medidas: Alt. 2,18 m, Larg. 2,01 m, Prof. 0,46 m. Peso: 156 kg. Estrutura 100% em MDP 12 mm e 15 mm. 6 portas de bater com dobradiças metálicas e puxadores de perfil vertical em MDF. 6 gavetas internas com corrediças metálicas telescópicas e puxadores de botão em PVC. Colmeia interna com 7 nichos: 3 superiores horizontais para roupas de cama ou malas e 4 com cabideiros de alumínio. 2 gaveteiros com 3 gavetas cada e espaços para sapatos. Acabamento em pintura UV semibrilho.",
     preco: "R$ 1.599,99"
   },
 
@@ -185,7 +191,10 @@ const produtos = [
     nome:"Roupeiro Super Master 6Portas 6Gavetas Neve",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro SuperMaster 6P6G Neve.jpg",
+    imagens: [ "imagens/roupeiros/Roupeiro SuperMaster 6P6G Neve interno.jpg"
+              ],
     descricao: "Roupeiro Super Master 6 Portas 6 Gavetas, Neve",
+    detalhes: "Roupeiro Super/Master, da TCIL, cor Neve/Neve. Medidas: Alt. 2,18 m, Larg. 2,01 m, Prof. 0,46 m. Peso: 156 kg. Estrutura 100% em MDP 12 mm e 15 mm. 6 portas de bater com dobradiças metálicas e puxadores de perfil vertical em MDF. 6 gavetas internas com corrediças metálicas telescópicas e puxadores de botão em PVC. Colmeia interna com 7 nichos: 3 superiores horizontais para roupas de cama ou malas e 4 com cabideiros de alumínio. 2 gaveteiros com 3 gavetas cada e espaços para sapatos. Acabamento em pintura UV semibrilho.",
     preco: "R$ 1.599,99"
   },
     
@@ -195,6 +204,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Chicago 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Chicaco 6 Portas 6 Gavetas Cinamomo Off White",
+    detalhes: "Roupeiro Chicago 6P6G, da Carioca Móveis, cor Cinamomo/Off White. Medidas: Alt. 2,25 m, Larg. 2,46 m, Prof. 0,47 m. Peso: 160 kg. Estrutura 100% em MDP 12 mm e 15 mm. 6 portas de giro com dobradiças metálicas e puxadores de perfil vertical em MDF. Colmeia interna com 15 nichos: 2 amplos com cabideiros metálicos, 1 calceiro com cabideiro metálico, 3 superiores para malas, bolsas e roupas de cama, 7 verticais centrais para roupas e objetos pessoais, 2 gaveteiros com 3 gavetas cada, corrediças metálicas e puxadores passantes, além de 2 nichos inferiores para calçados. Acabamento em pintura UV brilho.",
     preco: "R$ 1699,99"
   },
 
@@ -203,6 +213,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 3P9G Cinamomo Off White.jpg",
     descricao: "Roupeiro Star 3 Portas 9 Gavetas Cinamomo Off White",
+    detalhes: "Roupeiro Star, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,23 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 119,1 kg. Estrutura 100% em MDP. 3 portas de correr, sendo 1 com espelho opcional, com roldanas metálicas e trilhos de alumínio. 9 gavetas com corrediças metálicas, 2 cabideiros, 5 nichos internos para roupas e objetos pessoais e puxadores de madeira.",
     preco: "R$ 1.299,99"
   },
 
@@ -211,6 +222,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 3P9G Branco.jpg",
     descricao: "Roupeiro Star 3 Portas 9 Gavetas Branco",
+    detalhes: "Roupeiro Star, da Salleto, cor Branco. Medidas: Alt. 2,23 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 119,1 kg. Estrutura 100% em MDP. 3 portas de correr com espelho opcional, roldanas metálicas e trilhos de alumínio. 9 gavetas com corrediças telescópicas, 2 cabideiros, 5 nichos internos para roupas e objetos pessoais e puxadores de madeira.",
     preco: "R$ 1,299,99"
   },
 
@@ -218,7 +230,10 @@ const produtos = [
     nome: "Roupeiro Itapema 3Portas 9Gavetas Cedro Areia",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Cedro Areia.jpg",
+    imagens: [ "imagens/roupeiros/Roupeiro Itapema II 3P9G CedroAreia 4V Rud Rack interno.jpg"
+              ],
     descricao: "Roupeiro Itapema 3 Portas 9 Gavetas Cedro Areia",
+    detalhes: "Roupeiro Itapema II 3P9G, da Rud Rack, cor Cedro/Areia. Medidas: Alt. 2,23 m, Larg. 2,015 m, Prof. 0,46 m. Peso: 128,4 kg. Estrutura 100% em MDP 12 mm e 15 mm. 3 portas deslizantes sobre trilhos. 9 gavetas externas com corrediças telescópicas, sendo 1 com fechadura e chave. Colmeia interna com 7 nichos: 2 com cabideiros de alumínio, 3 superiores horizontais para roupas de cama, malas e objetos pessoais e 2 centrais para roupas, bolsas e objetos pessoais. Puxadores e pés plásticos de PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 1.399,99"
   },
 
@@ -226,7 +241,10 @@ const produtos = [
      nome: "Roupeiro Itapema 3Portas 9Gavetas Branco Brilho",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Branco Brilho.jpg",
+    imagens: [ "imagens/roupeiros/Roupeiro Itapema II 3P9G Branco Brilho 4V Rud Rack interno.jpg"
+              ],
     descricao: "Roupeiro Itapema 3 Portas 9 Gavetas Branco Brilho",
+    detalhes: "Roupeiro Itapema II 3P9G, da Rud Rack, cor Branco. Medidas: Alt. 2,23 m, Larg. 2,015 m, Prof. 0,46 m. Peso: 128,4 kg. Estrutura 100% em MDP 12 mm e 15 mm. 3 portas deslizantes sobre trilhos. 9 gavetas externas com corrediças telescópicas, sendo 1 com fechadura e chave. Colmeia interna com 7 nichos: 2 com cabideiros de alumínio, 3 superiores horizontais para roupas de cama, malas e objetos pessoais e 2 centrais para roupas, bolsas e objetos pessoais. Puxadores e pés plásticos de PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 1.399,00"
   },
     
@@ -235,6 +253,7 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P Cedro.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro",
+    detalhes: "Cômoda Vitória 5G1P, da Rud Rack, cor Cedro. Medidas: Alt. 1,00 m, Larg. 0,99 m, Prof. 0,43 m. Peso: 36,3 kg. Estrutura mista em MDP/MDF 12 mm e 15 mm. 5 gavetas com corrediças metálicas telescópicas, sendo 1 com fechadura e chave. 1 porta de giro com dobradiças metálicas, 1 prateleira interna removível, puxadores de MDF e pés plásticos de PVC.",
     preco: "R$ 499,99"
   },
 
@@ -243,6 +262,7 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P Branco Brilho.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Branco Brilho",
+    detalhes: "Cômoda Vitória 5G1P, da Rud Rack, cor Branco Brilho. Medidas: Alt. 1,00 m, Larg. 0,99 m, Prof. 0,43 m. Peso: 36,3 kg. Estrutura mista em MDP/MDF 12 mm e 15 mm. 5 gavetas com corrediças metálicas telescópicas, sendo 1 com fechadura e chave. 1 porta de giro com dobradiças metálicas, 1 prateleira interna removível, puxadores de MDF e pés plásticos de PVC.",
     preco: "R$ 499,99"
   },
 
@@ -251,32 +271,35 @@ const produtos = [
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P CedroAreia.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro Areia",
+    detalhes: "Cômoda Vitória 5G1P, da Rud Rack, cor Cedro/Areia. Medidas: Alt. 1,00 m, Larg. 0,99 m, Prof. 0,43 m. Peso: 36,3 kg. Estrutura mista em MDP/MDF 12 mm e 15 mm. 5 gavetas com corrediças metálicas telescópicas, sendo 1 com fechadura e chave. 1 porta de giro com dobradiças metálicas, 1 prateleira interna removível, puxadores de MDF e pés plásticos de PVC.",
     preco: "R$ 499,99"
   },
     
-    
-  {
+  /*{
     nome: "Conjunto Sala Jantar Cindy Tampo 90 Mel com 4 Cadeiras Delta Mel Savana",
     categoria: "Mesas",
     imagem: "imagens/mesas/Conjunto Sala Jantar Cindy Tmp Redondo 90cm Mel com 4 Cds Delta Mel Savana.jpg",
     descricao: "Conjunto Mesa Sala de jantar Cindy Tampo Redondo 90 Mel com 4 Cadeiras Delta Mel Savana",
+    
     preco: "R$ 489,99"
-  },
+  }, 
 
   {
     nome: "Conjunto Sala Jantar Luana Tampo 106 Off White com 4 Cadeiras Luana Mel Savana",
     categoria: "Mesas",
     imagem: "imagens/mesas/conjunto Sala Jantar Luana Tmp Retangular 106 Off White com 4 Cds Luana Mel-Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Luana Tampo Retangular 106 com 4 Cadeiras Luana Mel Savana",
-    preco: "R$ 529,99"
+    detalhes: "Conjunto Sala de Jantar Sara com 6 Cadeiras Luana, da Sonetto Móveis, cor Mel/Savana. Mesa: Alt. 0,787 m, Larg. 1,36 m, Prof. 0,755 m, peso 17,83 kg. Cadeiras: Alt. 0,90 m, Larg. 0,40 m, Prof. 0,40 m, peso 5,23 kg. Estrutura mista em MDP/MDF 15 mm, 12 mm e 9 mm. Mesa com tampo e pés em MDP. Cadeiras em MDF com estofamento em espuma D12 e revestimento em Corino Savana. Sapatas plásticas e acabamento em pintura UV semibrilho.",
+    preco: "R$ 899,99"
   },
-
+*/
   {
     nome: "Conjunto Sala Jantar Sara Tampo 136 Mel com 6 Cadeiras Luana Mel Savana",
     categoria: "Mesas",
     imagem: "imagens/mesas/Conjunto Sala Jantar Sara Tmp Retangular 136 Mel com 6 Cds Luana Mel-Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Sara Tampo Retangular 136 Mel com 6 Cadeiras Luana Mel Savana",
-    preco: "R$ 589,99"
+    detalhes: "Conjunto Sala de Jantar Sara com 6 Cadeiras Luana, da Sonetto Móveis, cor Mel/Savana. Mesa: Alt. 0,787 m, Larg. 1,36 m, Prof. 0,755 m, peso 17,83 kg. Cadeiras: Alt. 0,90 m, Larg. 0,40 m, Prof. 0,40 m, peso 5,23 kg. Estrutura mista em MDP/MDF 15 mm, 12 mm e 9 mm. Mesa com tampo e pés em MDP. Cadeiras em MDF com estofamento em espuma D12 e revestimento em Corino Savana. Sapatas plásticas e acabamento em pintura UV semibrilho.",
+    preco: "R$ 899,99"
   },
 
   {
@@ -284,7 +307,8 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Wave Oasis 90x90 com 4 Cadeiras Sol Mel Linho Bronze.jpg",
     descricao: "Conjunto Mesa Sala de Jnatar Wave Oasis 90 com 4 Cadeiras SOl Mel Linho Bronze",
-    preco: "R$ 634,99"
+    detalhes: "Sala Wave/Oásis 90x90 com 4 Cadeiras Sol, da Viero Móveis, cor Mel, tecido Linho Bronze. Mesa: Alt. 0,789 m, Larg. 0,90 m, Prof. 0,90 m, peso 50 kg, com estrutura em MDP 25 mm e tampo em MDF 18 mm, com bordas e cantos arredondados. Suporta até 50 kg. Cadeiras: Alt. 0,89 m, Larg. 0,387 m, Prof. 0,515 m, peso 20 kg cada. Estrutura em MDF, assento em MDP 18,35 mm, espuma certificada D26 e encosto em MDP 35 mm com espuma D12. Revestimento em Linho 100% poliéster. Suportam até 80 kg. Acabamento em pintura UV semibrilho.",
+    preco: "R$ 799,99"
   },
 
   {
@@ -292,7 +316,8 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Perla 110x75 Mel com 4 Cadeiras Brisa Mel Veludo Marfim.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Perla 110 Mel com 4 Cadeiras Brisa Mel Veludo Marfim",
-    preco: "R$ 567,00"
+    detalhes: "Sala Perla 110 com 4 Cadeiras Brisa, da Viero, cor Mel, com tecido Veludo Marfim. Mesa: Alt. 0,756 m, Larg. 1,10 m, Prof. 0,75 m. Cadeiras: Alt. 0,885 m, Larg. 0,366 m, Prof. 0,435 m. Peso total: 49,4 kg. Estrutura 100% em MDP, com tampo de 15 mm. Cadeiras com assento em espuma D16, revestimento em Veludo Marfim e encosto em MDF. Mesa suporta até 50 kg e cadeiras até 80 kg. Acabamento em pintura UV semibrilho.",
+    preco: "R$ 799,00"
   },
 
   {
@@ -300,15 +325,26 @@ const produtos = [
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Aurea 180x90 com 6 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Aurea 180 com 6 Cadeiras Safira Mel Blonde/Off White Veludo Marfim",
-    preco: "R$ 1.999,99"
+    detalhes: "Sala Áurea 180 com 6 Cadeiras Safira, da Viero, cor Mel Blonde/Off White. Mesa: Alt. 0,82 m, Larg. 1,80 m, Prof. 0,90 m. Cadeiras: Alt. 1,01 m, Larg. 0,41 m, Prof. 0,61 m. Peso total: 119,3 kg. Estrutura em MDF/MDP. Base com formato de octógonos assimétricos e detalhes em Off White. Tampo de MDF chanfrado com vidro lapidado de 4 mm (1,80 x 0,90 m). Cadeiras com assento em espuma D20 e encosto em espuma D12, revestidos em Veludo Marfim. Mesa suporta até 50 kg e cadeiras até 90 kg. Acabamento em pintura UV brilho e semibrilho.",
+    preco: "R$ 2.399,99"
   },
 
+  {
+    nome: "Conjunto Sala Aurea 180 com 6 Cadeiras Safira Mel Grafite",
+    categoria: "Mesas",
+    imagem: "imagens/mesas/Sala Aurea 180x90 com 6 Cadeiras Safira Mel.Grafite Veludo Grafite.jpg",
+    descricao: "Conjunto Mesa Sala de Jantar Aurea 180 com 6 Cadeiras Safira Mel Grafite",
+    detalhes: "Sala Áurea 180 com 6 Cadeiras Safira, da Viero, cor Mel/Grafite. Mesa: Alt. 0,82 m, Larg. 1,80 m, Prof. 0,90 m. Cadeiras: Alt. 1,01 m, Larg. 0,41 m, Prof. 0,61 m. Peso total: 119,3 kg. Estrutura em MDF/MDP. Base com formato de octógonos assimétricos e detalhes em Off White. Tampo de MDF chanfrado com vidro lapidado de 4 mm (1,80 x 0,90 m). Cadeiras com assento em espuma D20 e encosto em espuma D12, revestidos em Veludo Grafite. Mesa suporta até 50 kg e cadeiras até 90 kg. Acabamento em pintura UV brilho e semibrilho.",
+    preco: "R$ 2.399,99"
+  },
+    
   {
     nome: "Conjunto Sala Ibi 120 com 4 Cadeiras Safira Mel Blonde Off White Veludo Marfim",
     categoria: "Mesas",
     imagem: "imagens/mesas/Sala Ibi 120x90 com 4 Cadeiras Safira Mel Blonde Off White Veludo Marfim.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Ibi 120 Com 4 Cadeiras Safira Mel Blonde/ Off White Veludo Marfim",
-    preco: "R$ 1.299,99"
+    detalhes: "Sala Ibi 120 com 4 Cadeiras Safira, da Viero, cor Mel Blonde/Off White. Mesa: Alt. 0,809 m, Larg. 1,20 m, Prof. 0,90 m. Cadeiras: Alt. 1,01 m, Larg. 0,41 m, Prof. 0,61 m. Peso total: 78,2 kg. Estrutura em MDP/MDF. Tampo de MDF 40 mm com bordas chanfradas e vidro temperado de 4 mm. Base em formato de trapézio com detalhes ripados. Cadeiras com assento em espuma D20 e encosto em espuma D12, ambos revestidos em Veludo Marfim. Mesa suporta até 50 kg e cadeiras até 90 kg. Acabamento em pintura UV semibrilho.",
+    preco: "R$ 1.499,99"
   },
 
   {

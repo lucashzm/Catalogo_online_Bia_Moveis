@@ -1512,14 +1512,20 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Atenas Plus 3P4G Cinamomo.jpg",
     descricao: "Roupeiro Atenas Plus 3 Portas, 4 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Atenas Plus 3 portas e 4 gavetas, cor Cinamomo, da Salleto. Medidas: Alt. 2,18 m, Larg. 2,20 m, Prof. 0,545 m. Peso: 170,4 kg. Estrutura 100% MDF 15 mm. Possui 3 portas deslizantes com roldanas de aço e trilho de alumínio, sendo as laterais com detalhes ripados, 4 gavetas com corrediças telescópicas, 2 nichos com cabideiros de alumínio, 5 nichos para roupas, malas e objetos pessoais e 2 nichos sobre os gaveteiros para sapatos. Acabamento em pintura UV semibrilho.",
     preco: "R$ 1.699,99"
   },
 
+
+  
   {
     nome: "Roupeiro Verona Plus com Espelho, 2Portas Peroba Off White Peroba",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Verona Plus 2P, sendo 1 Porta Espelhada Peroba Off White Peroba.jpg",
+    imagens: [ "imagens/roupeiros/roupeiro verona plus 2portas interno peroba off white.jpg"
+              ],
     descricao: "Roupeiro Verona Plus 2 Portas (1 com espelho), Peroba Off White Peroba",
+    detalhes: "Roupeiro Verona Plus 2 portas, sendo 1 espelhada, cor Peroba/Off White/Peroba, da Madmarcs. Medidas: Alt. 2,18 m, Larg. 2,05 m, Prof. 0,51 m. Peso: 176,9 kg. Estrutura 100% MDF, predominantemente 15 mm. Possui 2 portas deslizantes com roldanas de aço e trilho de alumínio, sendo 1 espelhada, puxadores em alumínio, 12 nichos, 2 gaveteiros com 2 gavetas cada, 2 nichos com cabideiros para roupas longas, 2 calceiros, 2 nichos superiores, 6 nichos centrais e 2 nichos para calçados. Opção de uso 'Ele/Ela'. Acabamento em pintura UV semibrilho.",
     preco: "R$ 2.199,99"
   },
 
@@ -1527,15 +1533,23 @@ const produtos = [
     nome: "Roupeiro Verona Plus com Espelho, 2Portas Branco Acetinado",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Verona Plus 2P, sendo 1 Porta Espelhada Branco Acetinado.jpg",
+    imagens: [ "imagens/roupeiros/roupeiro verona plus 2portas interno brano acetinado.jpg"
+              ],
     descricao: "Roupeiro Verona Plus 2 Portas (1 com espelho), Branco Acetinado",
+    detalhes: "Roupeiro Verona Plus 2 portas, sendo 1 espelhada, cor Branco Acetinado, da Madmarcs. Medidas: Alt. 2,18 m, Larg. 2,05 m, Prof. 0,51 m. Peso: 176,9 kg. Estrutura 100% MDF, predominantemente 15 mm. Possui 2 portas deslizantes com roldanas de aço e trilho de alumínio, sendo 1 espelhada, puxadores em alumínio, 12 nichos, 2 gaveteiros com 2 gavetas cada, 2 nichos com cabideiros para roupas longas, 2 calceiros, 2 nichos superiores, 6 nichos centrais e 2 nichos para calçados. Opção de uso 'Ele/Ela'. Acabamento em pintura UV semibrilho.",
     preco: "R$ 2.199,99"
   },
 
+
+  
+
+  
   {
     nome: "Roupeiro Las Vegas com Espelho, 2Portas 6Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Las Vegas 2P6G com Espelhos Cinamomo.jpg",
     descricao: "Roupeiro Las Vegas com Espelho, 2 Portas, 6 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Las Vegas 2 portas com espelhos, cor Cinamomo, da D'Doro. Medidas: Alt. 2,30 m, Larg. 2,20 m, Prof. 0,62 m. Estrutura 100% MDF. Possui 2 portas de correr com roldanas com molas, 6 gavetas internas com corrediças telescópicas, 7 nichos, 2 sapateiras, 6 prateleiras internas, 3 cabideiros metálicos, sendo 1 calceiro, puxadores plásticos e trilhos de alumínio.",
     preco: "R$ 2.999,99"
   },
 
@@ -1544,14 +1558,23 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Las Vegas 2P6G com Espelhos Branco.jpg",
     descricao: "Roupeiro Las Vegas com Espelho, 2 Portas, 6 Gavetas, Branco",
+    detalhes: "Roupeiro Las Vegas 2 portas com espelhos, cor Branco, da D'Doro. Medidas: Alt. 2,30 m, Larg. 2,20 m, Prof. 0,62 m. Estrutura 100% MDF. Possui 2 portas de correr com roldanas com molas, 6 gavetas internas com corrediças telescópicas, 7 nichos, 2 sapateiras, 6 prateleiras internas, 3 cabideiros metálicos, sendo 1 calceiro, puxadores plásticos e trilhos de alumínio.",
     preco: "R$ 2.999,99"
   },
 
+
+
+
+
+  
   {
     nome: "Roupeiro Samara 2Portas Flutuantes Vidro Reflecta Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Samara 2P Flutuantes Vidro Reflecta Off White.jpg",
+    imagens: [ "imagens/roupeiros/roupeiro samara reflecta off white.jpg"]
+      ,
     descricao: "Roupeiro Samara 2 Portas Flutuantes Vidro Reflecta Off White",
+    detalhes: "Roupeiro Samara 2 portas com vidro Reflecta, cor Off White, da Europa Móveis. Medidas: Alt. 2,35 m, Larg. 2,50 m, Prof. 0,60 m. Peso: 247,6 kg. Estrutura 100% MDF 15 mm. Possui 2 portas deslizantes com roldanas de aço e trilhos de alumínio, moldura em alumínio bronze e vidros temperados Reflecta. Interior com 14 nichos, 1 gaveteiro com 4 gavetas, 1 sapateira com plataformas deslizantes, 2 nichos superiores, 2 nichos com cabideiros metálicos e 10 nichos para roupas e objetos pessoais. Iluminação interna em LED quente. Acabamento em pintura UV semibrilho.",
     preco: "R$ 5.199,99"
   },
 
@@ -1559,15 +1582,24 @@ const produtos = [
     nome: "Roupeiro Samara 2Portas Flutuantes Vidro Reflecta Peroba",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Samara 2P Flutuantes Vidros Reflecta Peroba.jpg",
+    imagens: [ "imagens/roupeiros/roupeiro verona plus 2portas interno peroba off white.jpg"
+              ],
     descricao: "Roupeiro Samara 2 Portas Flutuantes Vidro Reflecta Peroba",
+    detalhes: "Roupeiro Samara 2 portas com vidros Reflecta, cor Peroba, da Europa Móveis. Medidas: Alt. 2,35 m, Larg. 2,50 m, Prof. 0,60 m. Peso: 247,6 kg. Estrutura 100% MDF 15 mm. Possui 2 portas deslizantes com roldanas de aço e trilhos de alumínio, moldura em alumínio bronze e vidros temperados Reflecta. Interior com 14 nichos, 1 gaveteiro com 4 gavetas, 1 sapateira com plataformas deslizantes, 2 nichos superiores, 2 nichos com cabideiros metálicos e 10 nichos para roupas e objetos pessoais. Iluminação interna em LED quente. Acabamento em pintura UV semibrilho.",
     preco: "R$ 5.199,99"
   },
 
+
+
+
+
+  
   {
     nome: "Roupeiro Santiago Plus com Espelho, 2Portas 2Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Branco.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Branco",
+    detalhes: "Roupeiro Santiago 2 portas com 1 espelho, cor Branco/Branco, da Carioca. Medidas: Alt. 2,00 m, Larg. 1,31 m, Prof. 0,45 m. Estrutura 100% MDP. Possui 2 portas deslizantes com trilho de alumínio e roldanas de aço, 2 gavetas internas com corrediças metálicas, 2 nichos com cabideiros de alumínio, 1 sapateira e 2 nichos para roupas e objetos pessoais. Puxadores de madeira e acabamento em pintura UV semibrilho.",
     preco: "R$ 1.099,99"
   },
 
@@ -1587,11 +1619,21 @@ const produtos = [
     preco: "R$ 1.099,99"
   },
 
+
+
+
+
+
+
+  
   {
     nome: "Comoda Mary 5Gavetas 1Porta Branco Brilho",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Mary 5G1P Branco Brilho.jpg",
+    imagens: [ "imagens/comodascomoda Mary branco interno.jpg"
+              ],
     descricao: "Comoda Mary 5 Gavetas, 1 Porta, Branco Brilho",
+    detalhes: "Cômoda Mary 5 gavetas e 1 porta, cor Branco, da Rud Rack. Medidas: Alt. 1,00 m, Larg. 0,99 m, Prof. 0,43 m. Estrutura 100% MDP 12 e 15 mm. Possui 5 gavetas com corrediças telescópicas, 1 porta de giro com detalhe ripado, 1 prateleira interna removível, puxadores em MDF e pés plásticos de PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 549,99"
   },
 
@@ -1599,7 +1641,10 @@ const produtos = [
     nome: "Comoda Mary 5Gavetas 1Porta Cedro",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Mary 5G1P Cedro.jpg",
+    imagens: [ "imagens/comodas/comoda mary cedro interno.jpg"
+              ],
     descricao: "Comoda Mary 5 Gavetas, 1 Porta, Cedro",
+    detalhes: "Cômoda Mary 5 gavetas e 1 porta, cor Cedro, da Rud Rack. Medidas: Alt. 1,00 m, Larg. 0,99 m, Prof. 0,43 m. Estrutura 100% MDP 12 e 15 mm. Possui 5 gavetas com corrediças telescópicas, 1 porta de giro com detalhe ripado, 1 prateleira interna removível, puxadores em MDF e pés plásticos de PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 549,99"
   },
 
@@ -1607,10 +1652,18 @@ const produtos = [
     nome: "Comoda Mary 5Gavetas 1Porta Branco Cedro Areia",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Mary 5G1P CedroAreia.jpg",
+    imagens: [ "imagens/comodas/comoda mary cedro areia intenro.jpg"
+              ],
     descricao: "Comoda Mary 5 Gavetas, 1 Porta, Cedro/ Areia ",
+    detalhes: "Cômoda Mary 5 gavetas e 1 porta, cor Cedro Areia, da Rud Rack. Medidas: Alt. 1,00 m, Larg. 0,99 m, Prof. 0,43 m. Estrutura 100% MDP 12 e 15 mm. Possui 5 gavetas com corrediças telescópicas, 1 porta de giro com detalhe ripado, 1 prateleira interna removível, puxadores em MDF e pés plásticos de PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 549,99"
   },
 
+
+
+
+
+  
   {
     nome: "Sofá Retrátil e Reclinável Royal 2.00 Veludo Grafite",
     categoria: "Sofás",
@@ -1962,6 +2015,7 @@ const produtos = [
     categoria: "Camas/Colchões/Box",
     imagem: "imagens/colchao/Colchao Casal Falcon Firme 138x188x18",
     descricao: "Colchão Casal Falcon Firme 138x188x18 Plumatex",
+    detalhes: "Colchão Casal Falcon Firme, cor Black, da Plumatex. Medidas: Alt. 0,18 m, Larg. 1,38 m, Prof. 1,88 m. Estrutura resistente em espuma D26, com tratamento antimofo e antiácaro. Indicado para pessoas de até 100 kg.",
     preco: "R$ 799,99"
   },
 
@@ -1978,6 +2032,7 @@ const produtos = [
     categoria: "Camas/Colchões/Box",
     imagem: "imagens/colchao/Colchao Casal Fit D45 138x188x25.jpg",
     descricao: "Colchao Casal Fit D45 138x188x25 Ortobom",
+    detalhes: "Colchão Casal Light, cor Branco/Cinza, da Ortobom. Medidas: Alt. 0,13 m, Larg. 1,38 m, Prof. 1,88 m. Espuma D33 Pró Aditivada de alta performance, tecido Viscopoli bordado em matelassê com tratamento antialérgico e antiácaro. Indicado para pessoas de até 100 kg.".
     preco: "R$ 1.499,99"
   },
 
@@ -1987,6 +2042,7 @@ const produtos = [
     categoria: "Camas/Colchões/Box",
     imagem: "imagens/colchao/Colchao Solteiro Inova Plus D45 88x188x26.jpg",
     descricao: "Colchao Solteiro Inova Plus D45 88x188x26 InovaFlex",
+    detalhes: "Colchão Solteiro Inova Plus D45, da InovaFlex. Medidas: Alt. 0,26 m, Larg. 0,88 m, Prof. 1,88 m. Espuma PU D45 com camada de EPS. Tampo em malha de poliéster 180 g e laterais em veludo suede de poliéster. Conforto extra firme, com suporte de até 150 kg por pessoa.",
     preco: "R$ 699,99"
   },
 
@@ -1995,6 +2051,7 @@ const produtos = [
     categoria: "Camas/Colchões/Box",
     imagem: "imagens/colchao/Colchao Casal Montreal Molas Ensacadas 138x188x32 Vian Colchoes.jpg",
     descricao: "Colchao Casal Montreal Molas Ensacadas 138x188x32 Vian Colchões",
+    detalhes: "Colchão Casal Montreal, cor Marrom, da Vian Colchões. Medidas: Alt. 0,32 m, Larg. 1,38 m, Prof. 1,88 m. Possui molas de aço carbono ensacadas individualmente, espuma D28, base em EPS e tampo em tecido de malha matelassê com fibra siliconada. Fundo antiderrapante e borda perimetral em espuma D26. Conforto firme, com suporte de até 130 kg por pessoa.",
     preco: "R$ 1.099,99"
   },
 
@@ -2003,6 +2060,7 @@ const produtos = [
     categoria: "Camas/Colchões/Box",
     imagem: "imagens/colchao/Colchão Casal Smart Classic Molas Ensacadas 138x188x22 Azul Plumatex.jpeg",
     descricao: "Colchão Casal Smart Classic Molas Ensacadas 138x188x22 Azul Plumatex",
+    detalhes: "Colchão Casal Smart Classic, cor Azul, da Plumatex. Medidas: Alt. 0,22 m, Larg. 1,38 m, Prof. 1,88 m. Possui Euro Pillow em malha Organic Lines, espuma D26, molas Superlastic, isolante acústico, EPS integral, fundo em TNT 100 g e laterais em Jacquard Code. Conforto intermediário, com suporte de até 130 kg.",
     preco: "R$ 899,99"
   },
 
@@ -2011,7 +2069,8 @@ const produtos = [
     categoria: "Camas/Colchões/Box",
     imagem: "imagens/colchao/Colchao Casal Resistance Sealy Molas LFK 138x188x32 Plumatex.jpg",
     descricao: "Colchao Casal Resistance Sealy Molas LFK 138x188x32 Plumatex",
-    preco: "R$ 1.999,99"
+    detalhes: "Colchão Casal Resistance Sealy Molas LFK, cor Bege Claro, da Plumatex. Medidas: Alt. 0,32 m, Larg. 1,38 m, Prof. 1,88 m. Possui molas LFK, espuma D33, fibras siliconadas e Pillow Top Americano com revestimento em malha Cashmere. Laterais em linho, sistema Polyframe, tecido inferior antiderrapante e tecnologia No Turn. Tratamento antiácaro e antifungos. Suporte de até 300 kg, sendo 150 kg por pessoa.",
+    preco: "R$ 2.099,99"
   }
     
     

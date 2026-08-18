@@ -504,9 +504,10 @@ h1 span:last-child {
 }
 
 .modal-conteudo #modal-preco {
-  display: inline-block;
+  display: block;
+  width: fit-content;
 
-  margin-top: 20px;
+  margin: 20px auto 0;
   padding: 8px 18px;
 
   color: green;

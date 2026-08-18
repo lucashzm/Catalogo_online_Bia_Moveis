@@ -936,6 +936,7 @@ const produtos = [
     categoria: "Painéis/Racks",
     imagem: "imagens/home/Conjunto Show 106 Painel mais Rack Freijo Trend.Off White Tx.jpg",
     descricao: "Conjunto Show 106 Painel e Rack Freijo Trend Off White Texturizado",
+    detalhes: "Conjunto Show (Painel + Rack), cor Freijó Trend/Off White Texturizado Linho, da Notável Móveis. Medidas: Painel Alt. 0,85 m, Larg. 1,05 m, Prof. 0,035 m; Rack Alt. 0,68 m, Larg. 1,06 m, Prof. 0,355 m. Peso: 30,24 kg. Estrutura 100% MDP 15 mm. Painel com pintura texturizada e passa-fios. Rack com tampo amplo, 1 porta de bater, 4 nichos, puxador de alumínio e pés de PVC. Suporta TVs de até 43 polegadas e possui acabamento em pintura UV fosco.",
     preco: "R$ 599,99"
   },
 
@@ -1004,7 +1005,7 @@ const produtos = [
     imagens: [ "imagens/home/home brilhare interno.jpg"
               ],
     descricao: "Home Brilhare Off White Nature",
-    detalhes: "Home Brilhare, da Bechara Móveis, cor Off White/Nature. Medidas: Alt. 1,935 m, Larg. 2,16 m, Prof. 0,42 m. Estrutura em MDP 15 mm, com moldura, portas e gavetas em MDF 15 mm. Painel com moldura em MDF, cristaleira integrada com vidro Reflecta, 3 nichos internos e iluminação LED. Espaço para TVs de até 75 polegadas e passa-fios. Bancada com 2 portas Soft Close, 2 gavetas com corrediças telescópicas e 4 nichos externos. Pés em aço carbono com pintura epóxi antiferrugem e acabamento UV brilho.",,
+    detalhes: "Home Brilhare, da Bechara Móveis, cor Off White/Nature. Medidas: Alt. 1,935 m, Larg. 2,16 m, Prof. 0,42 m. Estrutura em MDP 15 mm, com moldura, portas e gavetas em MDF 15 mm. Painel com moldura em MDF, cristaleira integrada com vidro Reflecta, 3 nichos internos e iluminação LED. Espaço para TVs de até 75 polegadas e passa-fios. Bancada com 2 portas Soft Close, 2 gavetas com corrediças telescópicas e 4 nichos externos. Pés em aço carbono com pintura epóxi antiferrugem e acabamento UV brilho.",
     preco: "R$ 1.899,99"
   },
 
@@ -1281,7 +1282,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Cinamomo.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Cinamomo Off White",
-    detalhes: "Roupeiro Colibri 6 portas, cor Cinamomo/Off White, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV acetinada/alto brilho.",,
+    detalhes: "Roupeiro Colibri 6 portas, cor Cinamomo/Off White, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV acetinada/alto brilho.",
     preco: "R$ 1.599,99"
   },
 
@@ -1290,7 +1291,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho",
-    detalhes: "Roupeiro Colibri 6 portas, cor Castanho, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV texturizado.",,
+    detalhes: "Roupeiro Colibri 6 portas, cor Castanho, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV texturizado.",
     preco: "R$ 1.599,99"
   },
 
@@ -1299,16 +1300,17 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho Off White",
-    detalhes: "Roupeiro Colibri 6 portas, cor Castanho/Off White, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV texturizado/alto brilho.",,
+    detalhes: "Roupeiro Colibri 6 portas, cor Castanho/Off White, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV texturizado/alto brilho.",
     preco: "R$ 1.599,99"
   },
   
   {
   
-    nome: "Roupeiro Colibri 6Portas ",
+    nome: "Roupeiro Colibri 6Portas Branco ",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/",
-    descricao: "Roupeiro Colibri 6 Portas ",
+    descricao: "Roupeiro Colibri 6 Portas, Branco ",
+    detalhes: "Roupeiro Colibri 6 portas, cor Branco, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV alto brilho.",
     preco: "R$ 1.599,99"
   },
 
@@ -1323,6 +1325,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Esplendor.Realeza 6P6G Cinamomo.jpg",
     descricao: "Roupeiro Esplendor Realeza 6 Portas, 6 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Esplendor 6 portas e 6 gavetas, cor Cinamomo, da TCIL Móveis. Medidas: Alt. 2,34 m, Larg. 2,74 m, Prof. 0,55 m. Peso: 219,72 kg. Estrutura 100% MDF em 12, 15 e 25 mm. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas, 3 nichos superiores, 3 nichos centrais, 2 nichos laterais com cabideiros de alumínio, 1 calceiro e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 2.099,99"
   },
 
@@ -1331,15 +1334,22 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Esplendor.Realeza 6P6G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Esplendor Realeza 6 Portas, 6 Gavetas, Cinamomo Off White",
+    detalhes: "Roupeiro Esplendor 6 portas e 6 gavetas, cor Cinamomo/Off White, da TCIL Móveis. Medidas: Alt. 2,34 m, Larg. 2,74 m, Prof. 0,55 m. Peso: 219,72 kg. Estrutura 100% MDF em 12, 15 e 25 mm. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas, 3 nichos superiores, 3 nichos centrais, 2 nichos laterais com cabideiros de alumínio, 1 calceiro e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 2.099,99"
   },
 
+
+
+
+
+  
   {
     nome: "Roupeiro Imperio com Espelho, 4Portas 6Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Cinamomo.Cinamomo.jpg",
     descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Cinamomo",
-    preco: "R$ 1.399,99"
+    detalhes: "Roupeiro Império 4 portas e 6 gavetas com espelhos, cor Cinamomo/Cinamomo, da Carioca Móveis. Medidas: Alt. 2,14 m, Larg. 2,00 m, Prof. 0,465 m. Peso: 128,7 kg. Estrutura 100% MDP 12 mm. Possui 4 portas de bater, sendo 2 com espelhos, 6 gavetas externas com corrediças metálicas, 4 nichos com cabideiros de alumínio, sendo 2 calceiros, espaço para calçados, 6 nichos centrais e amplo nicho superior para roupas de cama, malas e bolsas. Puxadores de metal e acabamento em pintura UV semibrilho.",
+    preco: "R$ 1.499,99"
   },
 
   {
@@ -1347,7 +1357,8 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Branco.jpg",
     descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Branco",
-    preco: "R$ 1.399,99"
+    detalhes: "Roupeiro Império 4 portas e 6 gavetas com espelhos, cor Branco/Branco, da Carioca Móveis. Medidas: Alt. 2,14 m, Larg. 2,00 m, Prof. 0,465 m. Peso: 128,7 kg. Estrutura 100% MDP 12 mm. Possui 4 portas de bater, sendo 2 com espelhos, 6 gavetas externas com corrediças metálicas, 4 nichos com cabideiros de alumínio, sendo 2 calceiros, espaço para calçados, 6 nichos centrais e amplo nicho superior para roupas de cama, malas e bolsas. Puxadores de metal e acabamento em pintura UV semibrilho.",
+    preco: "R$ 1.499,99"
   },
 
   {
@@ -1355,22 +1366,35 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Cinamomo.Off White.jpg",
     descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Cinamomo Off White",
-    preco: "R$ 1.399,99"
+    detalhes: "Roupeiro Império 4 portas e 6 gavetas com espelhos, cor Cinamomo/White, da Carioca Móveis. Medidas: Alt. 2,14 m, Larg. 2,00 m, Prof. 0,465 m. Peso: 128,7 kg. Estrutura 100% MDP 12 mm. Possui 4 portas de bater, sendo 2 com espelhos, 6 gavetas externas com corrediças metálicas, 4 nichos com cabideiros de alumínio, sendo 2 calceiros, espaço para calçados, 6 nichos centrais e amplo nicho superior para roupas de cama, malas e bolsas. Puxadores de metal e acabamento em pintura UV semibrilho.",
+    preco: "R$ 1.499,99"
   },
 
+
+
+
+
+  
   {
     nome: "Roupeiro Itaperuna Celta 6Portas 4Gavetas Cinamomo Ripado Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itaperuna.Celta 6P4G Cinamomo Ripado.Off White.jpg",
     descricao: "Roupeiro Itaperuna Celta 6 Portas, 4 Gavetas, Cinamomo Ripado Off White",
+    detalhes: "Roupeiro Itaperuna/Celta 6 portas e 4 gavetas, cor Cinamomo Ripado/Off White, da TCIL Móveis. Medidas: Alt. 2,04 m, Larg. 1,80 m, Prof. 0,46 m. Peso: 109 kg. Estrutura MDF/MDP 12 e 15 mm. Possui 6 portas de bater, sendo 2 ripadas com 3 opções de montagem, 4 gavetas internas com corrediças telescópicas, 2 nichos com cabideiros de alumínio, 5 nichos para roupas e objetos pessoais e espaço para sapatos. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.399,99"
   },
 
+
+
+  
   {
     nome: "Roupeiro Laconia Esparta 6Portas 9Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro LaconiaEsparta 6P9G Cinamomo.jpg",
+    imagens: [ "imagens/roupeiros/roupeiro laconia cinamomo interno.jpg"
+              ],
     descricao: "Roupeiro Laconia Esparta 6 Portas, 9 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Lacônia/Esparta, cor Cinamomo/Cinamomo, da TCIL Móveis. Medidas: Alt. 2,38 m, Larg. 2,70 m, Prof. 0,56 m. Peso: 232 kg. Estrutura 100% MDF 15, 25 e 40 mm. Possui 6 portas de bater, 9 gavetas, sendo 3 externas e 6 internas, 10 nichos, 3 cabideiros de alumínio, sendo 1 para roupas longas, 3 nichos superiores para roupas de cama, malas e bolsas e 4 nichos verticais para roupas, objetos pessoais e sapatos. Puxadores embutidos em MDF e PVC. Acabamento em pintura UV semibrilho.",
     preco: "R$ 2.499,99"
   },
 
@@ -1378,15 +1402,21 @@ const produtos = [
     nome: "Roupeiro Laconia Esparta 6Portas 9Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro LaconiaEsparta 6P9G CinamomoOff White.jpg",
+    imagens: [ "imagens/roupeiros/roupeiro laconia cinamomo off white inteno.jpg"
+              ],
     descricao: "Roupeiro Laconia Esparta 6 Portas, 9 Gavetas, Cinamomo Off White",
+    detalhes: "Roupeiro Lacônia/Esparta, cor Cinamomo/Off White, da TCIL Móveis. Medidas: Alt. 2,38 m, Larg. 2,70 m, Prof. 0,56 m. Peso: 232 kg. Estrutura 100% MDF 15, 25 e 40 mm. Possui 6 portas de bater, 9 gavetas, sendo 3 externas e 6 internas, 10 nichos, 3 cabideiros de alumínio, sendo 1 para roupas longas, 3 nichos superiores para roupas de cama, malas e bolsas e 4 nichos verticais para roupas, objetos pessoais e sapatos. Puxadores embutidos em MDF e PVC. Acabamento em pintura UV semibrilho.",
     preco: "R$ 2.499,99"
   },
 
+
+  
   {
     nome: "Roupeiro Master Top 8Portas 2Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Master Top 8P2G Cinamomo.jpeg",
     descricao: "Roupeiro Master Top 8 Portas. 2 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Master BPW, cor Cinamomo, da Imop. Medidas: Alt. 2,16 m, Larg. 1,83 m, Prof. 0,42 m. Estrutura 100% MDP 12 e 15 mm. Possui 8 portas de bater, 2 gavetas com corrediças telescópicas, 4 nichos, 4 prateleiras internas, 2 cabideiros, 1 calceiro, 1 sapateira e puxadores em MDF. Pés plásticos de PVC. Acabamento BPW (laminado melamínico de baixa pressão).",
     preco: "R$ 1.399,99"
   },
 
@@ -1395,9 +1425,23 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Master BPW 8P2G Cinamomo BPWArenas.jpg",
     descricao: "Roupeiro Master Top 8 Portas, 2 Gavetas, Cinamomo BPW Arenas",
+    detalhes: "Roupeiro Master BPW, cor Cinamomo BPW/Arenas, da Imop. Medidas: Alt. 2,16 m, Larg. 1,83 m, Prof. 0,42 m. Estrutura 100% MDP 12 e 15 mm. Possui 8 portas de bater, 2 gavetas com corrediças telescópicas, 4 nichos, 4 prateleiras internas, 2 cabideiros, 1 calceiro, 1 sapateira e puxadores em MDF. Pés plásticos de PVC. Acabamento em BPW (laminado melamínico de baixa pressão).",
     preco: "R$ 1.399,99"
   },
 
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     nome: "Roupeiro NT 6020 2Portas 3Gavetas Branco",
     categoria: "Roupeiros",

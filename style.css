@@ -335,11 +335,11 @@ h1 span:last-child {
   }
 
   .produto p {
-  color: #555;
-  margin: 14px 0 8px;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 15px;
-  line-height: 1.4;
+    color: #555;
+    margin: 14px 0 8px;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 1.4;
   }
 
   .produto strong {
@@ -347,6 +347,7 @@ h1 span:last-child {
   }
 
 }
+
 .logo-catalogo {
   display: block;
   width: 600px;
@@ -501,13 +502,22 @@ h1 span:last-child {
   font-size: 16px;
   line-height: 1.6;
 }
-}
 
-.modal-conteudo p:last-child {
-  color: #a65f1b;
-  font-size: 22px;
-  font-weight: bold;
+.modal-conteudo #modal-preco {
+  display: inline-block;
+
   margin-top: 20px;
+  padding: 8px 18px;
+
+  color: green;
+  background-color: #fff4e8;
+
+  border-radius: 20px;
+
+  font-size: 26px;
+  font-weight: bold;
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 
 .fechar-modal {
@@ -566,7 +576,7 @@ h1 span:last-child {
     font-size: 14px;
   }
 
-  .modal-conteudo p:last-child {
+  .modal-conteudo #modal-preco {
     font-size: 20px;
   }
 

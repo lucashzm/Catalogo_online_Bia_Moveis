@@ -2043,7 +2043,7 @@ const produtos = [
     categoria: "Camas/Colchões/Box",
     imagem: "imagens/colchao/Colchao Casal Fit D45 138x188x25.jpg",
     descricao: "Colchao Casal Fit D45 138x188x25 Ortobom",
-    detalhes: "Colchão Casal Light, cor Branco/Cinza, da Ortobom. Medidas: Alt. 0,13 m, Larg. 1,38 m, Prof. 1,88 m. Espuma D33 Pró Aditivada de alta performance, tecido Viscopoli bordado em matelassê com tratamento antialérgico e antiácaro. Indicado para pessoas de até 100 kg.".
+    detalhes: "Colchão Casal Light, cor Branco/Cinza, da Ortobom. Medidas: Alt. 0,13 m, Larg. 1,38 m, Prof. 1,88 m. Espuma D33 Pró Aditivada de alta performance, tecido Viscopoli bordado em matelassê com tratamento antialérgico e antiácaro. Indicado para pessoas de até 100 kg.",
     preco: "R$ 1.499,99"
   },
 

@@ -925,7 +925,7 @@ const produtos = [
     categoria: "Painéis/Racks",
     imagem: "imagens/home/Conjunto Show 106 Painel mais Rack Freijo Trende.Preto Tx.jpg",
     descricao: "Conjunto Show 106 Painel e Rack Freijo Trende Preto Texturizado",
-    detalhes: "Conjunto Show (Painel + Rack), da Notável Móveis, cor Freijó Trend/Preto Texturizado Linho. Medidas: Painel Alt. 0,85 m, Larg. 1,05 m, Prof. 0,035 m; Rack Alt. 0,68 m, Larg. 1,06 m, Prof. 0,355 m. Peso: 30,24 kg. Estrutura 100% MDP 15 mm. Painel com pintura texturizada e passa-fios. Rack com amplo tampo, 1 porta, 4 nichos, puxador de alumínio e pés de PVC. Suporta TVs de até 43 polegadas e possui acabamento em pintura UV fosco.",,
+    detalhes: "Conjunto Show (Painel + Rack), da Notável Móveis, cor Freijó Trend/Preto Texturizado Linho. Medidas: Painel Alt. 0,85 m, Larg. 1,05 m, Prof. 0,035 m; Rack Alt. 0,68 m, Larg. 1,06 m, Prof. 0,355 m. Peso: 30,24 kg. Estrutura 100% MDP 15 mm. Painel com pintura texturizada e passa-fios. Rack com amplo tampo, 1 porta, 4 nichos, puxador de alumínio e pés de PVC. Suporta TVs de até 43 polegadas e possui acabamento em pintura UV fosco.",
     preco: "R$ 599,99"
   },
 
@@ -949,7 +949,7 @@ const produtos = [
     categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Eldorado 2.0 Nature.Off White.jpg",
     descricao: "Home Eldorado 2.0 Nature Off White",
-    detalhes: "Home Eldorado 2.0, da Linea Brasil, cor Nature/Off White. Medidas: Alt. 1,81 m, Larg. 2,00 m, Prof. 0,38 m. Peso: 77,5 kg. Estrutura em MDP/MDF 12, 15 e 25 mm. Bancada com 2 portas deslizantes ripadas, 4 nichos para eletrônicos e objetos decorativos e tampo de 37 mm. Painel com espaço para TVs de até 60 polegadas, nicho lateral com espelhos e iluminação LED, prateleira superior e 4 passa-fios. Suporte para TVs de até 55 polegadas, sapatas plásticas e acabamento em pintura UV fosco.",,
+    detalhes: "Home Eldorado 2.0, da Linea Brasil, cor Nature/Off White. Medidas: Alt. 1,81 m, Larg. 2,00 m, Prof. 0,38 m. Peso: 77,5 kg. Estrutura em MDP/MDF 12, 15 e 25 mm. Bancada com 2 portas deslizantes ripadas, 4 nichos para eletrônicos e objetos decorativos e tampo de 37 mm. Painel com espaço para TVs de até 60 polegadas, nicho lateral com espelhos e iluminação LED, prateleira superior e 4 passa-fios. Suporte para TVs de até 55 polegadas, sapatas plásticas e acabamento em pintura UV fosco.",
     preco: "1.099,99"
   },
 
@@ -960,7 +960,7 @@ const produtos = [
     categoria: "Painéis/Racks",
     imagem: "imagens/home/Bancada Suspensa Lana 1.8 Savana.jpg",
     descricao: "Bancada Suspensa Lana 1.8 Savana",
-    detalhes: "Bancada Suspensa Lana 1.8, da Madetec, cor Savana. Medidas: Alt. 1,56 m, Larg. 1,82 m, Prof. 0,34 m. Estrutura 100% MDP em chapas de 15, 25 e 40 mm. Possui portas basculantes com dobradiças metálicas, prateleira, iluminação LED e sistema de fixação Girofix. Suporta TVs de até 60 polegadas.",,
+    detalhes: "Bancada Suspensa Lana 1.8, da Madetec, cor Savana. Medidas: Alt. 1,56 m, Larg. 1,82 m, Prof. 0,34 m. Estrutura 100% MDP em chapas de 15, 25 e 40 mm. Possui portas basculantes com dobradiças metálicas, prateleira, iluminação LED e sistema de fixação Girofix. Suporta TVs de até 60 polegadas.",
     preco: "R$ 949,99"
   },
 
@@ -969,7 +969,7 @@ const produtos = [
     categoria: "Painéis/Racks",
     imagem: "imagens/home/",
     descricao: "Bancada Suspensa Lana 1.8, Titânio/ Carvalho ",
-    detalhes: "Bancada Suspensa Lana 1.8, da Madetec, cor Titânio/Carvalho. Medidas: Alt. 1,56 m, Larg. 1,82 m, Prof. 0,34 m. Estrutura 100% MDP em chapas de 15, 25 e 40 mm. Possui portas basculantes com dobradiças metálicas, prateleira, iluminação LED e sistema de fixação Girofix. Suporta TVs de até 60 polegadas.",,
+    detalhes: "Bancada Suspensa Lana 1.8, da Madetec, cor Titânio/Carvalho. Medidas: Alt. 1,56 m, Larg. 1,82 m, Prof. 0,34 m. Estrutura 100% MDP em chapas de 15, 25 e 40 mm. Possui portas basculantes com dobradiças metálicas, prateleira, iluminação LED e sistema de fixação Girofix. Suporta TVs de até 60 polegadas.",
     preco: "R$ 949,99"
   },
 
@@ -980,7 +980,7 @@ const produtos = [
     categoria: "Painéis/Racks",
     imagem: "imagens/home/Home Theater Trinus 1.8 Cinamomo Off White.jpg",
     descricao: "Home Theater Trinus 1.80 Cinamomo Off White",
-    detalhes: "Home Theater Trinus 1.8, da HB Móveis, cor Cinamomo/Off White. Medidas: Alt. 1,90 m, Larg. 1,80 m, Prof. 0,40 m. Estrutura mista MDF/MDP em 12, 15 e 25 mm. Painel com detalhes ripados, prateleira superior, passa-fios e suporte para TVs de até 70 polegadas. Bancada com 1 porta deslizante, tampo de 25 mm com cantos arredondados e detalhes frisados, 6 nichos para eletrônicos e objetos decorativos, rodízios cromados e acabamento em pintura UV brilho.",,
+    detalhes: "Home Theater Trinus 1.8, da HB Móveis, cor Cinamomo/Off White. Medidas: Alt. 1,90 m, Larg. 1,80 m, Prof. 0,40 m. Estrutura mista MDF/MDP em 12, 15 e 25 mm. Painel com detalhes ripados, prateleira superior, passa-fios e suporte para TVs de até 70 polegadas. Bancada com 1 porta deslizante, tampo de 25 mm com cantos arredondados e detalhes frisados, 6 nichos para eletrônicos e objetos decorativos, rodízios cromados e acabamento em pintura UV brilho.",
     preco: "R$ 1.199,99"
   },
 
@@ -1015,7 +1015,7 @@ const produtos = [
     imagens: [ "imagens/home/home impetus.jpg"
               ],
     descricao: "Painel Impetus 182 com Nicho e LED Cascata Naturale Off White",
-    detalhes: "Painel Impetus 182 com Nicho e LED Cascata, da Mavaular Móveis, cor Naturale/Off White. Medidas: Alt. 2,17 m, Larg. 1,82 m, Prof. 0,34 m. Estrutura 100% MDF em 12, 15 e 25 mm. Painel com espaço para TVs de até 65 polegadas, detalhes ripados, iluminação LED em cascata com difusor e passa-fios. Nicho com moldura em MDF 25 mm, gaveta com corrediça telescópica e abertura Touch to Open, além de espaço para eletrônicos e periféricos. Acabamento em pintura UV brilho.",,
+    detalhes: "Painel Impetus 182 com Nicho e LED Cascata, da Mavaular Móveis, cor Naturale/Off White. Medidas: Alt. 2,17 m, Larg. 1,82 m, Prof. 0,34 m. Estrutura 100% MDF em 12, 15 e 25 mm. Painel com espaço para TVs de até 65 polegadas, detalhes ripados, iluminação LED em cascata com difusor e passa-fios. Nicho com moldura em MDF 25 mm, gaveta com corrediça telescópica e abertura Touch to Open, além de espaço para eletrônicos e periféricos. Acabamento em pintura UV brilho.",
     preco: "R$ 1.599,99"
   },
 
@@ -1030,7 +1030,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Cinamomo.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Cinamomo",
-    detalhes: "Roupeiro Recife 6 Portas 2 Gavetas, da Salleto, cor Cinamomo. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 96,8 kg. Estrutura 100% MDP 12 mm. Possui 6 portas de bater, 2 gavetas com corrediças telescópicas, 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho/semibrilho.",,
+    detalhes: "Roupeiro Recife 6 Portas 2 Gavetas, da Salleto, cor Cinamomo. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 96,8 kg. Estrutura 100% MDP 12 mm. Possui 6 portas de bater, 2 gavetas com corrediças telescópicas, 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.199,99"
   },
 
@@ -1041,7 +1041,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Branco.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Branco",
-    detalhes: "Roupeiro Recife 6 Portas, 2 Gavetas, da Salleto, cor Branco. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 94,4 kg. Estrutura 100% MDP 12 mm. Possui 6 portas de bater, 2 gavetas com corrediças telescópicas, 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho.",,
+    detalhes: "Roupeiro Recife 6 Portas, 2 Gavetas, da Salleto, cor Branco. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 94,4 kg. Estrutura 100% MDP 12 mm. Possui 6 portas de bater, 2 gavetas com corrediças telescópicas, 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho.",
     preco: "R$ 1.199,99"
   },
 
@@ -1052,7 +1052,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Cinamomo Off White.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Cinamomo Off White",
-    detalhes: "Roupeiro Recife 6P2G, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 96,8 kg. Estrutura 100% MDP 12 mm. Possui 6 portas de bater, 2 gavetas com corrediças telescópicas, 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho/semibrilho.",,
+    detalhes: "Roupeiro Recife 6P2G, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 96,8 kg. Estrutura 100% MDP 12 mm. Possui 6 portas de bater, 2 gavetas com corrediças telescópicas, 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.199,99"
   },
 
@@ -1063,7 +1063,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Jequitiba Granizo.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Jequitibá Granizo",
-    detalhes: "Roupeiro Recife 6 portas e 2 gavetas, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 96,8 kg. Estrutura 100% MDP 12 mm. Possui 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho/semibrilho.",,
+    detalhes: "Roupeiro Recife 6 portas e 2 gavetas, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 96,8 kg. Estrutura 100% MDP 12 mm. Possui 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.199,99"
   },
 
@@ -1078,7 +1078,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Orion Premium 6P6G.jpg",
     descricao: "Roupeiro Orion Premium 6 Portas, 6 Gavetas, Cinamomo",
-    detalhes: "Roupeiro Orion Premium, cor Cinamomo, da Salleto. Medidas: Alt. 2,40 m, Larg. 2,74 m, Prof. 0,54 m. Peso: 237,8 kg. Estrutura 100% MDF. Possui 6 portas de bater, 6 gavetas internas com corrediças telescópicas, 2 cabideiros de alumínio, divisão interna 'Ele/Ela', nichos para roupas de cama, sapatos e objetos pessoais e puxadores de madeira com dupla fixação.",,
+    detalhes: "Roupeiro Orion Premium, cor Cinamomo, da Salleto. Medidas: Alt. 2,40 m, Larg. 2,74 m, Prof. 0,54 m. Peso: 237,8 kg. Estrutura 100% MDF. Possui 6 portas de bater, 6 gavetas internas com corrediças telescópicas, 2 cabideiros de alumínio, divisão interna 'Ele/Ela', nichos para roupas de cama, sapatos e objetos pessoais e puxadores de madeira com dupla fixação.",
     preco: "R$ 2.099,99"
   },
 
@@ -1089,7 +1089,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Orion Premium 6P6G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Orion Premium 6 Portas, 6 Gavetas, Cinamomo Off White",
-    detalhes: "Roupeiro Orion Premium, cor Cinamomo/Off White, da Salleto. Medidas: Alt. 2,40 m, Larg. 2,74 m, Prof. 0,54 m. Peso: 237,8 kg. Estrutura 100% MDF. Possui 6 portas de bater, 6 gavetas internas com corrediças telescópicas, 2 cabideiros de alumínio, divisão interna 'Ele/Ela', nichos para roupas de cama, sapatos e objetos pessoais e puxadores de madeira com dupla fixação.",,
+    detalhes: "Roupeiro Orion Premium, cor Cinamomo/Off White, da Salleto. Medidas: Alt. 2,40 m, Larg. 2,74 m, Prof. 0,54 m. Peso: 237,8 kg. Estrutura 100% MDF. Possui 6 portas de bater, 6 gavetas internas com corrediças telescópicas, 2 cabideiros de alumínio, divisão interna 'Ele/Ela', nichos para roupas de cama, sapatos e objetos pessoais e puxadores de madeira com dupla fixação.",
     preco: "R$ 2.099,99"
   },
 
@@ -1105,7 +1105,7 @@ const produtos = [
     imagens: [ "imagens/roupeiros/roupeiro recife branco interno.jpg"
               ],
     descricao: "Roupeiro Recife 8 Portas, 4 Gavetas Branco",
-    detalhes: "Roupeiro Recife 8 portas e 4 gavetas, cor Branco, da Salleto. Medidas: Alt. 2,00 m, Larg. 2,41 m, Prof. 0,47 m. Peso: 129,3 kg. Estrutura 100% MDP 12 mm. Possui 8 portas de bater, puxadores longos em MDF, 12 nichos internos, 3 cabideiros, 2 gaveteiros com 2 gavetas cada e corrediças telescópicas, espaços para calçados, 4 nichos superiores para roupas de cama, malas e bolsas e 5 nichos centrais para roupas e objetos pessoais. Acabamento em pintura UV brilho.",,
+    detalhes: "Roupeiro Recife 8 portas e 4 gavetas, cor Branco, da Salleto. Medidas: Alt. 2,00 m, Larg. 2,41 m, Prof. 0,47 m. Peso: 129,3 kg. Estrutura 100% MDP 12 mm. Possui 8 portas de bater, puxadores longos em MDF, 12 nichos internos, 3 cabideiros, 2 gaveteiros com 2 gavetas cada e corrediças telescópicas, espaços para calçados, 4 nichos superiores para roupas de cama, malas e bolsas e 5 nichos centrais para roupas e objetos pessoais. Acabamento em pintura UV brilho.",
     preco: "R$ 1.499,99"
   },
 /*
@@ -1124,8 +1124,8 @@ const produtos = [
     imagens: [ "imagens/roupeiros/roupeiro recife jequitiba granizo interno.jpg"
               ],
     descricao: "Roupeiro Recife 8 Portas, 4 Gavetas Jequitibá Granizo",
-    detalhes: "Roupeiro Recife 8 portas e 4 gavetas, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,00 m, Larg. 2,41 m, Prof. 0,47 m. Peso: 129,3 kg. Estrutura 100% MDP 12 mm. Possui 8 portas de bater, puxadores longos em MDF, 12 nichos internos, 3 cabideiros, 2 gaveteiros com 2 gavetas cada e corrediças telescópicas, espaços para calçados, 4 nichos superiores para roupas de cama, malas e bolsas e 5 nichos centrais para roupas e objetos pessoais. Acabamento em pintura UV brilho.",,
-    preco: "R$ 1.399,99"
+    detalhes: "Roupeiro Recife 8 portas e 4 gavetas, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,00 m, Larg. 2,41 m, Prof. 0,47 m. Peso: 129,3 kg. Estrutura 100% MDP 12 mm. Possui 8 portas de bater, puxadores longos em MDF, 12 nichos internos, 3 cabideiros, 2 gaveteiros com 2 gavetas cada e corrediças telescópicas, espaços para calçados, 4 nichos superiores para roupas de cama, malas e bolsas e 5 nichos centrais para roupas e objetos pessoais. Acabamento em pintura UV brilho.",
+    preco: "R$ 1.499,99"
   },
 
 
@@ -1137,7 +1137,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro-Texas-Branco NOVO.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Branco",
-    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Branco, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",,
+    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Branco, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
     preco: "R$ 1.199,00"
   },
 
@@ -1147,7 +1147,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo",
-    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Cinamomo, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",,
+    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Cinamomo, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
     preco: "R$ 1.199,00"
   },
 
@@ -1157,7 +1157,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo Off White",
-    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Cinamomo/Off White, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",,
+    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Cinamomo/Off White, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
     preco: "R$ 1.199,00"
   },
 
@@ -1167,7 +1167,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G JequitibaGranizo.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Jequitibá Granizo",
-    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",,
+    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
     preco: "R$ 1.199,00"
   },
 
@@ -1183,7 +1183,7 @@ const produtos = [
     imagens: [ "imagens/roupeiros/Roupeiro Vision cinamomo interno.jpg"
               ],
     descricao: "Roupeiro Vision 6Portas (2Portas Vidro Fume) com LED, Cinamomo",
-    detalhes: "Roupeiro Vision 6 portas, sendo 2 com vidro fumê, cor Cinamomo, da Salleto. Medidas: Alt. 2,00 m, Larg. 1,80 m, Prof. 0,47 m. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de giro, 2 com vidro fumê e iluminação LED interna, puxadores de perfil em MDF, 9 nichos internos, 2 cabideiros de alumínio, 3 nichos superiores, 2 nichos centrais, 2 nichos inferiores, 1 gaveteiro com 2 gavetas e corrediças telescópicas e sapateira. Acabamento em pintura UV brilho.",,
+    detalhes: "Roupeiro Vision 6 portas, sendo 2 com vidro fumê, cor Cinamomo, da Salleto. Medidas: Alt. 2,00 m, Larg. 1,80 m, Prof. 0,47 m. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de giro, 2 com vidro fumê e iluminação LED interna, puxadores de perfil em MDF, 9 nichos internos, 2 cabideiros de alumínio, 3 nichos superiores, 2 nichos centrais, 2 nichos inferiores, 1 gaveteiro com 2 gavetas e corrediças telescópicas e sapateira. Acabamento em pintura UV brilho.",
     preco: "R$ 1.699,99"
   },
 
@@ -1194,7 +1194,7 @@ const produtos = [
     imagens: [ "imagens/roupeiros/roupeiro vision cinamomo off interno.jpg"
               ],
     descricao: "Roupeiro Vision 6Portas (2Portas Vidro Fume) com LED, Cinamomo Off White",
-    detalhes: "Roupeiro Vision 6 portas, sendo 2 com vidro fumê, cor Cinamomo/Off White, da Salleto. Medidas: Alt. 2,00 m, Larg. 1,80 m, Prof. 0,47 m. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de giro, 2 com vidro fumê e iluminação LED interna, puxadores de perfil em MDF, 9 nichos internos, 2 cabideiros de alumínio, 3 nichos superiores, 2 nichos centrais, 2 nichos inferiores, 1 gaveteiro com 2 gavetas e corrediças telescópicas e sapateira. Acabamento em pintura UV brilho.",,
+    detalhes: "Roupeiro Vision 6 portas, sendo 2 com vidro fumê, cor Cinamomo/Off White, da Salleto. Medidas: Alt. 2,00 m, Larg. 1,80 m, Prof. 0,47 m. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de giro, 2 com vidro fumê e iluminação LED interna, puxadores de perfil em MDF, 9 nichos internos, 2 cabideiros de alumínio, 3 nichos superiores, 2 nichos centrais, 2 nichos inferiores, 1 gaveteiro com 2 gavetas e corrediças telescópicas e sapateira. Acabamento em pintura UV brilho.",
     preco: "R$ 1.699,99"
   },
 
@@ -1205,7 +1205,7 @@ const produtos = [
     imagens: [ "imagens/roupeiros/roupeiro vision jequitiba granizo intenro.jpg"
               ],
     descricao: "Roupeiro Vision 6Portas (2Portas Vidro Fume) com LED, Jequitibá Granizo",
-    detalhes: "Roupeiro Vision 6 portas, sendo 2 com vidro fumê, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,00 m, Larg. 1,80 m, Prof. 0,47 m. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de giro, 2 com vidro fumê e iluminação LED interna, puxadores de perfil em MDF, 9 nichos internos, 2 cabideiros de alumínio, 3 nichos superiores, 2 nichos centrais, 2 nichos inferiores, 1 gaveteiro com 2 gavetas e corrediças telescópicas e sapateira. Acabamento em pintura UV brilho.",,
+    detalhes: "Roupeiro Vision 6 portas, sendo 2 com vidro fumê, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,00 m, Larg. 1,80 m, Prof. 0,47 m. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de giro, 2 com vidro fumê e iluminação LED interna, puxadores de perfil em MDF, 9 nichos internos, 2 cabideiros de alumínio, 3 nichos superiores, 2 nichos centrais, 2 nichos inferiores, 1 gaveteiro com 2 gavetas e corrediças telescópicas e sapateira. Acabamento em pintura UV brilho.",
     preco: "R$ 1.699,99"
   },
 
@@ -1219,6 +1219,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Andorra Joinville 6P4G Branco Neve.jpg",
     descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Branco Neve",
+    detalhes: "Roupeiro Andorra 6 portas e 4 gavetas, cor Branco Neve, da TCIL Móveis. Medidas: Alt. 2,17 m, Larg. 2,18 m, Prof. 0,46 m. Peso: 137,2 kg. Estrutura 100% MDF 12 e 15 mm. Possui 6 portas de bater, 4 gavetas internas com corrediças telescópicas, 3 nichos superiores, 3 nichos com cabideiros de alumínio, sendo 1 calceiro, 2 nichos centrais e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.599,99"
   },
 
@@ -1227,6 +1228,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Andorra.Joinville 6P4G Cinamomo.jpg",
     descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Andorra 6 portas e 4 gavetas, cor Cinamomo, da TCIL Móveis. Medidas: Alt. 2,17 m, Larg. 2,18 m, Prof. 0,46 m. Peso: 137,2 kg. Estrutura 100% MDF 12 e 15 mm. Possui 6 portas de bater, 4 gavetas internas com corrediças telescópicas, 3 nichos superiores, 3 nichos com cabideiros de alumínio, sendo 1 calceiro, 2 nichos centrais e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.599,99"
   },
 
@@ -1235,14 +1237,20 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Andorra.Joinville 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Cinamomo Off White",
+    detalhes: "Roupeiro Andorra 6 portas e 4 gavetas, cor Cinamomo/Off White, da TCIL Móveis. Medidas: Alt. 2,17 m, Larg. 2,18 m, Prof. 0,46 m. Peso: 137,2 kg. Estrutura 100% MDF 12 e 15 mm. Possui 6 portas de bater, 4 gavetas internas com corrediças telescópicas, 3 nichos superiores, 3 nichos com cabideiros de alumínio, sendo 1 calceiro, 2 nichos centrais e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.599,99"
   },
 
+
+
+
+  
   {
     nome: "Roupeiro Aracena Sevilla 6Portas 8Gavetas Branco Neve",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Branco Neve.jpg",
     descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Branco Neve",
+    detalhes: "Roupeiro Aracena 6 portas e 8 gavetas, cor Branco Neve, da TCIL Móveis. Medidas: Alt. 2,34 m, Larg. 2,70 m, Prof. 0,55 m. Peso: 220 kg. Estrutura 100% MDP 15 mm. Possui 6 portas de bater, 8 gavetas com corrediças telescópicas, 2 nichos superiores amplos, 10 nichos laterais, 2 nichos com cabideiros de alumínio, sendo 1 para roupas longas, e 1 nicho calceiro. Pode ser dividido em 'Ele/Ela' e possui acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 2.099,99"
   },
 
@@ -1251,6 +1259,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Cinamomo.jpg",
     descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Aracena 6 portas e 8 gavetas, cor Cinamomo, da TCIL Móveis. Medidas: Alt. 2,34 m, Larg. 2,70 m, Prof. 0,55 m. Peso: 220 kg. Estrutura 100% MDP 15 mm. Possui 6 portas de bater, 8 gavetas com corrediças telescópicas, 2 nichos superiores amplos, 10 nichos laterais, 2 nichos com cabideiros de alumínio, sendo 1 para roupas longas, e 1 nicho calceiro. Pode ser dividido em 'Ele/Ela' e possui acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 2.099,99"
   },
 
@@ -1259,14 +1268,20 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Cinamomo Off White",
+    detalhes: "Roupeiro Aracena 6 portas e 8 gavetas, cor Cinamomo/Off White, da TCIL Móveis. Medidas: Alt. 2,34 m, Larg. 2,70 m, Prof. 0,55 m. Peso: 220 kg. Estrutura 100% MDP 15 mm. Possui 6 portas de bater, 8 gavetas com corrediças telescópicas, 2 nichos superiores amplos, 10 nichos laterais, 2 nichos com cabideiros de alumínio, sendo 1 para roupas longas, e 1 nicho calceiro. Pode ser dividido em 'Ele/Ela' e possui acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 2.099,99"
   },
 
+
+
+
+  
   {
     nome: "Roupeiro Colibri 6Portas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Cinamomo.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Cinamomo Off White",
+    detalhes: "Roupeiro Colibri 6 portas, cor Cinamomo/Off White, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV acetinada/alto brilho.",,
     preco: "R$ 1.599,99"
   },
 
@@ -1275,6 +1290,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho",
+    detalhes: "Roupeiro Colibri 6 portas, cor Castanho, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV texturizado.",,
     preco: "R$ 1.599,99"
   },
 
@@ -1283,9 +1299,25 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho Off White",
+    detalhes: "Roupeiro Colibri 6 portas, cor Castanho/Off White, da D'Doro. Medidas: Alt. 2,18 m, Larg. 2,06 m, Prof. 0,48 m. Estrutura mista MDF/MDP 15 mm, com portas e moldura em MDF. Possui 6 portas de bater, 6 gavetas com corrediças telescópicas e abertura total, puxadores de madeira, 4 cabideiros metálicos, 2 sapateiras e 3 nichos superiores para roupas e objetos pessoais. Acabamento em pintura UV texturizado/alto brilho.",,
+    preco: "R$ 1.599,99"
+  },
+  
+  {
+  
+    nome: "Roupeiro Colibri 6Portas ",
+    categoria: "Roupeiros",
+    imagem: "imagens/roupeiros/",
+    descricao: "Roupeiro Colibri 6 Portas ",
     preco: "R$ 1.599,99"
   },
 
+
+
+
+
+
+  
   {
     nome: "Roupeiro Esplendor Realeza 6Portas 6Gavetas Cinamomo",
     categoria: "Roupeiros",

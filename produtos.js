@@ -75,10 +75,10 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Star 2Portas 6Gavetas Jequitibá Granizo",
+    nome: "Roupeiro Star 2Portas 6Gavetas Jequitibá/Granizo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G JequitibaGranizo.jpg",
-    descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Jequitibá/ Granizo",
+    descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Jequitibá/Granizo",
     detalhes: "Roupeiro Star, da Salleto, cor Jequitibá/Granizo. Medidas: Alt. 2,23 m, Larg. 1,195 m, Prof. 0,47 m. Peso: 84,9 kg. Estrutura 100% em MDP. 2 portas de correr com roldanas metálicas e trilhos de alumínio. 6 gavetas com corrediças telescópicas, 1 cabideiro, 4 nichos internos para roupas e objetos pessoais e puxadores de madeira.",
     preco: "R$ 1.099,99"
   },
@@ -129,6 +129,8 @@ const produtos = [
     preco: "R$ 983,99"
   }, */
 
+ 
+  /* VERIFICAR QUANTIDADE DE GAVETASA
   {
     nome: "Roupeiro Itapema 8Portas 4Gavetas c/ Espelho - Nogueira Off White",
     categoria: "Roupeiros",
@@ -138,6 +140,8 @@ const produtos = [
     preco: "R$ 1.099,99"
   },
 
+
+*/
   {
     nome: "Roupeiro Panama 3Portas 4Gavetas Cinamomo",
     categoria: "Roupeiros",
@@ -205,14 +209,14 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Chicago 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Chicaco 6 Portas 6 Gavetas Cinamomo Off White",
     detalhes: "Roupeiro Chicago 6P6G, da Carioca Móveis, cor Cinamomo/Off White. Medidas: Alt. 2,25 m, Larg. 2,46 m, Prof. 0,47 m. Peso: 160 kg. Estrutura 100% em MDP 12 mm e 15 mm. 6 portas de giro com dobradiças metálicas e puxadores de perfil vertical em MDF. Colmeia interna com 15 nichos: 2 amplos com cabideiros metálicos, 1 calceiro com cabideiro metálico, 3 superiores para malas, bolsas e roupas de cama, 7 verticais centrais para roupas e objetos pessoais, 2 gaveteiros com 3 gavetas cada, corrediças metálicas e puxadores passantes, além de 2 nichos inferiores para calçados. Acabamento em pintura UV brilho.",
-    preco: "R$ 1699,99"
+    preco: "R$ 1.699,99"
   },
 
   {
-    nome: "Roupeiro Star 3Portas 9Gavetas Cinamomo Off White",
+    nome: "Roupeiro Star 3Portas 9Gavetas Cinamomo/Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 3P9G Cinamomo Off White.jpg",
-    descricao: "Roupeiro Star 3 Portas 9 Gavetas Cinamomo Off White",
+    descricao: "Roupeiro Star 3 Portas 9 Gavetas Cinamomo/Off White",
     detalhes: "Roupeiro Star, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,23 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 119,1 kg. Estrutura 100% em MDP. 3 portas de correr, sendo 1 com espelho opcional, com roldanas metálicas e trilhos de alumínio. 9 gavetas com corrediças metálicas, 2 cabideiros, 5 nichos internos para roupas e objetos pessoais e puxadores de madeira.",
     preco: "R$ 1.299,99"
   },
@@ -223,7 +227,7 @@ const produtos = [
     imagem: "imagens/roupeiros/Roupeiro Star 3P9G Branco.jpg",
     descricao: "Roupeiro Star 3 Portas 9 Gavetas Branco",
     detalhes: "Roupeiro Star, da Salleto, cor Branco. Medidas: Alt. 2,23 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 119,1 kg. Estrutura 100% em MDP. 3 portas de correr com espelho opcional, roldanas metálicas e trilhos de alumínio. 9 gavetas com corrediças telescópicas, 2 cabideiros, 5 nichos internos para roupas e objetos pessoais e puxadores de madeira.",
-    preco: "R$ 1,299,99"
+    preco: "R$ 1.299,99"
   },
 
   {
@@ -535,7 +539,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Berlim Chicago 4Gavetas 1Porta ",
+    nome: "Cômoda Berlim Chicago 4Gavetas 1Porta",
     categoria: "Cômodas",
     imagem: "imagens/comodas/",
     descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta ",
@@ -544,11 +548,15 @@ const produtos = [
   },
 
   
-  {
+ /* COZINHA MALU, VEFICIAR QUANTIDADE DE GAVETAS PARA CADASTRAR DETALHES CERTOS
+ 
+ 
+ 
+ {
     nome: "Cozinha Compacta Malu 9Portas 2Gavetas com Balcao Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Compacta Completa Malu 9P2G com Balcao Cinamomo Grafite.jpg",
-    imagens: [ "cozinha Malu Cinamomo Off White.jpg"
+    imagens: [ "cozinha malu cinamomo grafite.jpg"
               ],
     descricao: "Cozinha Compacta Malu 9 Portas, 2 Gavetas com balcão Cinamomo/ Grafite",
     detalhes: "Cozinha Compacta Completa Malu 9P6G com Balcão, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 1,98 m, Larg. 2,40 m, Prof. 0,39 m. Peso: 65,85 kg. Estrutura 100% em MDP, com caixas em MDP 12 mm e portas e frentes de gavetas em MDP 15 mm. Dupla opção de montagem. 9 portas com dobradiças metálicas, 2 gavetas com corrediças metálicas e 3 nichos externos: 2 para potes e temperos e 1 para micro-ondas (50 x 58 x 39 cm). 1 prateleira interna na torre quente e amplo espaço sobre o balcão para eletrodomésticos e utensílios. Puxadores e pés reguláveis em PVC. Acabamento em pintura UV brilho.",
@@ -566,7 +574,8 @@ const produtos = [
     detalhes: "Cozinha Compacta Completa Malu 9P6G com Balcão, da Fellicci, cor Cinamomo/Off White. Medidas: Alt. 1,98 m, Larg. 2,40 m, Prof. 0,39 m. Peso: 65,85 kg. Estrutura 100% em MDP, com caixas em MDP 12 mm e portas e frentes de gavetas em MDP 15 mm. Dupla opção de montagem. 9 portas com dobradiças metálicas, 2 gavetas com corrediças metálicas e 3 nichos externos: 2 para potes e temperos e 1 para micro-ondas (50 x 58 x 39 cm). 1 prateleira interna na torre quente e amplo espaço sobre o balcão para eletrodomésticos e utensílios. Puxadores e pés reguláveis em PVC. Acabamento em pintura UV brilho.",
     preco: "R$ 999,99"
   },
-    
+  
+    */
   
   {
     nome: "Kit Cozinha Catar 6Portas 2Gavetas Jequitiba Granizo",
@@ -574,7 +583,7 @@ const produtos = [
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6Portas 2Gavetas JequitibaGranizo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba/ Granizo",
     detalhes: "Kit Cozinha Catar, da Salleto, cor Jequitibá/Granizo. Medidas: Alt. 2,00 m, Larg. 2,00 m, Prof. 0,45 m. Peso: 101,4 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas, 2 gavetas com corrediças telescópicas, nicho amplo para utensílios, 1 nicho para forno, 2 nichos para potes e objetos culinários e 2 garrafeiros laterais para 4 garrafas cada. 1 prateleira interna, detalhes ripados, puxadores em MDF e pés plásticos reguláveis.",
-    preco: "R$ 1,399,99"
+    preco: "R$ 1.399,99"
   },
 
   {
@@ -583,7 +592,7 @@ const produtos = [
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G BrancoCinamomo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas, Branco/ Cinamomo",
     detalhes: "Kit Cozinha Catar, da Salleto, cor Branco/Cinamomo. Medidas: Alt. 2,00 m, Larg. 2,00 m, Prof. 0,45 m. Peso: 101,4 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas, 2 gavetas com corrediças telescópicas, nicho amplo para utensílios, 1 nicho para forno, 2 nichos para potes e objetos culinários e 2 garrafeiros laterais para 4 garrafas cada. 1 prateleira interna, detalhes ripados, puxadores em MDF e pés plásticos reguláveis.",
-    preco: "R$ 1,399,99"
+    preco: "R$ 1.399,99"
   },
 
   {
@@ -592,7 +601,7 @@ const produtos = [
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G CinamomoOff White.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas Cinamomo/ Off White",
     detalhes: "Kit Cozinha Catar, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,00 m, Larg. 2,00 m, Prof. 0,45 m. Peso: 101,4 kg. Estrutura 100% em MDP. 6 portas de bater com dobradiças metálicas, 2 gavetas com corrediças telescópicas, nicho amplo para utensílios, 1 nicho para forno, 2 nichos para potes e objetos culinários e 2 garrafeiros laterais para 4 garrafas cada. 1 prateleira interna, detalhes ripados, puxadores em MDF e pés plásticos reguláveis.",
-    preco: "R$ 1,399,99"
+    preco: "R$ 1.399,99"
   },
 
   {
@@ -1629,9 +1638,9 @@ const produtos = [
 
   
   {
-    nome: "Comoda Mary 5Gavetas 1Porta Branco Brilho",
+    nome: "Comoda Mary 5Gavetas 1Porta Branco/ Brilho",
     categoria: "Cômodas",
-    imagem: "imagens/comodas/Comoda Mary 5G1P Branco Brilho.jpg",
+    imagem: "imagens/comodas/Comoda Mary 5G1P Branco/ Brilho.jpg",
     imagens: [ "imagens/comodas/comoda Mary branco interno.jpg"
               ],
     descricao: "Comoda Mary 5 Gavetas, 1 Porta, Branco Brilho",
@@ -1651,7 +1660,7 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Mary 5Gavetas 1Porta Branco Cedro Areia",
+    nome: "Comoda Mary 5Gavetas 1Porta Branco Cedro/ Areia",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Mary 5G1P CedroAreia.jpg",
     imagens: [ "imagens/comodas/comoda mary cedro areia intenro.jpg"

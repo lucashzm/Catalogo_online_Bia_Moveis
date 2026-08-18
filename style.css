@@ -497,10 +497,12 @@ h1 span:last-child {
 }
 
 .modal-conteudo p {
-  color: #555;
+  color: #444;
   font-family: "Lora", Georgia, serif;
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.7;
+  max-width: 500px;
+  margin: 18px auto;
 }
 
 .modal-conteudo #modal-preco {

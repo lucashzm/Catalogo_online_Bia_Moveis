@@ -9,6 +9,7 @@ const modalImagem = document.getElementById("modal-imagem");
 const modalDescricao = document.getElementById("modal-descricao");
 const modalPreco = document.getElementById("modal-preco");
 const modalWhatsapp = document.getElementById("modal-whatsapp");
+const modalMiniaturas = document.getElementById("modal-miniaturas");
 
 const NUMERO_WHATSAPP = "5521983531564";
 
@@ -132,6 +133,48 @@ function abrirModal(produto) {
 
   modalImagem.src = produto.imagem;
   modalImagem.alt = produto.nome;
+
+  modalMiniaturas.innerHTML = "";
+
+  const imagensProduto = [
+    produto.imagem,
+    ...(produto.imagens || [])
+  ];
+
+  if (imagensProduto.length > 1) {
+
+    imagensProduto.forEach(function(imagem, index) {
+
+      const miniatura = document.createElement("img");
+
+      miniatura.src = imagem;
+      miniatura.alt = produto.nome;
+
+      if (index === 0) {
+        miniatura.classList.add("ativa");
+      }
+
+      miniatura.addEventListener("click", function(event) {
+
+        event.stopPropagation();
+
+        modalImagem.src = imagem;
+
+        document
+          .querySelectorAll(".modal-miniaturas img")
+          .forEach(function(item) {
+            item.classList.remove("ativa");
+          });
+
+        miniatura.classList.add("ativa");
+      });
+
+      modalMiniaturas.appendChild(miniatura);
+
+    });
+
+  }
+
 
   modalDescricao.textContent = produto.descricao;
 

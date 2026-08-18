@@ -1,6 +1,6 @@
 const produtos = [
   {
-    nome: "Sofá Living Felicia 180 3Lugares Linhão Nanquim",
+    nome: "Sofá Living Felicia 180 3 Lugares Linhão Nanquim",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Felicia_ Linhão Nanquim.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Tecido Linhão, Nanquim",
@@ -10,7 +10,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Living Felicia 180 3Lugares Corino Chumbo",
+    nome: "Sofá Living Felicia 180 3 Lugares Corino Chumbo",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Corino Chumbo Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Corino Chumbo",
@@ -20,7 +20,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Living Felicia 180 3Lugares Corino Durango",
+    nome: "Sofá Living Felicia 180 3 Lugares Corino Durango",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Corino Durango Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Corino Durango",
@@ -29,7 +29,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Living Felicia 180 3Lugares Veludo Marfim",
+    nome: "Sofá Living Felicia 180 3 Lugares Veludo Marfim",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Marfim Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Veludo Marfim",
@@ -38,7 +38,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Living Felicia 180 3Lugares Oliva",
+    nome: "Sofá Living Felicia 180 3 Lugares Oliva",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Oliva Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Oliva",
@@ -47,7 +47,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Living Felicia 180 3Lugares Terracota",
+    nome: "Sofá Living Felicia 180 3 Lugares Terracota",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Living Felicia 180 3 Lgs Veludo Terracota Viero.jpg",
     descricao: "Estofado Living Felicia 180 3 Lugares, Terracota",
@@ -57,7 +57,7 @@ const produtos = [
   
 
   {
-    nome: "Roupeiro Star 2Portas 6Gavetas Cinamomo/Off White",
+    nome: "Roupeiro Star 2 Portas 6 Gavetas Cinamomo/Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Cinamomo/Off White",
@@ -66,7 +66,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Star 2Portas 6Gavetas Branco",
+    nome: "Roupeiro Star 2 Portas 6 Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G Branco.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Branco",
@@ -75,7 +75,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Star 2Portas 6Gavetas Jequitibá/Granizo",
+    nome: "Roupeiro Star 2 Portas 6 Gavetas Jequitibá/Granizo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 2P6G JequitibaGranizo.jpg",
     descricao: "Roupeiro Star, 2 Portas, 6 Gavetas, Jequitibá/Granizo",
@@ -85,7 +85,7 @@ const produtos = [
     
 
   {
-    nome: "Comoda Perola Fluence Plus 8Gavetas Freijo",
+    nome: "Comoda Perola Fluence Plus 8 Gavetas Freijo",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G Freijo.jpg",
     descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Cor Freijó",
@@ -94,7 +94,7 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Perola Fluence Plus 8Gavetas Naturale Off White",
+    nome: "Comoda Perola Fluence Plus 8 Gavetas Naturale Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Perola Fluence Plus 8G NaturaleOff White.jpg",
     descricao: "Cômoda Pérola Fluence Plus 8 Gavetas, Naturale Off White",
@@ -103,7 +103,7 @@ const produtos = [
   },
    
   {
-    nome: "Roupeiro Vivacce 4Portas 4Gavetas Cinamomo Off White",
+    nome: "Roupeiro Vivacce 4 Portas 4 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Vivacce 4P4G Cinamomo Off White 4V Albatroz.jpg",
     imagens: [ "imagens/roupeiros/Roupeiro Vivacce 4P4G CinamomoOff White 4V Albatroz Moveis interior.jpg" 
@@ -114,7 +114,7 @@ const produtos = [
   },
 
   /*{
-    nome: "Roupeiro Madri 6Portas Vidro Reflecta Peroba",
+    nome: "Roupeiro Madri 6 Portas Vidro Reflecta Peroba",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Madri 6P Vidro Reflecta Peroba 10V.jpg",
     descricao: "Roupeiro Madri 6 Portas de vidro Reflecta Peroba",
@@ -122,7 +122,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Camarim Olimpia 4Portas 2Gavetas Cinamomo Salvia",
+    nome: "Roupeiro Camarim Olimpia 4 Portas 2 Gavetas Cinamomo Salvia",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Camarim Olimpia 4P2G Cinamomo Salvia.jpg",
     descricao: "Roupeiro Camarim Olimpia 4 Portas 2 Gavetas, Cinamomo/Salvia",
@@ -132,7 +132,7 @@ const produtos = [
  
   /* VERIFICAR QUANTIDADE DE GAVETASA
   {
-    nome: "Roupeiro Itapema 8Portas 4Gavetas c/ Espelho - Nogueira Off White",
+    nome: "Roupeiro Itapema 8 Portas 4 Gavetas c/ Espelho - Nogueira Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema 8P4G com Pés e Espelhos Nogueira Madeira Natura Off White.jpg",
     descricao: "Roupeiro Itapema 8 Portas, 4 Gavetas, com Pés e Espelhos, Cor Nogueira Madeira/ Natura Off White",
@@ -143,7 +143,7 @@ const produtos = [
 
 */
   {
-    nome: "Roupeiro Panama 3Portas 4Gavetas Cinamomo",
+    nome: "Roupeiro Panama 3 Portas 4 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Cinamomo ou Cinamomo.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Cinamomo",
@@ -152,7 +152,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Panama 3Portas 4Gavetas Branco",
+    nome: "Roupeiro Panama 3 Portas 4G  avetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Branco Salleto.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Branco",
@@ -161,7 +161,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Panama 3Portas 4Gavetas Jequitibá",
+    nome: "Roupeiro Panama 3 Portas 4 Gavetas Jequitibá",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Panama 3P4G sem Espelho e sem Pes Jequitiba ou Jequitiba.jpg",
     descricao: "Roupeiro Panamá 3 Portas , 4 Gavetas, Jequitibá",
@@ -170,7 +170,7 @@ const produtos = [
   },
   
   {
-    nome:"Roupeiro Super Master 6Portas 6Gavetas Cinamomo Off White",
+    nome:"Roupeiro Super Master 6 Portas 6 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo Off White.jpg",
     imagens: [ "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo interno.jpg"
@@ -181,7 +181,7 @@ const produtos = [
   },
 
   {
-    nome:"Roupeiro Super Master 6Portas 6Gavetas Cinamomo",
+    nome:"Roupeiro Super Master 6 Portas 6 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro SuperMaster 6P6G Cinamomo.jpg",
     imagens: [ "imagens/roupeiros/Roupeiro Super Master 6P6G Cinamomo interno.jpg"
@@ -192,7 +192,7 @@ const produtos = [
   },
 
   {
-    nome:"Roupeiro Super Master 6Portas 6Gavetas Neve",
+    nome:"Roupeiro Super Master 6 Portas 6 Gavetas Neve",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro SuperMaster 6P6G Neve.jpg",
     imagens: [ "imagens/roupeiros/Roupeiro SuperMaster 6P6G Neve interno.jpg"
@@ -204,7 +204,7 @@ const produtos = [
     
 
   {
-    nome: "Roupeiro Chicago 6Portas 6Gavetas Cinamomo Off White",
+    nome: "Roupeiro Chicago 6Portas 6 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Chicago 6P6G Cinamomo Off White.jpg",
     descricao: "Roupeiro Chicaco 6 Portas 6 Gavetas Cinamomo Off White",
@@ -213,7 +213,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Star 3Portas 9Gavetas Cinamomo/Off White",
+    nome: "Roupeiro Star 3 Portas 9 Gavetas Cinamomo/Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 3P9G Cinamomo Off White.jpg",
     descricao: "Roupeiro Star 3 Portas 9 Gavetas Cinamomo/Off White",
@@ -222,7 +222,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Star 3Portas 9Gavetas Branco",
+    nome: "Roupeiro Star 3 Portas 9 Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Star 3P9G Branco.jpg",
     descricao: "Roupeiro Star 3 Portas 9 Gavetas Branco",
@@ -231,7 +231,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Itapema 3Portas 9Gavetas Cedro Areia",
+    nome: "Roupeiro Itapema 3 Portas 9 Gavetas Cedro Areia",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Cedro Areia.jpg",
     imagens: [ "imagens/roupeiros/Roupeiro Itapema II 3P9G CedroAreia 4V Rud Rack interno.jpg"
@@ -242,7 +242,7 @@ const produtos = [
   },
 
   {
-     nome: "Roupeiro Itapema 3Portas 9Gavetas Branco Brilho",
+     nome: "Roupeiro Itapema 3 Portas 9 Gavetas Branco Brilho",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itapema II 3P9G Branco Brilho.jpg",
     imagens: [ "imagens/roupeiros/Roupeiro Itapema II 3P9G Branco Brilho 4V Rud Rack interno.jpg"
@@ -253,7 +253,7 @@ const produtos = [
   },
     
   {
-    nome: "Comoda Vitoria Plus 5Gavetas 1Porta Cedro",
+    nome: "Comoda Vitoria Plus 5 Gavetas 1Porta Cedro",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P Cedro.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro",
@@ -262,7 +262,7 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Vitoria Plus 5Gavetas 1Porta Branco Brilho",
+    nome: "Comoda Vitoria Plus 5 Gavetas 1 Porta Branco Brilho",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P Branco Brilho.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Branco Brilho",
@@ -271,7 +271,7 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Vitoria Plus 5Gavetas 1Porta Branco Cedro Areia",
+    nome: "Comoda Vitoria Plus 5 Gavetas 1 Porta Branco Cedro Areia",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Vitoria Plus 5G1P CedroAreia.jpg",
     descricao: "Cômoda Vitoria Plus 5 Gavetas 1 Porta Cedro Areia",
@@ -423,7 +423,7 @@ const produtos = [
   },
 */
   {
-    nome: "Cômoda Aruba 5Gavetas Cinamomo Off White",
+    nome: "Cômoda Aruba 5 Gavetas Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aruba 5G Cinamomo Off White.jpg",
     imagens: [ "imagens/comodas/comoda aruba cinamomo off.jpg"
@@ -434,7 +434,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Aruba 5Gavetas Branco",
+    nome: "Cômoda Aruba 5 Gavetas Branco",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aruba 5Gavetas Branco.jpg",
     imagens: [ "imagens/comodas/comoda aruba branco.jpg"
@@ -445,7 +445,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Miami 5Gavetas 1Porta Cinamomo Off White",
+    nome: "Cômoda Miami 5Gavetas 1 Porta Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Miami 5Gavetas 1Porta Cinamomo Off White.jpg",
     imagens: [ "imagens/comodas/Comoda Miami Cinamomo Off White.jpg"
@@ -456,7 +456,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Miami 5Gavetas 1Porta Branco",
+    nome: "Cômoda Miami 5Gavetas 1 Porta Branco",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Miami 5G1P Branco.jpg",
     imagens: [ "imagens/comodas/comoda miami branco.jpg"
@@ -467,7 +467,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Miami 5Gavetas 1Porta Preto",
+    nome: "Cômoda Miami 5Gavetas 1 Porta Preto",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Miami 5G1P Preto.jpg",
     imagens: [ "imagens/comodas/Comoda miami preto.jpg"
@@ -478,7 +478,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Caribe 10Gavetas Cinamomo Off White",
+    nome: "Cômoda Caribe 10 Gavetas Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Caribe 10G Cinamomo Off White.jpg",
     imagens: [ "imagens/comodas/comoda caribe cinamomo off white.jpg"
@@ -489,7 +489,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Caribe 10Gavetas Branco",
+    nome: "Cômoda Caribe 10 Gavetas Branco",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Caribe 10G Branco.jpg",
     imagens: [ "imagens/comodas/comoda caribe branco.jpg"
@@ -500,7 +500,7 @@ const produtos = [
   },
 
   {
-     nome: "Cômoda Caribe 10Gavetas Preto",
+     nome: "Cômoda Caribe 10 Gavetas Preto",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Caribe 10G Preto.jpg",
     imagens: [ "imagens/comodas/comoda caribe preto.jpg"
@@ -512,7 +512,7 @@ const produtos = [
     
 
   {
-    nome: "Cômoda Aramoveis 8Gavetas Atacama",
+    nome: "Cômoda Aramoveis 8 Gavetas Atacama",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Aramoveis 8G Atacama.jpg",
     descricao: "Cômoda Aramoveis 8 Gavetas Atacama",
@@ -521,7 +521,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Berlim Chicago 4Gavetas 1Porta Cinamomo",
+    nome: "Cômoda Berlim Chicago 4 Gavetas 1Porta Cinamomo",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Berlim Chicago 4Gavetas 1Porta Cinamomo.jpg",
     descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo",
@@ -530,7 +530,7 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Berlim Chicago 4Gavetas 1Porta Cinamomo Off White",
+    nome: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo Off White",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Berlim Chicago 4G1P Cinamomo Off White.jpg",
     descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Cinamomo Off White",
@@ -539,10 +539,10 @@ const produtos = [
   },
 
   {
-    nome: "Cômoda Berlim Chicago 4Gavetas 1Porta",
+    nome: "Cômoda Berlim Chicago 4 Gavetas 1 Porta Branco Neve",
     categoria: "Cômodas",
     imagem: "imagens/comodas/",
-    descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta ",
+    descricao: "Cômoda Berlim Chicago 4 Gavetas 1 Porta, Branco Neve",
     detalhes: "Cômoda Berlim 4G1P, da TCIL Móveis, cor Branco Neve. Medidas: Alt. 0,915 m, Larg. 1,044 m, Prof. 0,448 m. Peso: 34,08 kg. Estrutura 100% em MDP 12 mm e 15 mm. 4 gavetas com corrediças metálicas, 1 porta de bater com dobradiças metálicas e 2 nichos internos divididos por uma prateleira. Puxadores de perfil em MDF, sapatas plásticas de PVC e acabamento em pintura UV brilho e semibrilho.",
     preco: "R$ 599,99"
   },
@@ -578,7 +578,7 @@ const produtos = [
     */
   
   {
-    nome: "Kit Cozinha Catar 6Portas 2Gavetas Jequitiba Granizo",
+    nome: "Kit Cozinha Catar 6 Portas 2 Gavetas Jequitiba Granizo",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6Portas 2Gavetas JequitibaGranizo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas Jequitiba/ Granizo",
@@ -587,7 +587,7 @@ const produtos = [
   },
 
   {
-    nome: "Kit Cozinha Catar 6Portas 2Gavetas Branco Cinamomo",
+    nome: "Kit Cozinha Catar 6 Portas 2 Gavetas Branco Cinamomo",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G BrancoCinamomo.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas, Branco/ Cinamomo",
@@ -596,7 +596,7 @@ const produtos = [
   },
 
   {
-    nome: "Kit Cozinha Catar 6Portas 2Gavetas Cinamomo Off White",
+    nome: "Kit Cozinha Catar 6 Portas 2 Gavetas Cinamomo Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Catar 6P2G CinamomoOff White.jpg",
     descricao: "Cozinha Catar 6 POrtas 2 Gavetas Cinamomo/ Off White",
@@ -605,7 +605,7 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha Lia 3Portas 1Gaveta Cinamomo Off White",
+    nome: "Cozinha Lia 3 Portas 1 Gaveta Cinamomo Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Lia 3Portas 1Gaveta Cinamomo Off White.jpeg",
     descricao: "Cozinha Lia 3 Portas 1 Gaveta Cinamomo/ Off White",
@@ -614,7 +614,7 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha New Topazio 6Portas 2Gavetas Cinamomo/ Off White",
+    nome: "Cozinha New Topazio 6 Portas 2 Gavetas Cinamomo/ Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha New Topazio 6Portas 2Gavetas Cinamomo Off White.jpg",
     descricao: "Cozinha New Topazio 6 Portas 2 Gavetas Cinamomo/ Off White",
@@ -623,7 +623,7 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha New Topazio 6Portas 2Gavetas Branco/ Cinamomo Off ",
+    nome: "Cozinha New Topazio 6 Portas 2 Gavetas Branco/ Cinamomo Off ",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/",
     descricao: "Cozinha New Topazio 6 Portas 2 Gavetas, Branco/ Cinamomo",
@@ -642,7 +642,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Siena Premium 6Portas 1Gaveta Branco/ Cinamomo",
+    nome: "Cozinha Siena Premium 6 Portas 1 Gaveta Branco/ Cinamomo",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Siena Premium 6Portas 1Gaveta Branco Cinamomo.jpg",
     descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Branco/ Cinamomo",
@@ -651,7 +651,7 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha Siena Premium 6Portas 1Gaveta Cinamomo/ Off White",
+    nome: "Cozinha Siena Premium 6 Portas 1 Gaveta Cinamomo/ Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Siena Premium 6P1G Cinamomo.Off White.jpg",
     descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Cinamomo Off White",
@@ -660,7 +660,7 @@ const produtos = [
   },
 
   {
-     nome: "Cozinha Siena Premium 6Portas 1Gaveta Jequitibá/ Granizo",
+     nome: "Cozinha Siena Premium 6 Portas 1 Gaveta Jequitibá/ Granizo",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/",
     descricao: "Cozinha Siena Premium 6 Portas 1 Gaveta Jequitibá/ Granizo",
@@ -670,7 +670,7 @@ const produtos = [
   
 
   {
-    nome: "Kit Cozinha Veneza Pop Plus 9Portas 1Gaveta Freijó Off White",
+    nome: "Kit Cozinha Veneza Pop Plus 9 Portas 1 Gaveta Freijó Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Kit Cozinha Veneza Pop Plus 9P1G3N Freijó-Off White.jpg",
     imagens: [ "imagens/cozinhas/cozinha veneza interno.jpg"
@@ -681,7 +681,7 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha Malu 7Portas 2Gavetas Damasco Ripado 3D Off White",
+    nome: "Cozinha Malu 7 Portas 2 Gavetas Damasco Ripado 3D Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Malu 7Portas 2Gavetas Damasco Ripado 3D Off White.jpg",
     descricao: "Cozinha Malu 7 Portas 2 Gavetas Damasco Ripado 3D Off White",
@@ -690,7 +690,7 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha Duda 120 5Portas 1Gavetas Cinamomo Off White",
+    nome: "Cozinha Duda 120 5 Portas 1 Gavetas Cinamomo Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Duda 120 5P1G Cinamomo.Cinamomo Off White.jpg",
     imagens: [ "imagens/cozinha/cozinha duda 120 interno.jpg"
@@ -701,7 +701,7 @@ const produtos = [
   },
 
     {
-    nome: "Cozinha Duda 120 5Portas 1Gavetas Damasco Ripado/ Off White",
+    nome: "Cozinha Duda 120 5 Portas 1 Gaveta Damasco Ripado/ Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/",
     imagens: [ "imagens/cozinha/"
@@ -712,7 +712,7 @@ const produtos = [
   },
 
     {
-    nome: "Cozinha Duda 120 5Portas 1Gavetas Damasco/ Off White",
+    nome: "Cozinha Duda 120 5 Portas 1Gaveta Damasco/ Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/",
     imagens: [ "imagens/cozinha/"
@@ -724,7 +724,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Malaga 6Portas 2Gavetas Cinamomo Grafite",
+    nome: "Cozinha Malaga 6 Portas 2 Gavetas Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Malaga 6P2G Cinamomo Grafite.jpg",
     imagens: [ "imagens/cozinhas/cozinha malaga cinamomo grafite interno.jpg"
@@ -735,7 +735,7 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha Malaga 6Portas 2Gavetas Cinamomo/ Off White",
+    nome: "Cozinha Malaga 6 Portas 2 Gavetas Cinamomo/ Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/",
     imagens: [ "imagens/cozinhas/cozinha malaga cinamomo off interno.jpg"
@@ -752,7 +752,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Modena 7Portas 3Gavetas Cinamomo Off White",
+    nome: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Off White",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Modena 7P3G Cinamomo Off White.jpg",
     imagens: [ "imagens/cozinhas/Cozinha Modena 7portas cinamomo Off White interno.jpg"
@@ -771,7 +771,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Modena 7Portas 3Gavetas Cinamomo Grafite",
+    nome: "Cozinha Modena 7 Portas 3 Gavetas Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/cozinha Modena 7P3G Cinamomo Grafite.jpg",
     imagens: [ "imagens/cozinhas/cozinha modena 7portas cinamomo grafite interno.jpg"
@@ -782,7 +782,7 @@ const produtos = [
   },
   
   {
-    nome: "Cozinha Alexia BPW 6Portas 2Gavetas com Espelho Arenas",
+    nome: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Arenas.jpg",
     imagens: [ "imagens/cozinhas/cozinha alexia arenas interno.jpg"
@@ -794,7 +794,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Alexia BPW 6Portas 2Gavetas com Espelho Cinamomo BPW Arenas",
+    nome: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Cinamomo BPW Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Arenas.jpg",
     imagens: [ "imagens/cozinhas/cozinha alexia cinamomo arenas interno.jpg"
@@ -805,7 +805,7 @@ const produtos = [
   },
 
   {
-    nome: "Cozinha Alexia BPW 6Portas 2Gavetas com Espelho Cinamomo BPW Grafite",
+    nome: "Cozinha Alexia BPW 6 Portas 2 Gavetas com Espelho Cinamomo BPW Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Alexia BPW 6P2G com Espelho Cinamomo BPW Grafite.jpeg",
     imagens: [ "imagens/cozinhas/cozinha alexia cinamomo grafite.jpg"
@@ -819,7 +819,7 @@ const produtos = [
   
   /*
   {
-    nome: "Cozinha Antonela BPW 8Portas 2Gavetas com Espelhos Cinamomo Arenas",
+    nome: "Cozinha Antonela BPW 8 Portas 2 Gavetas com Espelhos Cinamomo Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Antonela BPW 8P2G com Espelhos Cinamomo Arenas.jpg",
     descricao: "Cozinha Antonela BPW 8 Portas 2 Gavetas com Espelho Cinamomo Arenas",
@@ -829,7 +829,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Intense 10Portas 2Gavetas Freijo Nero",
+    nome: "Cozinha Intense 10 Portas 2 Gavetas Freijo Nero",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Intense 10P2G Freijo.Nero.jpg",
     descricao: "Cozinha Intense 10 Portas 2 Gavetas Freijo Nero",
@@ -840,7 +840,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Intense 10Portas 2Gavetas Freijo Vanilla",
+    nome: "Cozinha Intense 10 Portas 2 Gavetas Freijo Vanilla",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Intense 10P2G Freijo.Vanilla.jpg",
     descricao: "Cozinha Intense 10 Portas 2 Gavetas Freijo Vanilla",
@@ -852,7 +852,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Lara BPM 6Portas 2Gavetas Arenas",
+    nome: "Cozinha Lara BPM 6 Portas 2 Gavetas Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Lara BPM 6P2G Arenas.jpg",
     imagens: [ "imagens/cozinhas/cozinha Lara arenas interior.jpg"
@@ -866,7 +866,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Lara BPW 6Portas 2Gavetas Cinamomo Arenas",
+    nome: "Cozinha Lara BPW 6 Portas 2 Gavetas Cinamomo Arenas",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Lara BPW 6P2G Cinamomo Arenas Cinamomo.jpg",
     imagens: [ "imagens/cozinhas/Cozinha Lara Cinamomo arenas offwhite.jpg"
@@ -881,7 +881,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Mega 9Portas 2Gavetas Cinamomo Branco Texturizado",
+    nome: "Cozinha Mega 9 Portas 2 Gavetas Cinamomo Branco Texturizado",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Mega 9P2G Cinamomo Branco texturizado.jpg",
     descricao: "Cozinha Mega 9 Portas 2 Gavetas Cinamomo Branco Texturizado",
@@ -893,7 +893,7 @@ const produtos = [
 
   
   {
-    nome: "Cozinha Mega 9Portas 2Gavetas Cinamomo Grafite",
+    nome: "Cozinha Mega 9 Portas 2 Gavetas Cinamomo Grafite",
     categoria: "Cozinhas",
     imagem: "imagens/cozinhas/Cozinha Mega 9P2G Cinamomo.Grafite.jpg",
     descricao: "Cozinha Mega 9 Portas 2 Gavetas Cinamomo Grafite",
@@ -1036,7 +1036,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Recife 6Portas 2Gavetas Cinamomo",
+    nome: "Roupeiro Recife 6 Portas 2 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Cinamomo.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Cinamomo",
@@ -1047,7 +1047,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Recife 6Portas 2Gavetas Branco",
+    nome: "Roupeiro Recife 6 Portas 2 Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Branco.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Branco",
@@ -1058,7 +1058,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Recife 6Portas 2Gavetas Cinamomo Off White",
+    nome: "Roupeiro Recife 6 Portas 2 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Cinamomo Off White.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Cinamomo Off White",
@@ -1069,7 +1069,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Recife 6Portas 2Gavetas Jequitibá Granizo",
+    nome: "Roupeiro Recife 6 Portas 2 Gavetas Jequitibá Granizo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Jequitiba Granizo.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Jequitibá Granizo",
@@ -1084,7 +1084,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Orion Premium 6Portas 6 Gavetas Cinamomo",
+    nome: "Roupeiro Orion Premium 6 Portas 6 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Orion Premium 6P6G.jpg",
     descricao: "Roupeiro Orion Premium 6 Portas, 6 Gavetas, Cinamomo",
@@ -1095,7 +1095,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Orion Premium 6Portas 6 Gavetas Cinamomo Off White",
+    nome: "Roupeiro Orion Premium 6 Portas 6 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Orion Premium 6P6G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Orion Premium 6 Portas, 6 Gavetas, Cinamomo Off White",
@@ -1109,7 +1109,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Recife 8Portas 4Gavetas Branco",
+    nome: "Roupeiro Recife 8 Portas 4 Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 8P4G Branco.jpg",
     imagens: [ "imagens/roupeiros/roupeiro recife branco interno.jpg"
@@ -1120,7 +1120,7 @@ const produtos = [
   },
 /*
   {
-    nome: "Roupeiro Recife 8Portas 4Gavetas Cinamomo Off White",
+    nome: "Roupeiro Recife 8 Portas 4 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 8P4G CinamomoOff White.jpg",
     descricao: "Roupeiro Recife 8 Portas, 4 Gavetas Cinamomo Off White",
@@ -1128,7 +1128,7 @@ const produtos = [
   },
 */
   {
-    nome: "Roupeiro Recife 8Portas 4Gavetas Jequitibá Granizo",
+    nome: "Roupeiro Recife 8 Portas 4 Gavetas Jequitibá Granizo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 8P4G JequitibaGranizo.jpg",
     imagens: [ "imagens/roupeiros/roupeiro recife jequitiba granizo interno.jpg"
@@ -1143,7 +1143,7 @@ const produtos = [
   
 
   {
-    nome: "Roupeiro Texas 6Portas 4Gavetas Branco",
+    nome: "Roupeiro Texas 6 Portas 4 Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro-Texas-Branco NOVO.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Branco",
@@ -1153,7 +1153,7 @@ const produtos = [
 
     
   {
-    nome: "Roupeiro Texas 6Portas 4Gavetas Cinamomo",
+    nome: "Roupeiro Texas 6 Portas 4 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo",
@@ -1163,7 +1163,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Texas 6Portas 4Gavetas Cinamomo Off White",
+    nome: "Roupeiro Texas 6 Portas 4 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo Off White",
@@ -1173,7 +1173,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Texas 6Portas 4Gavetas Jequitibá Granizo",
+    nome: "Roupeiro Texas 6 Portas 4 Gavetas Jequitibá Granizo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G JequitibaGranizo.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Jequitibá Granizo",
@@ -1187,7 +1187,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Vision 6Portas Cinamomo",
+    nome: "Roupeiro Vision 6 Portas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Vision 6P sendo 2P Vidro Fume com LED Cinamomo.jpg",
     imagens: [ "imagens/roupeiros/Roupeiro Vision cinamomo interno.jpg"
@@ -1198,7 +1198,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Vision 6Portas Cinamomo Off White",
+    nome: "Roupeiro Vision 6 Portas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Vision 6P sendo 2P Vidro Fume com LED CinamomoOff White.jpg",
     imagens: [ "imagens/roupeiros/roupeiro vision cinamomo off interno.jpg"
@@ -1209,7 +1209,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Vision 6Portas Jequitibá Granizo",
+    nome: "Roupeiro Vision 6 Portas Jequitibá Granizo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Vision 6P sendo 2P Vidro Fume com LED JequitibaGranizo.jpg",
     imagens: [ "imagens/roupeiros/roupeiro vision jequitiba granizo intenro.jpg"
@@ -1225,7 +1225,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Andorra Joinville 6Portas 4Gavetas Branco Neve",
+    nome: "Roupeiro Andorra Joinville 6 Portas 4 Gavetas Branco Neve",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Andorra Joinville 6P4G Branco Neve.jpg",
     descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Branco Neve",
@@ -1234,7 +1234,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Andorra Joinville 6Portas 4Gavetas Cinamomo",
+    nome: "Roupeiro Andorra Joinville 6 Portas 4 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Andorra.Joinville 6P4G Cinamomo.jpg",
     descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Cinamomo",
@@ -1243,7 +1243,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Andorra Joinville 6Portas 4Gavetas Cinamomo Off White",
+    nome: "Roupeiro Andorra Joinville 6 Portas 4 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Andorra.Joinville 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Andorra Joinville 6 Portas, 4 Gavetas, Cinamomo Off White",
@@ -1256,7 +1256,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Aracena Sevilla 6Portas 8Gavetas Branco Neve",
+    nome: "Roupeiro Aracena Sevilla 6 Portas 8 Gavetas Branco Neve",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Branco Neve.jpg",
     descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Branco Neve",
@@ -1265,7 +1265,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Aracena Sevilla 6Portas 8Gavetas Cinamomo",
+    nome: "Roupeiro Aracena Sevilla 6 Portas 8 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Cinamomo.jpg",
     descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Cinamomo",
@@ -1274,7 +1274,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Aracena Sevilla 6Portas 8Gavetas Cinamomo Off White",
+    nome: "Roupeiro Aracena Sevilla 6 Portas 8 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Aracena.Sevilla 6P8G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Aracena Sevilla 6 Portas, 8 Gavetas, Cinamomo Off White",
@@ -1287,7 +1287,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Colibri 6Portas Cinamomo Off White",
+    nome: "Roupeiro Colibri 6 Portas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Cinamomo.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Cinamomo Off White",
@@ -1296,7 +1296,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Colibri 6Portas Castanho",
+    nome: "Roupeiro Colibri 6 Portas Castanho",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho",
@@ -1305,7 +1305,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Colibri 6Portas Castanho Off White",
+    nome: "Roupeiro Colibri 6 Portas Castanho Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho Off White",
@@ -1315,7 +1315,7 @@ const produtos = [
   
   {
   
-    nome: "Roupeiro Colibri 6Portas Branco",
+    nome: "Roupeiro Colibri 6 Portas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/",
     descricao: "Roupeiro Colibri 6 Portas, Branco ",
@@ -1330,7 +1330,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Esplendor Realeza 6Portas 6Gavetas Cinamomo",
+    nome: "Roupeiro Esplendor Realeza 6 Portas 6 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Esplendor.Realeza 6P6G Cinamomo.jpg",
     descricao: "Roupeiro Esplendor Realeza 6 Portas, 6 Gavetas, Cinamomo",
@@ -1339,7 +1339,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Esplendor.Realeza 6Portas 6Gavetas Cinamomo Off White",
+    nome: "Roupeiro Esplendor.Realeza 6 Portas 6 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Esplendor.Realeza 6P6G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Esplendor Realeza 6 Portas, 6 Gavetas, Cinamomo Off White",
@@ -1353,7 +1353,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Imperio com Espelho, 4Portas 6Gavetas Cinamomo",
+    nome: "Roupeiro Imperio com Espelho, 4 Portas 6 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Cinamomo.Cinamomo.jpg",
     descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Cinamomo",
@@ -1362,7 +1362,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Imperio com Espelho, 4Portas 6Gavetas Branco",
+    nome: "Roupeiro Imperio com Espelho, 4 Portas 6 Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Branco.jpg",
     descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Branco",
@@ -1371,7 +1371,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Imperio com Espelho, 4Portas 6Gavetas Cinamomo Off White",
+    nome: "Roupeiro Imperio com Espelho, 4 Portas 6 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Cinamomo.Off White.jpg",
     descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Cinamomo Off White",
@@ -1385,7 +1385,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Itaperuna Celta 6Portas 4Gavetas Cinamomo Ripado Off White",
+    nome: "Roupeiro Itaperuna Celta 6 Portas 4 Gavetas Cinamomo Ripado Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Itaperuna.Celta 6P4G Cinamomo Ripado.Off White.jpg",
     descricao: "Roupeiro Itaperuna Celta 6 Portas, 4 Gavetas, Cinamomo Ripado Off White",
@@ -1397,7 +1397,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Laconia Esparta 6Portas 9Gavetas Cinamomo",
+    nome: "Roupeiro Laconia Esparta 6 Portas 9 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro LaconiaEsparta 6P9G Cinamomo.jpg",
     imagens: [ "imagens/roupeiros/roupeiro laconia cinamomo interno.jpg"
@@ -1408,7 +1408,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Laconia Esparta 6Portas 9Gavetas Cinamomo Off White",
+    nome: "Roupeiro Laconia Esparta 6 Portas 9 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro LaconiaEsparta 6P9G CinamomoOff White.jpg",
     imagens: [ "imagens/roupeiros/roupeiro laconia cinamomo off white inteno.jpg"
@@ -1421,7 +1421,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Master Top 8Portas 2Gavetas Cinamomo",
+    nome: "Roupeiro Master Top 8 Portas 2 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Master Top 8P2G Cinamomo.jpeg",
     descricao: "Roupeiro Master Top 8 Portas. 2 Gavetas, Cinamomo",
@@ -1430,7 +1430,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Master Top 8Portas 2Gavetas Cinamomo BPW Arenas",
+    nome: "Roupeiro Master Top 8 Portas 2 Gavetas Cinamomo BPW Arenas",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Master BPW 8P2G Cinamomo BPWArenas.jpg",
     descricao: "Roupeiro Master Top 8 Portas, 2 Gavetas, Cinamomo BPW Arenas",
@@ -1452,7 +1452,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro NT 6020 2Portas 3Gavetas Branco ",
+    nome: "Roupeiro NT 6020 2 Portas 3 Gavetas Branco ",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/",
     descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Branco",
@@ -1461,7 +1461,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro NT 6020 2Portas 3Gavetas Freijó Trend",
+    nome: "Roupeiro NT 6020 2 Portas 3 Gavetas Freijó Trend",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Freijo.jpg",
     descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Freijó Trend",
@@ -1470,7 +1470,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro NT 6020 2Portas 3Gavetas Freijó Trend Off White",
+    nome: "Roupeiro NT 6020 2 Portas 3 Gavetas Freijó Trend Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Off White.jpg",
     descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Freijó Trend/ Off White",
@@ -1485,7 +1485,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Branco Neve",
+    nome: "Roupeiro Padova Veneza 6 Portas 4 Gavetas Branco Neve",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Branco Neve.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Branco Neve",
@@ -1494,7 +1494,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Cinamomo",
+    nome: "Roupeiro Padova Veneza 6 Portas 4 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo",
@@ -1504,7 +1504,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Cinamomo Off White",
+    nome: "Roupeiro Padova Veneza 6 Portas 4 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo/Off White",
@@ -1517,7 +1517,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Atenas Plus 3Portas 4Gavetas Cinamomo",
+    nome: "Roupeiro Atenas Plus 3 Portas 4 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Atenas Plus 3P4G Cinamomo.jpg",
     descricao: "Roupeiro Atenas Plus 3 Portas, 4 Gavetas, Cinamomo",
@@ -1528,7 +1528,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Verona Plus com Espelho, 2Portas Peroba Off White Peroba",
+    nome: "Roupeiro Verona Plus com Espelho, 2 Portas Peroba Off White Peroba",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Verona Plus 2P, sendo 1 Porta Espelhada Peroba Off White Peroba.jpg",
     imagens: [ "imagens/roupeiros/roupeiro verona plus 2portas interno peroba off white.jpg"
@@ -1539,7 +1539,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Verona Plus com Espelho, 2Portas Branco Acetinado",
+    nome: "Roupeiro Verona Plus com Espelho, 2 Portas Branco Acetinado",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Verona Plus 2P, sendo 1 Porta Espelhada Branco Acetinado.jpg",
     imagens: [ "imagens/roupeiros/roupeiro verona plus 2portas interno brano acetinado.jpg"
@@ -1554,7 +1554,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Las Vegas com Espelho, 2Portas 6Gavetas Cinamomo",
+    nome: "Roupeiro Las Vegas com Espelho, 2 Portas 6 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Las Vegas 2P6G com Espelhos Cinamomo.jpg",
     descricao: "Roupeiro Las Vegas com Espelho, 2 Portas, 6 Gavetas, Cinamomo",
@@ -1563,7 +1563,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Las Vegas com Espelho, 2Portas 6Gavetas Branco",
+    nome: "Roupeiro Las Vegas com Espelho, 2 Portas 6 Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Las Vegas 2P6G com Espelhos Branco.jpg",
     descricao: "Roupeiro Las Vegas com Espelho, 2 Portas, 6 Gavetas, Branco",
@@ -1577,7 +1577,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Samara 2Portas Flutuantes Vidro Reflecta Off White",
+    nome: "Roupeiro Samara 2 Portas Flutuantes Vidro Reflecta Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Samara 2P Flutuantes Vidro Reflecta Off White.jpg",
     imagens: [ "imagens/roupeiros/roupeiro samara reflecta off white.jpg"]
@@ -1588,7 +1588,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Samara 2Portas Flutuantes Vidro Reflecta Peroba",
+    nome: "Roupeiro Samara 2 Portas Flutuantes Vidro Reflecta Peroba",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Samara 2P Flutuantes Vidros Reflecta Peroba.jpg",
     imagens: [ "imagens/roupeiros/roupeiro verona plus 2portas interno peroba off white.jpg"
@@ -1604,7 +1604,7 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro Santiago Plus com Espelho, 2Portas 2Gavetas Branco",
+    nome: "Roupeiro Santiago Plus com Espelho, 2 Portas 2 Gavetas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Branco.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Branco",
@@ -1613,7 +1613,7 @@ const produtos = [
   },
 
    {
-    nome: "Roupeiro Santiago Plus com Espelho, 2Portas 2Gavetas Cinamomo",
+    nome: "Roupeiro Santiago Plus com Espelho, 2 Portas 2 Gavetas Cinamomo",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo",
@@ -1622,7 +1622,7 @@ const produtos = [
    },
 
   {
-    nome: "Roupeiro Santiago Plus com Espelho, 2Portas 2Gavetas Cinamomo Off White",
+    nome: "Roupeiro Santiago Plus com Espelho, 2 Portas 2 Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.Off White.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo Off White",
@@ -1638,7 +1638,7 @@ const produtos = [
 
   
   {
-    nome: "Comoda Mary 5Gavetas 1Porta Branco/ Brilho",
+    nome: "Comoda Mary 5 Gavetas 1 Porta Branco/ Brilho",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Mary 5G1P Branco/ Brilho.jpg",
     imagens: [ "imagens/comodas/comoda Mary branco interno.jpg"
@@ -1649,7 +1649,7 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Mary 5Gavetas 1Porta Cedro",
+    nome: "Comoda Mary 5 Gavetas 1 Porta Cedro",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Mary 5G1P Cedro.jpg",
     imagens: [ "imagens/comodas/comoda mary cedro interno.jpg"
@@ -1660,7 +1660,7 @@ const produtos = [
   },
 
   {
-    nome: "Comoda Mary 5Gavetas 1Porta Branco Cedro/ Areia",
+    nome: "Comoda Mary 5 Gavetas 1 Porta Branco Cedro/ Areia",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Mary 5G1P CedroAreia.jpg",
     imagens: [ "imagens/comodas/comoda mary cedro areia intenro.jpg"
@@ -1789,7 +1789,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 3Lugares 320 Linho Bege",
+    nome: "Sofá Retrátil e Reclinável Atlas 3 Lugares 320 Linho Bege",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Linho Bege 01 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Linho Bege",
@@ -1797,7 +1797,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 3Lugares 320 Linho Gelo",
+    nome: "Sofá Retrátil e Reclinável Atlas 3 Lugares 320 Linho Gelo",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Linho Gelo.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Linho Gelo",
@@ -1805,7 +1805,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 3Lugares 320 Linho Bege Claro",
+    nome: "Sofá Retrátil e Reclinável Atlas 3 Lugares 320 Linho Bege Claro",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Veludo Inca Bege Claro.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Linho Bege Claro",
@@ -1813,7 +1813,7 @@ const produtos = [
   },
 
   {
-    nome: "Sofá Retrátil e Reclinável Atlas 3Lugares 320 Veludo Inca Marrom",
+    nome: "Sofá Retrátil e Reclinável Atlas 3 Lugares 320 Veludo Inca Marrom",
     categoria: "Sofás",
     imagem: "imagens/sofas/Estofado Retratil Reclinavel Atlas 320 3x90 Veludo Inca Marrom 17 Idealle.jpg",
     descricao: "Sofá Retrátil e Reclinável Atlas, 3 Lugares, 3.20m, Veludo Inca Marrom",
@@ -2006,7 +2006,7 @@ const produtos = [
   },
 
   {
-    nome: "Conjunto Estofado 175 3x2Lugares Veludo Bege",
+    nome: "Conjunto Estofado 175 3x2 Lugares Veludo Bege",
     categoria: "Sofás",
     imagem: "imagens/sofas/Conj Estofado 175 2x3Lgs Veludo Joinvile Bege Rondomoveis.jpg",
     descricao: "Conjunto Sofá Joinville 3 e 2 Lugares, Veludo Bege",
@@ -2014,7 +2014,7 @@ const produtos = [
   },
 
   {
-    nome: "Conjunto Estofado 175 3x2Lugares Veludo Marrom",
+    nome: "Conjunto Estofado 175 3x2 Lugares Veludo Marrom",
     categoria: "Sofás",
     imagem: "imagens/sofas/Conj Estofado 175 2x3Lgs Veludo Jurere Marrom Rondomoveis.jpg",
     descricao: "Conjunto Sofá Junere 3 e 2 Lugares, Veludo Marrom",

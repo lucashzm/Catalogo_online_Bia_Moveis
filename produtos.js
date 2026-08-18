@@ -951,7 +951,7 @@ const produtos = [
     imagem: "imagens/home/Home Eldorado 2.0 Nature.Off White.jpg",
     descricao: "Home Eldorado 2.0 Nature Off White",
     detalhes: "Home Eldorado 2.0, da Linea Brasil, cor Nature/Off White. Medidas: Alt. 1,81 m, Larg. 2,00 m, Prof. 0,38 m. Peso: 77,5 kg. Estrutura em MDP/MDF 12, 15 e 25 mm. Bancada com 2 portas deslizantes ripadas, 4 nichos para eletrônicos e objetos decorativos e tampo de 37 mm. Painel com espaço para TVs de até 60 polegadas, nicho lateral com espelhos e iluminação LED, prateleira superior e 4 passa-fios. Suporte para TVs de até 55 polegadas, sapatas plásticas e acabamento em pintura UV fosco.",
-    preco: "1.099,99"
+    preco: "R$ 1.099,99"
   },
 
 
@@ -1053,7 +1053,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Recife 6P2G Cinamomo Off White.jpg",
     descricao: "Roupeiro Recife 6 Portas, 2 Gavetas, Cinamomo Off White",
-    detalhes: "Roupeiro Recife 6P2G, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 96,8 kg. Estrutura 100% MDP 12 mm. Possui 6 portas de bater, 2 gavetas com corrediças telescópicas, 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho/semibrilho.",
+    detalhes: "Roupeiro Recife 6 Portas, 2Gavetas, da Salleto, cor Cinamomo/Off White. Medidas: Alt. 2,05 m, Larg. 1,80 m, Prof. 0,47 m. Peso: 96,8 kg. Estrutura 100% MDP 12 mm. Possui 6 portas de bater, 2 gavetas com corrediças telescópicas, 2 cabideiros de alumínio, 7 nichos, 4 prateleiras, puxadores verticais de madeira e espaço para sapatos. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.199,99"
   },
 
@@ -1138,7 +1138,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro-Texas-Branco NOVO.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Branco",
-    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Branco, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
+    detalhes: "Roupeiro Texas 6 portas e 4 gavetas, cor Branco, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
     preco: "R$ 1.199,00"
   },
 
@@ -1148,7 +1148,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo",
-    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Cinamomo, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
+    detalhes: "Roupeiro Texas 6 portas e 4 gavetas, cor Cinamomo, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
     preco: "R$ 1.199,00"
   },
 
@@ -1158,7 +1158,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Cinamomo Off White",
-    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Cinamomo/Off White, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
+    detalhes: "Roupeiro Texas 6 portas e 4 gavetas, cor Cinamomo/Off White, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
     preco: "R$ 1.199,00"
   },
 
@@ -1168,7 +1168,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Texas 6P4G JequitibaGranizo.jpg",
     descricao: "Roupeiro Texas 6 Portas, 4 Gavetas, Jequitibá Granizo",
-    detalhes: "Roupeiro Texas 6 portas e 2 gavetas, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
+    detalhes: "Roupeiro Texas 6 portas e 4 gavetas, cor Jequitibá/Granizo, da Salleto. Medidas: Alt. 2,10 m, Larg. 1,77 m, Prof. 0,47 m. Peso: 106 kg. Estrutura 100% MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas externas com corrediças telescópicas, 8 nichos internos, 2 cabideiros de polipropileno e puxadores de perfil em MDF. Acabamento em pintura UV brilho e fosco/brilho.",
     preco: "R$ 1.199,00"
   },
 
@@ -1443,11 +1443,12 @@ const produtos = [
 
   
   {
-    nome: "Roupeiro NT 6020 2Portas 3Gavetas Branco",
+    nome: "Roupeiro NT 6020 2Portas 3Gavetas Branco ",
     categoria: "Roupeiros",
-    imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Banco New.Rosa Flex.jpg",
+    imagem: "imagens/roupeiros/",
     descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Branco",
-    preco: "R$ 699,99"
+    detalhes: "Roupeiro NT 6020, cor Branco New ou Branco New/Rosa (Flex), da Notável Móveis. Medidas: Alt. 1,87 m, Larg. 1,08 m, Prof. 0,395 m. Peso: 43,3 kg. Estrutura 100% MDP 12 mm. Possui 2 portas de bater, 1 prateleira interna, 1 cabideiro, 3 gavetas externas com corrediças metálicas, nicho penteadeira com espelho e prateleira para objetos pessoais. Puxadores em MDF e pés plásticos. Acabamento em pintura UV brilho.",
+    preco: "R$ 799,99"
   },
 
   {
@@ -1455,6 +1456,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Freijo.jpg",
     descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Freijó Trend",
+    detalhes: "Roupeiro NT 6020, cor Freijó Trend/Freijó Trend, da Notável Móveis. Medidas: Alt. 1,87 m, Larg. 1,08 m, Prof. 0,395 m. Peso: 43,3 kg. Estrutura 100% MDP 12 mm. Possui 2 portas de bater, 1 prateleira interna, 1 cabideiro, 3 gavetas externas com corrediças metálicas, nicho penteadeira com espelho e prateleira para objetos pessoais. Puxadores em MDF e pés plásticos. Acabamento em pintura UV brilho.",
     preco: "R$ 799,99"
   },
 
@@ -1463,14 +1465,22 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro NT 6020 2P3G Freijo Trend.Off White.jpg",
     descricao: "Roupeiro NT 2 Portas, 3 Gavetas, Freijó Trend/ Off White",
+    detalhes: "Roupeiro NT 6020, cor Freijó Trend/Off White, da Notável Móveis. Medidas: Alt. 1,87 m, Larg. 1,08 m, Prof. 0,395 m. Peso: 43,3 kg. Estrutura 100% MDP 12 mm. Possui 2 portas de bater, 1 prateleira interna, 1 cabideiro, 3 gavetas externas com corrediças metálicas, nicho penteadeira com espelho e prateleira para objetos pessoais. Puxadores em MDF e pés plásticos. Acabamento em pintura UV brilho.",
     preco: "R$ 799,99"
   },
 
+
+
+
+
+
+  
   {
     nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Branco Neve",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Branco Neve.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Branco Neve",
+    detalhes: "Roupeiro Pádova 6 portas e 4 gavetas, cor Branco Neve, da TCIL. Medidas: Alt. 2,34 m, Larg. 2,39 m, Prof. 0,55 m. Peso: 182,5 kg. Estrutura predominantemente em MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas internas com corrediças telescópicas, divisão interna 'Ele/Ela', 2 nichos superiores, 2 nichos com cabideiros de alumínio, 10 nichos laterais e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.999,99"
   },
 
@@ -1479,17 +1489,24 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo",
+    detalhes: "Roupeiro Pádova 6 portas e 4 gavetas, cor Cinamomo, da TCIL. Medidas: Alt. 2,34 m, Larg. 2,39 m, Prof. 0,55 m. Peso: 182,5 kg. Estrutura predominantemente em MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas internas com corrediças telescópicas, divisão interna 'Ele/Ela', 2 nichos superiores, 2 nichos com cabideiros de alumínio, 10 nichos laterais e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.999,99"
   },
 
+  
   {
     nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.Off White.jpg",
     descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo/ Off White",
+    detalhes: "Roupeiro Pádova 6 portas e 4 gavetas, cor Cinamomo/Off White, da TCIL. Medidas: Alt. 2,34 m, Larg. 2,39 m, Prof. 0,55 m. Peso: 182,5 kg. Estrutura predominantemente em MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas internas com corrediças telescópicas, divisão interna 'Ele/Ela', 2 nichos superiores, 2 nichos com cabideiros de alumínio, 10 nichos laterais e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.999,99"
   },
 
+
+
+
+  
   {
     nome: "Roupeiro Atenas Plus 3Portas 4Gavetas Cinamomo",
     categoria: "Roupeiros",

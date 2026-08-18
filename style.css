@@ -105,6 +105,49 @@ h1 span:last-child {
 }
 
 /* =========================
+   BUSCA DE PRODUTOS
+   ========================= */
+
+.busca-produtos {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#campo-busca {
+  width: 100%;
+  max-width: 500px;
+
+  box-sizing: border-box;
+
+  padding: 12px 18px;
+
+  background-color: white;
+
+  border: 1px solid #ddd;
+  border-radius: 25px;
+
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+
+  color: #222;
+
+  outline: none;
+
+  transition: 0.2s;
+}
+
+#campo-busca::placeholder {
+  color: #999;
+}
+
+#campo-busca:focus {
+  border-color: #a65f1b;
+
+  box-shadow: 0 0 0 3px rgba(166, 95, 27, 0.10);
+}
+
+/* =========================
    FILTROS
    ========================= */
 
@@ -301,6 +344,17 @@ h1 span:last-child {
     margin-bottom: 22px;
   }
 
+  /* BUSCA NO CELULAR */
+
+  .busca-produtos {
+    margin-bottom: 15px;
+  }
+
+  #campo-busca {
+    padding: 10px 14px;
+    font-size: 14px;
+  }
+
   .filtros {
     gap: 6px;
   }
@@ -311,6 +365,7 @@ h1 span:last-child {
   }
 
   /* Mantém 3 produtos por linha */
+
   #lista-produtos {
     grid-template-columns: repeat(3, 1fr);
     gap: 8px;

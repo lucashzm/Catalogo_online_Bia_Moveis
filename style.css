@@ -110,47 +110,61 @@ h1 span:last-child {
 
 .busca-produtos {
   display: flex;
-  justify-content: center;
-  margin-bottom: 22px;
-}
+  align-items: center;
 
-#campo-busca {
   width: 100%;
   max-width: 520px;
 
-  box-sizing: border-box;
+  margin: 0 auto 22px;
 
-  padding: 13px 20px 13px 20px;
+  box-sizing: border-box;
 
   background-color: white;
 
   border: 1px solid #d8d8d8;
   border-radius: 30px;
 
-  font-family: Arial, sans-serif;
-  font-size: 15px;
-
-  color: #333;
-
-  outline: none;
+  padding: 0 18px;
 
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 
   transition:
     border-color 0.2s,
-    box-shadow 0.2s,
-    transform 0.2s;
+    box-shadow 0.2s;
+}
+
+.busca-produtos i {
+  color: #a65f1b;
+  font-size: 16px;
+
+  margin-right: 10px;
+
+  flex-shrink: 0;
+}
+
+#campo-busca {
+  width: 100%;
+
+  box-sizing: border-box;
+
+  padding: 13px 0;
+
+  background: transparent;
+
+  border: none;
+  outline: none;
+
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+
+  color: #333;
 }
 
 #campo-busca::placeholder {
   color: #999;
 }
 
-#campo-busca:hover {
-  border-color: #c8c8c8;
-}
-
-#campo-busca:focus {
+.busca-produtos:focus-within {
   border-color: #a65f1b;
 
   box-shadow:

@@ -1287,7 +1287,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Colibri 6Portas Castanho ",
+    nome: "Roupeiro Colibri 6Portas Castanho",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho",
@@ -1296,7 +1296,7 @@ const produtos = [
   },
 
   {
-    nome: "Roupeiro Colibri 6Portas Castanho Off White ",
+    nome: "Roupeiro Colibri 6Portas Castanho Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Colibri 6P Castanho.Off White.jpg",
     descricao: "Roupeiro Colibri 6 Portas Castanho Off White",
@@ -1306,7 +1306,7 @@ const produtos = [
   
   {
   
-    nome: "Roupeiro Colibri 6Portas Branco ",
+    nome: "Roupeiro Colibri 6Portas Branco",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/",
     descricao: "Roupeiro Colibri 6 Portas, Branco ",
@@ -1366,7 +1366,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Imperio 4P6G com Espelhos Cinamomo.Off White.jpg",
     descricao: "Roupeiro Império 4 Portas, 6 Gavetas, Com espelho, Cinamomo Off White",
-    detalhes: "Roupeiro Império 4 portas e 6 gavetas com espelhos, cor Cinamomo/White, da Carioca Móveis. Medidas: Alt. 2,14 m, Larg. 2,00 m, Prof. 0,465 m. Peso: 128,7 kg. Estrutura 100% MDP 12 mm. Possui 4 portas de bater, sendo 2 com espelhos, 6 gavetas externas com corrediças metálicas, 4 nichos com cabideiros de alumínio, sendo 2 calceiros, espaço para calçados, 6 nichos centrais e amplo nicho superior para roupas de cama, malas e bolsas. Puxadores de metal e acabamento em pintura UV semibrilho.",
+    detalhes: "Roupeiro Império 4 portas e 6 gavetas com espelhos, cor Cinamomo/Off White, da Carioca Móveis. Medidas: Alt. 2,14 m, Larg. 2,00 m, Prof. 0,465 m. Peso: 128,7 kg. Estrutura 100% MDP 12 mm. Possui 4 portas de bater, sendo 2 com espelhos, 6 gavetas externas com corrediças metálicas, 4 nichos com cabideiros de alumínio, sendo 2 calceiros, espaço para calçados, 6 nichos centrais e amplo nicho superior para roupas de cama, malas e bolsas. Puxadores de metal e acabamento em pintura UV semibrilho.",
     preco: "R$ 1.499,99"
   },
 
@@ -1498,7 +1498,7 @@ const produtos = [
     nome: "Roupeiro Padova Veneza 6Portas 4Gavetas Cinamomo Off White",
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Padova.Veneza 6P4G Cinamomo.Off White.jpg",
-    descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo/ Off White",
+    descricao: "Roupeiro Padova Veneza 6 Portas, 4 Gavetas, Cinamomo/Off White",
     detalhes: "Roupeiro Pádova 6 portas e 4 gavetas, cor Cinamomo/Off White, da TCIL. Medidas: Alt. 2,34 m, Larg. 2,39 m, Prof. 0,55 m. Peso: 182,5 kg. Estrutura predominantemente em MDP 12 e 15 mm. Possui 6 portas de bater, 4 gavetas internas com corrediças telescópicas, divisão interna 'Ele/Ela', 2 nichos superiores, 2 nichos com cabideiros de alumínio, 10 nichos laterais e 2 sapateiras. Puxadores em MDF e PVC. Acabamento em pintura UV brilho/semibrilho.",
     preco: "R$ 1.999,99"
   },
@@ -1608,6 +1608,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo",
+     detalhes: "Roupeiro Santiago 2 portas com 1 espelho, cor Cinamomo, da Carioca. Medidas: Alt. 2,00 m, Larg. 1,31 m, Prof. 0,45 m. Estrutura 100% MDP. Possui 2 portas deslizantes com trilho de alumínio e roldanas de aço, 2 gavetas internas com corrediças metálicas, 2 nichos com cabideiros de alumínio, 1 sapateira e 2 nichos para roupas e objetos pessoais. Puxadores de madeira e acabamento em pintura UV semibrilho.",
     preco: "R$ 1.099,99"
    },
 
@@ -1616,6 +1617,7 @@ const produtos = [
     categoria: "Roupeiros",
     imagem: "imagens/roupeiros/Roupeiro Santiago Plus 2P2G com 1 Espelho Cinamomo.Off White.jpg",
     descricao: "Roupeiro Santiago Plus com Espelho 2 Portas, 2 Gavetas, Cinamomo Off White",
+    detalhes: "Roupeiro Santiago 2 portas com 1 espelho, cor Cinamomo/Off White, da Carioca. Medidas: Alt. 2,00 m, Larg. 1,31 m, Prof. 0,45 m. Estrutura 100% MDP. Possui 2 portas deslizantes com trilho de alumínio e roldanas de aço, 2 gavetas internas com corrediças metálicas, 2 nichos com cabideiros de alumínio, 1 sapateira e 2 nichos para roupas e objetos pessoais. Puxadores de madeira e acabamento em pintura UV semibrilho.",
     preco: "R$ 1.099,99"
   },
 
@@ -1630,7 +1632,7 @@ const produtos = [
     nome: "Comoda Mary 5Gavetas 1Porta Branco Brilho",
     categoria: "Cômodas",
     imagem: "imagens/comodas/Comoda Mary 5G1P Branco Brilho.jpg",
-    imagens: [ "imagens/comodascomoda Mary branco interno.jpg"
+    imagens: [ "imagens/comodas/comoda Mary branco interno.jpg"
               ],
     descricao: "Comoda Mary 5 Gavetas, 1 Porta, Branco Brilho",
     detalhes: "Cômoda Mary 5 gavetas e 1 porta, cor Branco, da Rud Rack. Medidas: Alt. 1,00 m, Larg. 0,99 m, Prof. 0,43 m. Estrutura 100% MDP 12 e 15 mm. Possui 5 gavetas com corrediças telescópicas, 1 porta de giro com detalhe ripado, 1 prateleira interna removível, puxadores em MDF e pés plásticos de PVC. Acabamento em pintura UV brilho.",

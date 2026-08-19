@@ -1,6 +1,7 @@
 const listaProdutos = document.getElementById("lista-produtos");
 const botoes = document.querySelectorAll(".filtro");
 const paginacao = document.getElementById("paginacao");
+const campoBusca = document.getElementById("campo-busca");
 
 const modal = document.getElementById("modal-produto");
 const fecharModal = document.getElementById("fechar-modal");
@@ -26,8 +27,27 @@ function mostrarProdutos(categoria, pagina = 1) {
 
   listaProdutos.innerHTML = "";
 
-  const produtosFiltrados = produtos.filter(function(produto) {
-    return categoria === "Todos" || produto.categoria === categoria;
+const textoBusca = campoBusca.value
+  .toLowerCase()
+  .normalize("NFD")
+  .replace(/[\u0300-\u036f]/g, "");
+
+const produtosFiltrados = produtos.filter(function(produto) {
+
+  const nomeProduto = produto.nome
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+
+  const correspondeBusca =
+    nomeProduto.includes(textoBusca);
+
+  const correspondeCategoria =
+    categoria === "Todos" ||
+    produto.categoria === categoria;
+
+  return correspondeBusca && correspondeCategoria;
+});
   });
 
   const inicio = (pagina - 1) * PRODUTOS_POR_PAGINA;

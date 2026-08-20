@@ -1,226 +1,362 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
-  <head>
+<head>
 
-    <title>Bia Moveis</title>
+  <meta charset="UTF-8">
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
 
-    <link
-      href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap"
-      rel="stylesheet"
-    >
+  <title>Catálogo de Móveis</title>
 
-    <link rel="stylesheet" href="style.css">
+  <!-- Google Fonts -->
 
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
-    >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
 
-  </head>
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap"
+    rel="stylesheet"
+  >
+
+  <!-- Font Awesome -->
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+  >
+
+  <!-- CSS -->
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
 
 
-  <body>
+<body>
 
 
-    <header class="cabecalho">
+  <!-- =========================
+       CABEÇALHO
+       ========================= -->
 
-      <div class="informacoes">
+  <header class="cabecalho">
 
-        <h1>
-          <span>Móveis que</span>
-          <span>Transformam</span>
-        </h1>
+    <div class="informacoes">
 
-        <p class="subtitulo">
-          Qualidade, conforto e estilo para o seu lar.
-        </p>
+      <h1>
+        <span>Catálogo</span>
+        <span>de Móveis</span>
+      </h1>
 
-        <div class="destaques">
-          <div>🚚 <span>Entrega rápida</span></div>
-          <div>🏷️ <span>Preço de atacado</span></div>
+      <p class="subtitulo">
+        Qualidade, conforto e estilo para transformar seu ambiente.
+      </p>
+
+      <div class="destaques">
+
+        <div>
+          <i class="fa-solid fa-couch"></i>
+          Qualidade
         </div>
 
-      </div>
-
-
-      <div class="logo">
-
-        <img
-          src="imagens/Decoralar.png"
-          alt="Decoralar"
-        >
-
-      </div>
-
-    </header>
-
-
-
-    <section class="catalogo">
-
-      <h2>Catálogo de Móveis</h2>
-
-<!-- BUSCA -->
-
-<div class="busca-produtos">
-
-  <i class="fa-solid fa-magnifying-glass"></i>
-
-  <input
-    type="text"
-    id="campo-busca"
-    placeholder="Pesquisar por nome do produto..."
-    autocomplete="off"
-  >
-
-</div>
-  
-
-<!-- FILTROS -->
-
-
-      <!-- FILTROS -->
-
-<div class="filtros">
-
-  <button class="filtro ativo">Todos</button>
-  <button class="filtro">Sofás</button>
-  <button class="filtro">Roupeiros</button>
-  <button class="filtro">Cômodas</button>
-  <button class="filtro">Cozinhas</button>
-  <button class="filtro">Mesas</button>
-  <button class="filtro">Painéis/Racks</button>
-  <button class="filtro">Camas/Colchões/Box</button>
-
-  <button
-    class="ordenacao"
-    id="ordenar-menor"
-    type="button"
-    title="Menor preço"
-  >
-    ↑
-  </button>
-
-  <button
-    class="ordenacao"
-    id="ordenar-maior"
-    type="button"
-    title="Maior preço"
-  >
-    ↓
-  </button>
-
-      </div>
-
-
-
-      <!-- PRODUTOS -->
-
-      <div id="lista-produtos"></div>
-
-      <div id="paginacao"></div>
-
-    </section>
-
-
-
-    <!-- JANELA DE DETALHES DO PRODUTO -->
-
-    <div id="modal-produto" class="modal-produto">
-
-      <div class="modal-conteudo">
-
-        <button
-          id="fechar-modal"
-          class="fechar-modal"
-        >
-          &times;
-        </button>
-
-
-        <h2 id="modal-nome"></h2>
-
-
-        <div class="galeria-produto">
-
-          <img
-            id="modal-imagem"
-            src=""
-            alt=""
-          >
-
-          <div
-            id="modal-miniaturas"
-            class="modal-miniaturas"
-          ></div>
-
+        <div>
+          <i class="fa-solid fa-house"></i>
+          Conforto
         </div>
 
-
-        <p id="modal-descricao"></p>
-
-        <p id="modal-preco"></p>
-
-
-        <a
-          id="modal-whatsapp"
-          class="botao-whatsapp"
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-
-          <i class="fa-brands fa-whatsapp"></i>
-
-          Tenho interesse
-
-        </a>
+        <div>
+          <i class="fa-solid fa-star"></i>
+          Estilo
+        </div>
 
       </div>
 
     </div>
 
 
+    <div class="logo">
 
-    <!-- RODAPÉ -->
+      <img
+        src="imagens/logo.png"
+        alt="Logo"
+      >
 
-    <footer class="rodape">
+    </div>
 
-      <div class="rodape-conteudo">
+  </header>
 
-        <h3>DECORALAR</h3>
 
-        <p>CNPJ: 59.501.060/0001-30</p>
 
-        <p>
-          Avenida do Catarinense, 72 – Campo Grande<br>
-          Rio de Janeiro – RJ | CEP: 23097-115
-        </p>
+  <!-- =========================
+       CATÁLOGO
+       ========================= -->
 
-        <p>
-          WhatsApp: (21) 12345-6789
-          &nbsp;•&nbsp;
-          E-mail: teste@gmail.com
-        </p>
+  <main class="catalogo">
 
-        <p class="copyright">
-          © 2026 Decoralar — Todos os direitos reservados.
-        </p>
+    <img
+      src="imagens/logo-catalogo.png"
+      alt="Catálogo de Móveis"
+      class="logo-catalogo"
+    >
+
+
+    <h2>Catálogo de Móveis</h2>
+
+
+    <!-- =========================
+         BUSCA
+         ========================= -->
+
+    <div class="busca-produtos">
+
+      <i class="fa-solid fa-magnifying-glass"></i>
+
+      <input
+        type="text"
+        id="campo-busca"
+        placeholder="Pesquisar por nome do produto..."
+        autocomplete="off"
+      >
+
+    </div>
+
+
+    <!-- =========================
+         FILTROS
+         ========================= -->
+
+    <div class="filtros">
+
+      <button
+        class="filtro ativo"
+      >
+        Todos
+      </button>
+
+      <button
+        class="filtro"
+      >
+        Sofás
+      </button>
+
+      <button
+        class="filtro"
+      >
+        Roupeiros
+      </button>
+
+      <button
+        class="filtro"
+      >
+        Cômodas
+      </button>
+
+      <button
+        class="filtro"
+      >
+        Cozinhas
+      </button>
+
+      <button
+        class="filtro"
+      >
+        Mesas
+      </button>
+
+      <button
+        class="filtro"
+      >
+        Painéis/Racks
+      </button>
+
+      <button
+        class="filtro"
+      >
+        Camas/Colchões/Box
+      </button>
+
+
+      <!-- =========================
+           ORDENAÇÃO POR PREÇO
+           ========================= -->
+
+      <button
+        class="ordenacao"
+        id="ordenar-menor"
+        type="button"
+        title="Menor preço"
+        aria-label="Ordenar do menor para o maior preço"
+      >
+        ↑
+      </button>
+
+      <button
+        class="ordenacao"
+        id="ordenar-maior"
+        type="button"
+        title="Maior preço"
+        aria-label="Ordenar do maior para o menor preço"
+      >
+        ↓
+      </button>
+
+    </div>
+
+
+    <!-- =========================
+         PRODUTOS
+         ========================= -->
+
+    <div id="lista-produtos"></div>
+
+
+    <!-- =========================
+         PAGINAÇÃO
+         ========================= -->
+
+    <div id="paginacao"></div>
+
+  </main>
+
+
+
+  <!-- =========================
+       RODAPÉ
+       ========================= -->
+
+  <footer class="rodape">
+
+    <div class="rodape-conteudo">
+
+      <h3>
+        Catálogo de Móveis
+      </h3>
+
+      <p>
+        Entre em contato para mais informações.
+      </p>
+
+      <p class="copyright">
+        © 2026 - Todos os direitos reservados.
+      </p>
+
+    </div>
+
+  </footer>
+
+
+
+  <!-- =========================
+       MODAL DE DETALHES
+       ========================= -->
+
+  <div
+    class="modal-produto"
+    id="modal-produto"
+  >
+
+    <div class="modal-conteudo">
+
+
+      <button
+        class="fechar-modal"
+        id="fechar-modal"
+        type="button"
+        aria-label="Fechar"
+      >
+        ×
+      </button>
+
+
+      <h2 id="modal-nome"></h2>
+
+
+      <!-- =========================
+           GALERIA
+           ========================= -->
+
+      <div class="galeria-produto">
+
+        <img
+          id="modal-imagem"
+          src=""
+          alt=""
+        >
+
+
+        <div
+          class="modal-miniaturas"
+          id="modal-miniaturas"
+        ></div>
 
       </div>
 
-    </footer>
+
+      <!-- =========================
+           DESCRIÇÃO
+           ========================= -->
+
+      <p id="modal-descricao"></p>
+
+
+      <!-- =========================
+           PREÇO
+           ========================= -->
+
+      <p id="modal-preco"></p>
+
+
+      <!-- =========================
+           WHATSAPP
+           ========================= -->
+
+      <a
+        id="modal-whatsapp"
+        class="botao-whatsapp"
+        href="#"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+
+        <i class="fa-brands fa-whatsapp"></i>
+
+        Tenho interesse
+
+      </a>
+
+
+    </div>
+
+  </div>
 
 
 
-    <script src="produtos.js"></script>
+  <!-- =========================
+       PRODUTOS
+       ========================= -->
 
-    <script src="script.js"></script>
+  <script src="produtos.js"></script>
 
-  </body>
+
+  <!-- =========================
+       SCRIPT PRINCIPAL
+       ========================= -->
+
+  <script src="script.js"></script>
+
+
+</body>
 
 </html>

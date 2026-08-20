@@ -27,28 +27,28 @@ function mostrarProdutos(categoria, pagina = 1) {
 
   listaProdutos.innerHTML = "";
 
-const textoBusca = campoBusca.value
-  .toLowerCase()
-  .normalize("NFD")
-  .replace(/[\u0300-\u036f]/g, "");
-
-const produtosFiltrados = produtos.filter(function(produto) {
-
-  const nomeProduto = produto.nome
+  const textoBusca = campoBusca.value
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
 
-  const correspondeBusca =
-    nomeProduto.includes(textoBusca);
+  const produtosFiltrados = produtos.filter(function(produto) {
 
-  const correspondeCategoria =
-    categoria === "Todos" ||
-    produto.categoria === categoria;
+    const nomeProduto = produto.nome
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
 
-  return correspondeBusca && correspondeCategoria;
-});
+    const correspondeBusca =
+      nomeProduto.includes(textoBusca);
+
+    const correspondeCategoria =
+      categoria === "Todos" ||
+      produto.categoria === categoria;
+
+    return correspondeBusca && correspondeCategoria;
   });
+
 
   const inicio = (pagina - 1) * PRODUTOS_POR_PAGINA;
   const fim = inicio + PRODUTOS_POR_PAGINA;
@@ -262,6 +262,11 @@ botoes.forEach(function(botao) {
     mostrarProdutos(categoriaSelecionada, 1);
   });
 
+});
+
+
+campoBusca.addEventListener("input", function() {
+  mostrarProdutos(categoriaAtual, 1);
 });
 
 

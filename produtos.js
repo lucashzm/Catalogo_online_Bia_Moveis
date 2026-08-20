@@ -366,7 +366,7 @@ const produtos = [
     imagem: "imagens/mesas/Conjunto Sala Jantar Luiza Tmp Retangular 110 Off White com 4 Cds Delta Mel Savana.jpg",
     descricao: "Conjunto Mesa Sala de Jantar Luiza Tampo 110 Off White com 4 Cadeiras Delta Mel Savana",
     detalhes: "Conjunto Sala de Jantar Luiza 110 com 4 Cadeiras Delta, da Sonetto Móveis, cor Mel/Savana. Mesa: Alt. 0,787 m, Larg. 1,10 m, Prof. 0,75 m, peso 12,90 kg. Cadeiras: Alt. 0,905 m, Larg. 0,40 m, Prof. 0,40 m, peso 4,20 kg cada. Estrutura mista em MDP/MDF 9 mm, 12 mm e 15 mm. Tampo em MDF 15 mm serigrafado Off White e base em V de MDP 12 mm. Cadeiras em MDF 15 mm, com estofamento em espuma D12 e revestimento em Courino Savana. Sapatas plásticas de PVC e acabamento em pintura UV semibrilho.",
-    preco: "R$ 899,00"
+    preco: "R$ 749,00"
   },
 
   {

@@ -1,25 +1,30 @@
 <!DOCTYPE html>
 <html>
+
   <head>
+
     <title>Bia Moveis</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
     <link
-      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap"
       rel="stylesheet"
     >
 
     <link rel="stylesheet" href="style.css">
 
     <link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
-      >
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    >
+
   </head>
 
+
   <body>
+
 
     <header class="cabecalho">
 
@@ -41,16 +46,43 @@
 
       </div>
 
+
       <div class="logo">
-        <img src="imagens/Decoralar.png" alt="Decoralar">
+
+        <img
+          src="imagens/Decoralar.png"
+          alt="Decoralar"
+        >
+
       </div>
 
     </header>
 
 
+
     <section class="catalogo">
 
       <h2>Catálogo de Móveis</h2>
+
+<!-- BUSCA -->
+
+<div class="busca-produtos">
+
+  <i class="fa-solid fa-magnifying-glass"></i>
+
+  <input
+    type="text"
+    id="campo-busca"
+    placeholder="Pesquisar por nome do produto..."
+    autocomplete="off"
+  >
+
+</div>
+  >
+
+</div>
+
+<!-- FILTROS -->
 
 
       <!-- FILTROS -->
@@ -69,6 +101,7 @@
       </div>
 
 
+
       <!-- PRODUTOS -->
 
       <div id="lista-produtos"></div>
@@ -78,38 +111,63 @@
     </section>
 
 
+
     <!-- JANELA DE DETALHES DO PRODUTO -->
 
     <div id="modal-produto" class="modal-produto">
 
       <div class="modal-conteudo">
 
-        <button id="fechar-modal" class="fechar-modal">
+        <button
+          id="fechar-modal"
+          class="fechar-modal"
+        >
           &times;
         </button>
 
+
         <h2 id="modal-nome"></h2>
 
-        <img id="modal-imagem" src="" alt="">
+
+        <div class="galeria-produto">
+
+          <img
+            id="modal-imagem"
+            src=""
+            alt=""
+          >
+
+          <div
+            id="modal-miniaturas"
+            class="modal-miniaturas"
+          ></div>
+
+        </div>
+
 
         <p id="modal-descricao"></p>
 
         <p id="modal-preco"></p>
 
- <a
-  id="modal-whatsapp"
-  class="botao-whatsapp"
-  href="#"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  <i class="fa-brands fa-whatsapp"></i>
-  Tenho interesse
-</a>
+
+        <a
+          id="modal-whatsapp"
+          class="botao-whatsapp"
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+
+          <i class="fa-brands fa-whatsapp"></i>
+
+          Tenho interesse
+
+        </a>
 
       </div>
 
     </div>
+
 
 
     <!-- RODAPÉ -->
@@ -142,8 +200,11 @@
     </footer>
 
 
+
     <script src="produtos.js"></script>
+
     <script src="script.js"></script>
 
   </body>
+
 </html>

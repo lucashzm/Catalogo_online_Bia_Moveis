@@ -431,6 +431,18 @@ h1 span:last-child {
   .cabecalho {
     padding: 25px 8px 15px;
     gap: 10px;
+
+    /* =========================
+       ALTERAÇÃO NOVA
+       ========================= */
+
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .informacoes {
+    text-align: center;
+    width: 100%;
   }
 
   h1 {
@@ -444,10 +456,11 @@ h1 span:last-child {
   .destaques {
     gap: 8px;
     flex-wrap: wrap;
+    justify-content: center;
   }
 
   .logo {
-    flex: 0 0 80px;
+    flex: none;
   }
 
   .logo img {
@@ -483,7 +496,7 @@ h1 span:last-child {
     font-size: 14px;
   }
 
- /* =========================
+  /* =========================
      FILTROS NO CELULAR
      ========================= */
 

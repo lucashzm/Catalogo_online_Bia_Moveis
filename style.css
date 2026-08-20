@@ -483,32 +483,32 @@ h1 span:last-child {
     font-size: 14px;
   }
 
-  /* =========================
+ /* =========================
      FILTROS NO CELULAR
      ========================= */
 
   .filtros {
-    gap: 4px;
+    gap: 7px;
 
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 
     justify-content: center;
 
     width: 100%;
 
-    overflow: hidden;
+    overflow: visible;
   }
 
   .filtro {
-    padding: 7px 8px;
+    padding: 8px 11px;
 
-    font-size: 10px;
+    font-size: 11px;
 
     border-radius: 20px;
 
     white-space: nowrap;
 
-    flex-shrink: 1;
+    flex-shrink: 0;
   }
 
   /* =========================
@@ -516,17 +516,17 @@ h1 span:last-child {
      ========================= */
 
   .ordenacao {
-    width: 28px;
-    height: 28px;
+    width: 32px;
+    height: 32px;
 
-    min-width: 28px;
-    min-height: 28px;
+    min-width: 32px;
+    min-height: 32px;
 
     padding: 0;
 
-    font-size: 12px;
+    font-size: 13px;
 
-    border-radius: 16px;
+    border-radius: 18px;
 
     flex-shrink: 0;
   }

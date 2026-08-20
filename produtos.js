@@ -393,7 +393,7 @@ const produtos = [
     imagem: "imagens/mesas/Sala Magic 120 Mel.Blonde com 4 Cadeiras Sol Mel Cinza Veludo Grafite.jpg",
     descricao: "Conjunto Mesa Sala Magic 120 Mel Blonde com 4 Cadeiras Sol Me Cinza Veludo Grafite",
     detalhes: "Sala Magic 120x80 com 4 Cadeiras Sol, da Viero, cor Mel/Blonde, com Veludo Grafite. Mesa: Alt. 0,79 m, Larg. 1,20 m, Prof. 0,80 m. Cadeiras: Alt. 0,885 m, Larg. 0,385 m, Prof. 0,435 m. Peso total: 48,1 kg. Mesa com estrutura em MDF/MDP, tampo em MDF 25 mm laqueado Off White e base em MDP. Suporta até 50 kg. Cadeiras com estrutura em MDF/MDP, assento e encosto em espuma D16, revestidos em Veludo Grafite. Suportam até 80 kg. Acabamento UV semibrilho.",
-    preco: "R$ 1.099,99"
+    preco: "R$ 999,99"
   },
 
   {

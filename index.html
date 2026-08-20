@@ -1,352 +1,752 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+
+/* =========================
+   CABEÇALHO
+   ========================= */
+
+.cabecalho {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px 20px 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
+
+.informacoes {
+  text-align: left;
+  flex: 1;
+}
+
+h1 {
+  margin: 0;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 56px;
+  line-height: 1;
+}
+
+h1 span {
+  display: block;
+}
+
+h1 span:first-child {
+  color: #222;
+}
+
+h1 span:last-child {
+  color: #a65f1b;
+  font-style: italic;
+}
+
+.subtitulo {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 24px;
+  font-style: italic;
+  color: #444;
+  max-width: 500px;
+  margin: 18px 0;
+}
+
+.destaques {
+  display: flex;
+  gap: 35px;
+  margin-top: 25px;
+  font-weight: bold;
+  color: #222;
+}
+
+.destaques div {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* =========================
+   LOGO DO CABEÇALHO
+   ========================= */
+
+.logo {
+  flex: 0 0 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  width: 240px;
+  height: auto;
+  object-fit: contain;
+}
+
+/* =========================
+   CATÁLOGO
+   ========================= */
+
+.catalogo {
+  max-width: 1100px;
+  margin: 35px auto;
+}
+
+.catalogo h2 {
+  text-align: center;
+  color: #3f3f3f;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  margin: 0 0 22px;
+}
 
-<head>
+/* =========================
+   BUSCA DE PRODUTOS
+   ========================= */
 
-  <meta charset="UTF-8">
+.busca-produtos {
+  display: flex;
+  align-items: center;
 
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0"
-  >
+  width: 100%;
+  max-width: 520px;
 
-  <title>Catálogo de Móveis</title>
+  margin: 0 auto 22px;
 
-  <!-- Google Fonts -->
+  box-sizing: border-box;
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
+  background-color: white;
 
-  <link
-    rel="preconnect"
-    href="https://fonts.gstatic.com"
-    crossorigin
-  >
+  border: 1px solid #d8d8d8;
+  border-radius: 30px;
 
-  <link
-    href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap"
-    rel="stylesheet"
-  >
+  padding: 0 18px;
 
-  <!-- Font Awesome -->
-
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
-  >
-
-  <!-- CSS -->
-
-  <link
-    rel="stylesheet"
-    href="style.css"
-  >
-
-</head>
-
-
-<body>
-
-
-  <!-- =========================
-       CABEÇALHO
-       ========================= -->
-
-  <header class="cabecalho">
-
-    <div class="informacoes">
-
-      <h1>
-        <span>Catálogo</span>
-        <span>de Móveis</span>
-      </h1>
-
-      <p class="subtitulo">
-        Qualidade, conforto e estilo para transformar seu ambiente.
-      </p>
-
-      <div class="destaques">
-
-        <div>
-          <i class="fa-solid fa-couch"></i>
-          Qualidade
-        </div>
-
-        <div>
-          <i class="fa-solid fa-house"></i>
-          Conforto
-        </div>
-
-        <div>
-          <i class="fa-solid fa-star"></i>
-          Estilo
-        </div>
-
-      </div>
-
-    </div>
-
-
-    <div class="logo">
-
-      <img
-        src="imagens/logo.png"
-        alt="Logo"
-      >
-
-    </div>
-
-  </header>
-
-
-
-  <!-- =========================
-       CATÁLOGO
-       ========================= -->
-
-  <main class="catalogo">
-
-    <img
-      src="imagens/logo-catalogo.png"
-      alt="Catálogo de Móveis"
-      class="logo-catalogo"
-    >
-
-
-    <h2>Catálogo de Móveis</h2>
-
-
-    <!-- =========================
-         BUSCA
-         ========================= -->
-
-    <div class="busca-produtos">
-
-      <i class="fa-solid fa-magnifying-glass"></i>
-
-      <input
-        type="text"
-        id="campo-busca"
-        placeholder="Pesquisar por nome do produto..."
-        autocomplete="off"
-      >
-
-    </div>
-
-
-    <!-- =========================
-         FILTROS
-         ========================= -->
-
-    <div class="filtros">
-
-      <button
-        class="filtro ativo"
-      >
-        Todos
-      </button>
-
-      <button
-        class="filtro"
-      >
-        Sofás
-      </button>
-
-      <button
-        class="filtro"
-      >
-        Roupeiros
-      </button>
-
-      <button
-        class="filtro"
-      >
-        Cômodas
-      </button>
-
-      <button
-        class="filtro"
-      >
-        Cozinhas
-      </button>
-
-      <button
-        class="filtro"
-      >
-        Mesas
-      </button>
-
-      <button
-        class="filtro"
-      >
-        Painéis/Racks
-      </button>
-
-      <button
-        class="filtro"
-      >
-        Camas/Colchões/Box
-      </button>
-
-
-   <!-- =========================
-     ORDENAÇÃO POR PREÇO
-     ========================= -->
-
-<button
-  class="ordenacao"
-  id="ordenar-preco"
-  type="button"
-  title="Ordenar por preço"
-  aria-label="Alternar ordenação por preço"
->
-  <span>↑</span><span>↓</span>
-</button>
-
-    </div>
-
-
-    <!-- =========================
-         PRODUTOS
-         ========================= -->
-
-    <div id="lista-produtos"></div>
-
-
-    <!-- =========================
-         PAGINAÇÃO
-         ========================= -->
-
-    <div id="paginacao"></div>
-
-  </main>
-
-
-
-  <!-- =========================
-       RODAPÉ
-       ========================= -->
-
-  <footer class="rodape">
-
-    <div class="rodape-conteudo">
-
-      <h3>
-        Catálogo de Móveis
-      </h3>
-
-      <p>
-        Entre em contato para mais informações.
-      </p>
-
-      <p class="copyright">
-        © 2026 - Todos os direitos reservados.
-      </p>
-
-    </div>
-
-  </footer>
-
-
-
-  <!-- =========================
-       MODAL DE DETALHES
-       ========================= -->
-
-  <div
-    class="modal-produto"
-    id="modal-produto"
-  >
-
-    <div class="modal-conteudo">
-
-
-      <button
-        class="fechar-modal"
-        id="fechar-modal"
-        type="button"
-        aria-label="Fechar"
-      >
-        ×
-      </button>
-
-
-      <h2 id="modal-nome"></h2>
-
-
-      <!-- =========================
-           GALERIA
-           ========================= -->
-
-      <div class="galeria-produto">
-
-        <img
-          id="modal-imagem"
-          src=""
-          alt=""
-        >
-
-
-        <div
-          class="modal-miniaturas"
-          id="modal-miniaturas"
-        ></div>
-
-      </div>
-
-
-      <!-- =========================
-           DESCRIÇÃO
-           ========================= -->
-
-      <p id="modal-descricao"></p>
-
-
-      <!-- =========================
-           PREÇO
-           ========================= -->
-
-      <p id="modal-preco"></p>
-
-
-      <!-- =========================
-           WHATSAPP
-           ========================= -->
-
-      <a
-        id="modal-whatsapp"
-        class="botao-whatsapp"
-        href="#"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-
-        <i class="fa-brands fa-whatsapp"></i>
-
-        Tenho interesse
-
-      </a>
-
-
-    </div>
-
-  </div>
-
-
-
-  <!-- =========================
-       PRODUTOS
-       ========================= -->
-
-  <script src="produtos.js"></script>
-
-
-  <!-- =========================
-       SCRIPT PRINCIPAL
-       ========================= -->
-
-  <script src="script.js"></script>
-
-
-</body>
-
-</html>
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+
+  transition:
+    border-color 0.2s,
+    box-shadow 0.2s;
+}
+
+.busca-produtos i {
+  color: #a65f1b;
+  font-size: 16px;
+
+  margin-right: 10px;
+
+  flex-shrink: 0;
+}
+
+#campo-busca {
+  width: 100%;
+
+  box-sizing: border-box;
+
+  padding: 13px 0;
+
+  background: transparent;
+
+  border: none;
+  outline: none;
+
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+
+  color: #333;
+}
+
+#campo-busca::placeholder {
+  color: #999;
+}
+
+.busca-produtos:focus-within {
+  border-color: #a65f1b;
+
+  box-shadow:
+    0 2px 10px rgba(0, 0, 0, 0.06),
+    0 0 0 3px rgba(166, 95, 27, 0.08);
+}
+
+/* =========================
+   FILTROS
+   ========================= */
+
+.filtros {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.filtro {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 25px;
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #222;
+  transition: 0.2s;
+}
+
+.filtro:hover {
+  background-color: #f0f0f0;
+}
+
+.filtro.ativo {
+  background-color: #a65f1b;
+  color: white;
+  border-color: #a65f1b;
+}
+
+/* =========================
+   GRADE DE PRODUTOS
+   ========================= */
+
+#lista-produtos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+
+/* =========================
+   CARD DO PRODUTO
+   ========================= */
+
+.produto {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  box-sizing: border-box;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.produto:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+.produto h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 18px;
+  margin: 0 0 18px;
+  color: #222;
+  min-height: 44px;
+}
+
+.produto img {
+  width: 100%;
+  max-width: 260px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.produto p {
+  color: #555;
+  margin: 14px 0 8px;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.produto strong {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 6px 14px;
+
+  color: green;
+  background-color: #fff4e8;
+
+  border-radius: 20px;
+
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+/* =========================
+   TELAS MENORES
+   ========================= */
+
+@media (max-width: 900px) {
+
+  .cabecalho {
+    padding-top: 30px;
+    gap: 20px;
+  }
+
+  h1 {
+    font-size: 48px;
+  }
+
+  .logo {
+    flex: 0 0 140px;
+  }
+
+  .logo img {
+    width: 120px;
+  }
+
+  .catalogo h2 {
+    font-size: 30px;
+  }
+
+  #lista-produtos {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+
+  .produto {
+    padding: 12px;
+  }
+
+  .produto h3 {
+    font-size: 16px;
+  }
+
+  .produto img {
+    height: 180px;
+  }
+}
+
+/* =========================
+   CELULAR
+   ========================= */
+
+@media (max-width: 600px) {
+
+  body {
+    padding: 8px;
+  }
+
+  .cabecalho {
+    padding: 25px 8px 15px;
+    gap: 10px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  .subtitulo {
+    font-size: 18px;
+  }
+
+  .destaques {
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .logo {
+    flex: 0 0 80px;
+  }
+
+  .logo img {
+    width: 70px;
+  }
+
+  .catalogo {
+    margin-top: 25px;
+  }
+
+  .logo-catalogo {
+    width: 100px;
+    height: auto;
+    margin: 0 auto 15px;
+  }
+
+  .catalogo h2 {
+    font-size: 23px;
+    margin-bottom: 18px;
+  }
+
+  /* BUSCA NO CELULAR */
+
+  .busca-produtos {
+    margin-bottom: 15px;
+  }
+
+  #campo-busca {
+    max-width: 100%;
+    padding: 11px 15px;
+    font-size: 14px;
+  }
+
+  .filtros {
+    gap: 6px;
+  }
+
+  .filtro {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  /* Mantém 3 produtos por linha */
+
+  #lista-produtos {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+
+  .produto {
+    padding: 8px;
+    border-radius: 8px;
+  }
+
+  .produto h3 {
+    font-size: 13px;
+    margin-bottom: 8px;
+    min-height: 34px;
+  }
+
+  .produto img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+
+  .produto p {
+    color: #555;
+    margin: 14px 0 8px;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 1.4;
+  }
+
+  .produto strong {
+    font-size: 13px;
+  }
+
+}
+
+.logo-catalogo {
+  display: block;
+  width: 600px;
+  height: auto;
+  margin: 0 auto 20px;
+  object-fit: contain;
+}
+
+/* =========================
+   PAGINAÇÃO
+   ========================= */
+
+#paginacao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 35px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+#paginacao button {
+  background-color: white;
+  color: #222;
+  border: 1px solid #ddd;
+  border-radius: 25px;
+  padding: 12px 20px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+  min-width: 48px;
+  min-height: 44px;
+}
+
+#paginacao button:hover {
+  background-color: #f0f0f0;
+}
+
+#paginacao button.ativo {
+  background-color: #a65f1b;
+  color: white;
+  border-color: #a65f1b;
+}
+
+/* =========================
+   RODAPÉ
+   ========================= */
+
+.rodape {
+  max-width: 1100px;
+  margin: 20px auto 0;
+  padding: 12px 20px;
+  border-top: 1px solid #ddd;
+  color: #555;
+  font-size: 11px;
+}
+
+.rodape-conteudo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+}
+
+.rodape h3 {
+  margin: 0;
+  font-size: 12px;
+  color: #333;
+}
+
+.rodape p {
+  margin: 0;
+}
+
+.rodape .copyright {
+  width: 100%;
+  text-align: center;
+  margin-top: 4px;
+  font-size: 10px;
+  color: #777;
+}
+
+/* =========================
+   JANELA DE DETALHES
+   ========================= */
+
+.modal-produto {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.55);
+
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.modal-produto.aberto {
+  display: flex;
+}
+
+.modal-conteudo {
+  position: relative;
+
+  width: 100%;
+  max-width: 600px;
+  max-height: 90vh;
+
+  overflow-y: auto;
+
+  background-color: white;
+  border-radius: 14px;
+
+  padding: 30px;
+  box-sizing: border-box;
+
+  text-align: center;
+
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.2);
+}
+
+.modal-conteudo h2 {
+  margin: 0 40px 20px;
+
+  font-family: "Playfair Display", Georgia, serif;
+
+  font-size: 28px;
+  line-height: 1.2;
+
+  color: #222;
+}
+
+.modal-conteudo img {
+  width: 100%;
+  max-width: 500px;
+  max-height: 400px;
+
+  object-fit: contain;
+
+  border-radius: 10px;
+}
+
+/* =========================
+   GALERIA DE IMAGENS
+   ========================= */
+
+.galeria-produto {
+  width: 100%;
+}
+
+.modal-miniaturas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+
+  margin-top: 12px;
+
+  flex-wrap: wrap;
+}
+
+.modal-miniaturas img {
+  width: 70px;
+  height: 55px;
+
+  object-fit: cover;
+
+  border-radius: 6px;
+
+  border: 2px solid transparent;
+
+  cursor: pointer;
+
+  opacity: 0.7;
+
+  transition: 0.2s;
+}
+
+.modal-miniaturas img:hover {
+  opacity: 1;
+}
+
+.modal-miniaturas img.ativa {
+  border-color: #a65f1b;
+  opacity: 1;
+}
+
+.modal-conteudo p {
+  color: #444;
+  font-family: "Lora", Georgia, serif;
+  font-size: 16px;
+  line-height: 1.7;
+  max-width: 500px;
+  margin: 18px auto;
+}
+
+.modal-conteudo #modal-preco {
+  display: block;
+  width: fit-content;
+
+  margin: 20px auto 0;
+  padding: 8px 18px;
+
+  color: green;
+  background-color: #fff4e8;
+
+  border-radius: 20px;
+
+  font-size: 26px;
+  font-weight: bold;
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.fechar-modal {
+  position: absolute;
+  top: 12px;
+  right: 15px;
+
+  width: 38px;
+  height: 38px;
+
+  border: none;
+  border-radius: 50%;
+
+  background-color: #f5f5f5;
+  color: #555;
+
+  font-size: 25px;
+  line-height: 1;
+
+  cursor: pointer;
+}
+
+.fechar-modal:hover {
+  background-color: #a65f1b;
+  color: white;
+}
+
+
+/* =========================
+   MODAL NO CELULAR
+   ========================= */
+
+@media (max-width: 600px) {
+
+  .modal-produto {
+    padding: 10px;
+  }
+
+  .modal-conteudo {
+    max-height: 92vh;
+    padding: 22px 16px;
+    border-radius: 12px;
+  }
+
+  .modal-conteudo h2 {
+    font-size: 22px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .modal-conteudo img {
+    max-height: 300px;
+  }
+
+  .modal-miniaturas img {
+    width: 58px;
+    height: 46px;
+  }
+
+  .modal-conteudo p {
+    font-size: 14px;
+  }
+
+  .modal-conteudo #modal-preco {
+    font-size: 20px;
+  }
+
+}
+
+.botao-whatsapp {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  margin-top: 8px;
+  padding: 12px 22px;
+
+  background-color: #a65f1b;
+  color: white;
+
+  border: none;
+  border-radius: 25px;
+
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+
+  text-decoration: none;
+  cursor: pointer;
+
+  transition: 0.2s;
+}
+
+.botao-whatsapp:hover {
+  background-color: #8f5017;
+  transform: translateY(-1px);
+}
+
+.botao-whatsapp i {
+  color: #25D366;
+  font-size: 19px;
+}

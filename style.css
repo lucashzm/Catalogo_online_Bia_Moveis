@@ -101,75 +101,7 @@ h1 span:last-child {
   font-size: 34px;
   font-weight: 700;
   letter-spacing: 0.5px;
-  margin: 0 0 22px;
-}
-
-/* =========================
-   BUSCA DE PRODUTOS
-   ========================= */
-
-.busca-produtos {
-  display: flex;
-  align-items: center;
-
-  width: 100%;
-  max-width: 520px;
-
-  margin: 0 auto 22px;
-
-  box-sizing: border-box;
-
-  background-color: white;
-
-  border: 1px solid #d8d8d8;
-  border-radius: 30px;
-
-  padding: 0 18px;
-
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-
-  transition:
-    border-color 0.2s,
-    box-shadow 0.2s;
-}
-
-.busca-produtos i {
-  color: #a65f1b;
-  font-size: 16px;
-
-  margin-right: 10px;
-
-  flex-shrink: 0;
-}
-
-#campo-busca {
-  width: 100%;
-
-  box-sizing: border-box;
-
-  padding: 13px 0;
-
-  background: transparent;
-
-  border: none;
-  outline: none;
-
-  font-family: Arial, sans-serif;
-  font-size: 15px;
-
-  color: #333;
-}
-
-#campo-busca::placeholder {
-  color: #999;
-}
-
-.busca-produtos:focus-within {
-  border-color: #a65f1b;
-
-  box-shadow:
-    0 2px 10px rgba(0, 0, 0, 0.06),
-    0 0 0 3px rgba(166, 95, 27, 0.08);
+  margin: 0 0 28px;
 }
 
 /* =========================
@@ -260,17 +192,8 @@ h1 span:last-child {
 }
 
 .produto strong {
-  display: inline-block;
-  margin-top: 8px;
-  padding: 6px 14px;
-
   color: green;
-  background-color: #fff4e8;
-
-  border-radius: 20px;
-
-  font-size: 1.25em;
-  font-weight: bold;
+  font-size: 1.2em;
 }
 
 /* =========================
@@ -366,19 +289,7 @@ h1 span:last-child {
 
   .catalogo h2 {
     font-size: 23px;
-    margin-bottom: 18px;
-  }
-
-  /* BUSCA NO CELULAR */
-
-  .busca-produtos {
-    margin-bottom: 15px;
-  }
-
-  #campo-busca {
-    max-width: 100%;
-    padding: 11px 15px;
-    font-size: 14px;
+    margin-bottom: 22px;
   }
 
   .filtros {
@@ -391,7 +302,6 @@ h1 span:last-child {
   }
 
   /* Mantém 3 produtos por linha */
-
   #lista-produtos {
     grid-template-columns: repeat(3, 1fr);
     gap: 8px;
@@ -416,11 +326,11 @@ h1 span:last-child {
   }
 
   .produto p {
-    color: #555;
-    margin: 14px 0 8px;
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 15px;
-    line-height: 1.4;
+  color: #555;
+  margin: 14px 0 8px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 15px;
+  line-height: 1.4;
   }
 
   .produto strong {
@@ -428,7 +338,6 @@ h1 span:last-child {
   }
 
 }
-
 .logo-catalogo {
   display: block;
   width: 600px;
@@ -577,76 +486,17 @@ h1 span:last-child {
   border-radius: 10px;
 }
 
-/* =========================
-   GALERIA DE IMAGENS
-   ========================= */
-
-.galeria-produto {
-  width: 100%;
-}
-
-.modal-miniaturas {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
-
-  margin-top: 12px;
-
-  flex-wrap: wrap;
-}
-
-.modal-miniaturas img {
-  width: 70px;
-  height: 55px;
-
-  object-fit: cover;
-
-  border-radius: 6px;
-
-  border: 2px solid transparent;
-
-  cursor: pointer;
-
-  opacity: 0.7;
-
-  transition: 0.2s;
-}
-
-.modal-miniaturas img:hover {
-  opacity: 1;
-}
-
-.modal-miniaturas img.ativa {
-  border-color: #a65f1b;
-  opacity: 1;
-}
-
 .modal-conteudo p {
-  color: #444;
-  font-family: "Lora", Georgia, serif;
-  font-size: 16px;
-  line-height: 1.7;
-  max-width: 500px;
-  margin: 18px auto;
+  color: #555;
+  font-size: 15px;
+  line-height: 1.5;
 }
 
-.modal-conteudo #modal-preco {
-  display: block;
-  width: fit-content;
-
-  margin: 20px auto 0;
-  padding: 8px 18px;
-
-  color: green;
-  background-color: #fff4e8;
-
-  border-radius: 20px;
-
-  font-size: 26px;
+.modal-conteudo p:last-child {
+  color: #a65f1b;
+  font-size: 22px;
   font-weight: bold;
-
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  margin-top: 20px;
 }
 
 .fechar-modal {
@@ -701,52 +551,12 @@ h1 span:last-child {
     max-height: 300px;
   }
 
-  .modal-miniaturas img {
-    width: 58px;
-    height: 46px;
-  }
-
   .modal-conteudo p {
     font-size: 14px;
   }
 
-  .modal-conteudo #modal-preco {
+  .modal-conteudo p:last-child {
     font-size: 20px;
   }
 
-}
-
-.botao-whatsapp {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-
-  margin-top: 8px;
-  padding: 12px 22px;
-
-  background-color: #a65f1b;
-  color: white;
-
-  border: none;
-  border-radius: 25px;
-
-  font-family: Arial, sans-serif;
-  font-size: 15px;
-  font-weight: bold;
-
-  text-decoration: none;
-  cursor: pointer;
-
-  transition: 0.2s;
-}
-
-.botao-whatsapp:hover {
-  background-color: #8f5017;
-  transform: translateY(-1px);
-}
-
-.botao-whatsapp i {
-  color: #25D366;
-  font-size: 19px;
 }

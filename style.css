@@ -89,8 +89,9 @@ h1 span:last-child {
 .logo {
   flex: 0 0 260px;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: flex-start;
+
 }
 
 .logo img {

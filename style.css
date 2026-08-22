@@ -380,7 +380,7 @@ h1 span:last-child {
 }
 
 .logo img {
-  width: 100px;
+  width: 100px; !important;
 }
   
   .catalogo {

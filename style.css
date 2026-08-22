@@ -102,7 +102,7 @@ h1 span:last-child {
   width: 300px;
   height: auto;
   object-fit: contain;
-  transform: translateY(-120px);
+  transform: translateY(-200px);
 }
 
 /* =========================

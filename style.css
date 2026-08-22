@@ -94,7 +94,7 @@ h1 span:last-child {
 
 .logo {
   position: absolute;
-  right: 20px;
+  right: -60px;
   top: 20px;
 }
 
@@ -781,24 +781,5 @@ h1 span:last-child {
   font-size: 19px;
 }
 
-@media (max-width: 600px) {
-
-  .logo {
-    position: absolute !important;
-    right: -40px !important;
-    top: 20px !important;
-  }
-
-  .logo img {
-    width: 100px !important;
-  }
-
-}
-
-@media (max-width: 600px) {
-
-  .logo {
-    background-color: red !important;
-  }
 
 }

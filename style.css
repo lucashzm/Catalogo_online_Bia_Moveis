@@ -96,13 +96,14 @@ h1 span:last-child {
   display: flex;
   justify-content: flex-end;
   align-items: flex-start;
+  position: relative;
+  top: -60px;
 }
 
 .logo img {
   width: 300px;
   height: auto;
   object-fit: contain;
-  transform: translateY(-200px);
 }
 
 /* =========================

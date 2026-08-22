@@ -97,7 +97,7 @@ h1 span:last-child {
   justify-content: flex-end;
   align-items: flex-start;
   position: relative;
-  top: -100px;
+  top: -200px;
 }
 
 .logo img {

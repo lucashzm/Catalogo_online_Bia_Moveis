@@ -59,7 +59,7 @@ h1 span:last-child {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  margin-top: 35px;
+  margin-top: 25px;
   font-weight: bold;
   font-size: 20px;
   color: #222;

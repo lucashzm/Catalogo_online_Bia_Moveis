@@ -794,3 +794,11 @@ h1 span:last-child {
   }
 
 }
+
+@media (max-width: 600px) {
+
+  .logo {
+    background-color: red !important;
+  }
+
+}

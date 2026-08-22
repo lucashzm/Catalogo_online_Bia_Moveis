@@ -374,15 +374,15 @@ h1 span:last-child {
     flex-wrap: wrap;
   }
 
- .logo {
-  right: -20px;
+.logo {
+  right: -40px;
+  top: 20px;
+}
+
+.logo img {
+  width: 100px;
 }
   
-
-  .logo img {
-    width: 70px;
-  }
-
   .catalogo {
     margin-top: 25px;
   }

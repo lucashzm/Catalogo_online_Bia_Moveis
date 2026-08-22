@@ -67,15 +67,19 @@ h1 span:last-child {
 }
 
 .destaques div {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 10px;
-  margin-bottom: 10px;
-  transition: transform 0.2s ease;
+  padding: 8px 16px;
+  background-color: #faf7f2;
+  border-radius: 20px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  width: fit-content;
 }
 
 .destaques div:hover {
   transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
 }
 
 .destaques .fa-whatsapp {

@@ -316,8 +316,9 @@ h1 span:last-child {
   }
 
   .logo {
-    flex: 0 0 140px;
-  }
+  flex: 0 0 140px;
+  right: 10px;
+}
 
   .logo img {
     width: 120px;

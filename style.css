@@ -92,15 +92,15 @@ h1 span:last-child {
    ========================= */
 
 .logo {
-  flex: 0 0 260px;
+  flex: 0 0 300px;
   display: flex;
   justify-content: flex-end;
   align-items: flex-start;
-
+  padding-top: 10px;
 }
 
 .logo img {
-  width: 240px;
+  width: 300px;
   height: auto;
   object-fit: contain;
 }

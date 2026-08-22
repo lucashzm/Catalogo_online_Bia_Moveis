@@ -374,9 +374,10 @@ h1 span:last-child {
     flex-wrap: wrap;
   }
 
-  .logo {
-    flex: 0 0 80px;
-  }
+ .logo {
+  right: -20px;
+}
+  
 
   .logo img {
     width: 70px;
@@ -723,6 +724,7 @@ h1 span:last-child {
     font-size: 22px;
     margin-left: 30px;
     margin-right: 30px;
+  
   }
 
   .modal-conteudo img {

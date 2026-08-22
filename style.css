@@ -19,7 +19,7 @@ body {
   align-items: flex-start;
   gap: 40px;
   flex-wrap: nowrap;
-  overflow: visible;
+  position: relative;
 }
 
 .informacoes {

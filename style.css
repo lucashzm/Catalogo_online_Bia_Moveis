@@ -780,3 +780,17 @@ h1 span:last-child {
   color: #25D366;
   font-size: 19px;
 }
+
+@media (max-width: 600px) {
+
+  .logo {
+    position: absolute !important;
+    right: -40px !important;
+    top: 20px !important;
+  }
+
+  .logo img {
+    width: 100px !important;
+  }
+
+}
